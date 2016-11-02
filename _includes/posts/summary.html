@@ -1,0 +1,20 @@
+<a class="post-summary" href="{{ include.post.url | prepend: site.baseurl }}">
+  <span class="post-summary-title">{{ include.post.title }}</span>
+
+  <span class="post-summary-meta">
+    {% assign day = include.post.date | date: "%-d"  %}
+    {% case day %}
+      {% when '1' or '21' or '31' %}{{ day }}st
+      {% when '2' or '22' %}{{ day }}nd
+      {% when '3' or '23' %}{{ day }}rd
+      {% else %}{{ day }}th
+    {% endcase %}
+    {{ include.post.date | date: " %B %Y" }}
+  </span>
+
+  <p class="post-summary-description">
+    {{ include.post.excerpt | strip_html }}
+  </p>
+
+  <span class="post-summary-cta">Read more &raquo;</span>
+</a>

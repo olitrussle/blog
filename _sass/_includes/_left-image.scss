@@ -1,0 +1,9 @@
+.left-image {
+  display: block;
+  margin: 0 auto $tsl-space-small auto;
+
+  @include for-medium-up {
+    float: left;
+    margin: 0 $tsl-space-small $tsl-space-small 0;
+  }
+}

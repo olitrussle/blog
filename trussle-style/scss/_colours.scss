@@ -1,0 +1,38 @@
+// Colour definitions.
+//
+// Use these using the colours directly in SASS with map-get($tsl-colours, "colour-name");
+$tsl-colours: (
+  // Primary Brand Colour.
+  primary-green: #4AC64A,
+  primary-black: #0D280A,
+  primary-deep-green: #1DB01D,
+
+  // Secondary Palette.
+  secondary-yellow: #F7DD4C,
+  secondary-blue: #7ACCC8,
+  secondary-carmine: #E86D5B,
+  secondary-lime: #99D940,
+  secondary-deep-blue: #2AB9B2,
+  secondary-orange: #EC8740,
+  secondary-dark-grey: #323232,
+  secondary-mid-grey: #747474,
+  secondary-light-grey: #999,
+
+  // Other Colours.
+  tertiary-red: #E1034C,
+  tertiary-white: #FFF
+);
+
+// Generates the classes required.
+// For a colour foo, generate .tsl-foo and .tsl-foo-bg
+@each $name, $colour in $tsl-colours {
+  .tsl-#{$name} {
+    // TODO: How can we get away from !important?
+    color: $colour !important;
+  }
+
+  .tsl-#{$name}-bg {
+    // TODO: How can we get away from !important?
+    background-color: $colour !important;
+  }
+}

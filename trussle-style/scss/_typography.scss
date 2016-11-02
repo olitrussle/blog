@@ -1,0 +1,110 @@
+// Typography definitions.
+
+@import "https://fonts.googleapis.com/css?family=Playfair+Display:700|Source+Sans+Pro:300,400,600";
+
+// Header
+$header-font-family: "Playfair Display", serif;
+$header-font-weight: 700;
+$header-font-color: map-get($tsl-colours, primary-black);
+
+.tsl-font-header {
+  color: $header-font-color;
+  font-family: $header-font-family;
+  font-weight: $header-font-weight;
+  line-height: 150%;
+}
+
+// Body
+$body-font-family: "Source Sans Pro", "Trebuchet", sans-serif;
+$body-font-weight-bold: 600;
+$body-font-weight: 400;
+$body-font-weight-light: 300;
+$body-font-color: map-get($tsl-colours, primary-black);
+
+$base-font-size: 16px;
+
+%font-body {
+  color: $body-font-color;
+  font-family: $body-font-family;
+  font-size: $base-font-size;
+  line-height: 150%;
+}
+
+.tsl-font-body-bold {
+  @extend %font-body;
+  font-weight: $body-font-weight-bold;
+}
+
+.tsl-font-body {
+  @extend %font-body;
+  font-weight: $body-font-weight;
+}
+
+.tsl-font-body-light {
+  @extend %font-body;
+  font-weight: $body-font-weight-light;
+}
+
+.trussle-style {
+  @extend .tsl-font-body;
+  font-size: $base-font-size;
+}
+
+%spacing-reset {
+  margin: 0;
+  padding: 0;
+}
+
+// The margins for the header are based on the font size.
+@mixin header-font-and-spacing($font-size) {
+  font-size: $font-size;
+  margin-bottom: $font-size / 3;
+  margin-top: $font-size * (2 / 3);
+}
+
+@include trussle-style(h1) {
+  @extend %spacing-reset, .tsl-font-header;
+  @include header-font-and-spacing($base-font-size * 3);
+}
+
+@include trussle-style(h2) {
+  @extend %spacing-reset, .tsl-font-header;
+  @include header-font-and-spacing($base-font-size * 2.5);
+}
+
+@include trussle-style(h3) {
+  @extend %spacing-reset, .tsl-font-body-bold;
+  @include header-font-and-spacing($base-font-size * 2);
+}
+
+@include trussle-style(h4) {
+  @extend %spacing-reset, .tsl-font-body-bold;
+  @include header-font-and-spacing($base-font-size * 1.5);
+}
+
+@include trussle-style(p) {
+  @extend %spacing-reset, .trussle-style;
+  margin-bottom: $base-font-size;
+}
+
+@include trussle-style(a) {
+
+  border-bottom: 1px dotted map-get($tsl-colours, primary-green);
+  color: map-get($tsl-colours, primary-green);
+  display: inline-block;
+  text-decoration: none;
+
+  &:hover {
+    border-bottom: 1px solid map-get($tsl-colours, primary-green);
+    cursor: pointer;
+  }
+
+  &.in-page {
+    border-bottom-color: map-get($tsl-colours, primary-black);
+    color: map-get($tsl-colours, primary-black);
+
+    &:hover {
+      border-bottom-color: map-get($tsl-colours, primary-black);
+    }
+  }
+}

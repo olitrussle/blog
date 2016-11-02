@@ -1,0 +1,5 @@
+<h4>Latest Blog Posts</h4>
+
+{% for post in site.posts %}
+  {% include posts/summary.html post=post %}
+{% endfor %}

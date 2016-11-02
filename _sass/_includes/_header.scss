@@ -1,0 +1,45 @@
+.site-header {
+  @include wrap-to($outer-width);
+}
+
+.site-logo-link {
+  border: 0;
+
+  @include for-small-only {
+    text-align: center;
+    width: 100%;
+  }
+
+  &:hover {
+    border: 0;
+  }
+}
+
+.site-logo {
+  margin: 24px 0;
+  width: 150px;
+}
+
+.go-to-main-site-button {
+  border: 1px solid $brand-color;
+  border-radius: 3px;
+  color: $brand-color;
+  float: right;
+  margin: 24px 0;
+  padding: 6px 10px;
+  transition: all 0.2s linear;
+
+  &:visited {
+    color: $brand-color;
+  }
+
+  &:hover {
+    border-color: map-get($tsl-colours, 'primary-black');
+    color: map-get($tsl-colours, 'primary-black');
+    text-decoration: none;
+  }
+
+  @include for-small-only {
+    display: none;
+  }
+}

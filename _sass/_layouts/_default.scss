@@ -1,0 +1,3 @@
+.page-content {
+  @include wrap-to($content-width);
+}

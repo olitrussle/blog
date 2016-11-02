@@ -1,53 +1,51 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
-
-
+@import "../trussle-style/scss/trussle-style.scss";
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
+$spacing-unit:     $tsl-space-large;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       #000;
+$background-color: #fff;
+$brand-color:      map-get($tsl-colours, 'primary-green');
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color:       map-get($tsl-colours, 'secondary-mid-grey');
+$grey-color-light: map-get($tsl-colours, 'secondary-light-grey');
+$grey-color-dark:  map-get($tsl-colours, 'secondary-dark-grey');
 
 // Width of the content area
+$outer-width:      1000px;
 $content-width:    800px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
+// Unfortunately this isn't DRY,
+// but it is necessary to get images working right!
+$base-url: "/blog";
 
 
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+$small-only: 640px;
+@mixin for-small-only {
+  @media screen and (max-width: $small-only) {
+    @content;
+  }
 }
 
-
+@mixin for-medium-up {
+  @media screen and (min-width: $small-only) {
+    @content;
+  }
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
+    "base",
+    "layout",
+    "syntax-highlighting"
 ;

@@ -1,0 +1,54 @@
+.post-header {
+  margin-bottom: $tsl-space-large;
+}
+
+.post-title {
+  @extend .tsl-h1;
+
+  @include for-small-only {
+    margin-top: $tsl-space-medium;
+    font-size: 28px;
+  }
+}
+
+.post-meta {
+  @extend .tsl-p;
+}
+
+.post-content {
+  @extend .trussle-style;
+
+  font-size: 18px;
+
+  @include for-small-only {
+    font-size: 16px;
+  }
+
+  // All the fancy post formatting
+
+  p {
+    margin-bottom: $tsl-space-medium;
+  }
+
+  blockquote {
+    clear: both;
+
+    font-size: 120%;
+    font-style: italic;
+    margin: 0;
+    padding: $tsl-space-large;
+
+    @include for-small-only {
+      padding: $tsl-space-large $tsl-space-small;
+    }
+  }
+
+  h2 {
+    @extend .tsl-h4;
+    margin: $tsl-space-large 0 $tsl-space-medium 0;
+  }
+
+  hr {
+    margin: $tsl-space-large;
+  }
+}

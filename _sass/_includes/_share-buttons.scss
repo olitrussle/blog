@@ -1,0 +1,17 @@
+.share-buttons {
+  display: block;
+  text-align: center;
+}
+
+a.share-button {
+  display: inline-block;
+  border: 0;
+  &:hover { border: 0; }
+
+  img {
+    height: 32px;
+    margin: 0 ($tsl-space-small / 4);
+    width: 32px;
+    vertical-align: middle;
+  }
+}
