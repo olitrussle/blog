@@ -57,12 +57,13 @@ Your memory of earlier visits may start to become a little hazy once you’ve se
 ## 10. Ask the right questions
 
 A lot of time can be saved at viewings by asking the right questions. You’ll also leave with all the information you need to make an informed decision. Here are some questions to get you started:
--How long have the current owners lived there?
--Why are the current owners selling?
--How soon are the current owners able to move?
--What are the neighbours like?
--How many viewings has the property had?
--Has any major work been done on the property?
--Are fixtures and fittings included in the sale?
+
+* How long have the current owners lived there?
+* Why are the current owners selling?
+* How soon are the current owners able to move?
+* What are the neighbours like?
+* How many viewings has the property had?
+* Has any major work been done on the property?
+* Are fixtures and fittings included in the sale?
 
 {% include image/left.html filename="mortgage_steps.png" %}
