@@ -18,8 +18,6 @@ a.post-summary {
   &:hover {
     border: 1px solid map-get($tsl-colours, secondary-light-grey);
     box-shadow: 0 4px 10px -1px map-get($tsl-colours, secondary-light-grey);
-    margin-bottom: ($tsl-space-medium + 2px);
-    margin-top: ($tsl-space-medium - 2px);
 
     .post-summary-cta {
       text-decoration: underline;
