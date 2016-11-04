@@ -10,7 +10,7 @@ author_twitter: T
 ---
 ## You’ve got a Mortgage in Principle. Now what?
 
-{% include image/left.html filename="MiP.jpeg" caption="Mortgage in Principle" %}
+{% include image/left.html filename="MiP.png" caption="Mortgage in Principle" %}
 
 Each year in the UK over 300,000 of us secure a mortgage to buy our first home, and to do that we’ll need a **Mortgage in Principle.**
 
@@ -27,7 +27,6 @@ If you’ve already used Trussle to get your Mortgage in Principle, then the nex
 Property sites like Zoopla and Rightmove are great places to start your search. Once you’ve found a property you like the look of, you’ll want to arrange a viewing. It’ll take some trial and error, so don’t be put off if you haven’t fallen in love with a property after the first few viewings.
 
 > _**Tip:** Use Zoopla’s Draw tool to map out your ideal location and get notified by email each time a new property is listed in the area, so you’ll be one of the first to know._
-
 
 ## Step 2: Make an offer
 
@@ -47,4 +46,4 @@ We’ll first provide you with our recommendation, detailing the lender and mort
 
 When you’re happy with our recommendation, we’ll continue processing your mortgage application, providing you with updates of your progress along the way. All being well, your purchase will generally be completed within four to six weeks and you’ll be ready to move in.
 
-{% include image/left.html filename="MiP steps.jpeg" caption="MiP steps" %}
+{% include image/left.html filename="MiP Steps.png" caption="MiP steps" %}
