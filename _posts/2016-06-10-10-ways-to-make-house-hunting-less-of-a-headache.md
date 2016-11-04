@@ -3,12 +3,11 @@ published: true
 layout: post
 title: 10 Ways to Make House Hunting Less of A Headache
 excerpt: >-
-  This should be the summary that you'd like to see in summaries. If one is not
-  given, the first two sentences of the blog post will be used.
-author: The name of the author.
-author_twitter: >-
-  The Twitter handle (with quotes) of the author. If left blank, the author's
-  name is not a link.
+  Choosing a home to live in is one of the most exciting things you can do. But
+  what should be a straightforward process can easily become a tiring and
+  frustrating experience without careful planning.
+author: Oli West
+author_twitter: oliwesbiz
 thumbnail_filename: null
 ---
 Choosing a home to live in is one of the most exciting things you can do. But what should be a straightforward process can easily become a tiring and frustrating experience without careful planning.
