@@ -26,6 +26,10 @@
 
   // All the fancy post formatting
 
+  img {
+    max-width: 100%;
+  }
+
   p {
     margin-bottom: $tsl-space-medium;
   }
@@ -36,10 +40,10 @@
     font-size: 120%;
     font-style: italic;
     margin: 0;
-    padding: $tsl-space-large;
+    padding: $tsl-space-medium;
 
     @include for-small-only {
-      padding: $tsl-space-large $tsl-space-small;
+      padding: $tsl-space-medium $tsl-space-small;
     }
   }
 

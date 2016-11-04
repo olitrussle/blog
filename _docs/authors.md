@@ -39,6 +39,8 @@ If a post is in a subfolder, the link will be relative to that subfolder. For ex
 
 Something worth highlighting is that **HTML snippets are OK**: if you have a Twitter widget or some other HTML snippet, you can add them to your articles without an issue.
 
+Also, **don't add the title to the article:** that's covered by *metadata*…
+
 ### Posts have metadata
 
 We consider the words you write as the data; everything else is *metadata*, including (but not limited to) the title, author, publish date, and so on.
@@ -61,11 +63,18 @@ Here's a handful of metadata that you may find useful:
 
 If you read the last section carefully you already know this, but it's worth mentioning again: **if you don't have `published: false` in your metadata, your post *will* be published.** You have been warned.
 
-## FAQs
+### prose.io's previewer is awful
 
-Here are some answers to commonly asked questions:
+The `preview` directory can be used to preview posts without putting them on the index page. To do this, just move or create files in the `preview` directory (it's at the same level as `_posts`, or you can [click here](http://prose.io/#trussle/blog/tree/master/preview) to go to it).
 
-### How do I add images, float them to either side, and add captions?
+If you use the preview directory, bear in mind the following:
+
+- Posts will need to be *published* before they can be seen. (i.e. `published: true` will need to be in the metadata.)
+- Posts can be accessed via `trussle.com/blog/preview/file-name` - *with* the date, but *without* the `.md` extension. For instance, if you have a file called `2011-01-01-hello-world.md`, you would access it at `trussle.com/blog/preview/2011-01-01-hello-world`.
+
+## Images
+
+### Uploading images
 
 prose.io has a built-in image uploader, but:
 
@@ -77,7 +86,17 @@ However, with a few tweaks we can make it work!
 
 First things first, upload the image. prose.io allows you to this, but will put images in the `_posts` directory. **Do not upload images to the `_posts` directory:** it doesn't work. Instead, change the URL to **`images/post_images/`**`your-image-name.ext`.
 
-Once that's done, **you should remove the link that's added by prose.io** and use one of the following lines of code instead:
+### Full-size images
+
+**By default, images will span the width of the page.** You should check whether your image looks good on mobile and desktop browsers before publishing.
+
+### Positioned images and captions
+
+If you want to:
+- position your image to the left, right or in the center
+- you want to add a caption to an image
+
+then **you should remove the link that's added by prose.io** and use one of the following lines of code instead:
 
 ```
 {% include image/left.html filename="YOUR_IMAGE_NAME" caption="CAPTION" %}
@@ -87,9 +106,15 @@ Once that's done, **you should remove the link that's added by prose.io** and us
 
 For `image/left` and `image/right`, text will flow alongside the image. `url` is mandatory and should include the file extension (like `foo.png`); `caption` is optional. `filename` should just be the name of the image.
 
-### How do I crop/resize images?
+### Cropping and resizing images
 
-We aren't able to do that on prose.io yet - sorry! You'll have to use an editing app on your computer instead.
+There are no tools to crop or resize images on prose.io - you'll have to do this resizing on your own computer.
+
+The maximum size of the content section is **800px**. Please don't add images any more than 800px in width - they'll just get resized to 800px and will take longer to load.
+
+## FAQs
+
+Here are some answers to commonly asked questions:
 
 ### How do I align text?
 
