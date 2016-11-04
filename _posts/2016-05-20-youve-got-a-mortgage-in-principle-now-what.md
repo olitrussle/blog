@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: You've got a Mortgage in Principle. Now what?
+title: You've got a mortgage in Principle. Now what?
 date: 2016-05-20T00:00:00.000Z
 excerpt: >-
   Each year in the UK over 300,000 of us secure a mortgage to buy our first
