@@ -33,7 +33,7 @@ We first spoke to Ant a few hours after he’d completed our quick online applic
 
 {% include image/left.html filename="Ant.jpeg" %}
 
-> “In a world where complicated forms and broken promises seem to be the norm where anything to do with finance is concerned, I was pleasantly surprised by Trussle. It was very convenient.”
+_“In a world where complicated forms and broken promises seem to be the norm where anything to do with finance is concerned, I was pleasantly surprised by Trussle. It was very convenient.”_
 
 We sent Ant his mortgage recommendation after a quick call to confirm his situation. Ant agreed and provided his documents the same day so that we could submit his application to the lender.
 
