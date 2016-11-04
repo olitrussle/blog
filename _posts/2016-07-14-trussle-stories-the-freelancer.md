@@ -8,6 +8,7 @@ excerpt: >-
   service at all…
 author_twitter: oliwesbiz
 thumbnail_filename: James.jpeg
+author: Oli West
 ---
 {% include image/left.html filename="James.jpeg" caption="The Freelancer" %}
 
