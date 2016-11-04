@@ -3,15 +3,12 @@ published: true
 layout: post
 title: Announcing Trussle's Long Term Partnership With Zoopla
 excerpt: >-
-  This should be the summary that you'd like to see in summaries. If one is not
-  given, the first two sentences of the blog post will be used.
-author: The name of the author.
-author_twitter: >-
-  The Twitter handle (with quotes) of the author. If left blank, the author's
-  name is not a link.
-thumbnail_filename: >-
-  The name of a file, with the file extension, in post_images that should be
-  resized for use in the summary. (Square images work best here.)
+  We’re thrilled to announce that property-search giant Zoopla has invested in
+  Trussle, and has agreed an exclusive partnership with us to help make finding
+  and buying a home easier than ever.
+author: Ishaan Malhi
+author_twitter: ishaantrussle
+thumbnail_filename: ZPG.jpg
 ---
 {% include image/left.html filename="Trussle_zoopla.png" %}
 
