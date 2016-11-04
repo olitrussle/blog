@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Trussle Stories - The Sales Manager
+title: 'Trussle Stories: The Sales Manager'
 date: '2016-09-19 09:00:00 +0100'
 author: Oli West
 author_twitter: oliwesbiz
