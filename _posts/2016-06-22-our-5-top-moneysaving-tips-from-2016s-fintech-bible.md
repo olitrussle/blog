@@ -1,5 +1,13 @@
 ---
-published: false
+published: true
+layout: post
+title: Our 5 Top Moneysaving Tips from 2016's Fintech Bible
+excerpt: >-
+  This should be the summary that you'd like to see in summaries. If one is not
+  given, the first two sentences of the blog post will be used.
+author: Oli West
+author_twitter: oliwesbiz
+thumbnail_filename: money_square.png
 ---
 {% include image/left.html filename="Money.png" %}
 
@@ -48,4 +56,3 @@ Ishaan Malhi, founder & CEO at Trussle
 Romi Savova, founder & CEO at PensionBee
 
 [Read the full FinTech Bible for even more money-saving tips.](http://blog.moneyfarm.com/en/fintech-bible/)
-
