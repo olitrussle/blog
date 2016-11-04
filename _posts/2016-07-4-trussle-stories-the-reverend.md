@@ -5,7 +5,7 @@ author: Oli West
 author_twitter: oliwesbiz
 excerpt: "It’s a church reverend who begins our Trussle Stories series, shedding light on the \tmany people who chose Trussle for a more straightforward mortgage experience."
 thumbnail_filename: Ant_square.jpeg
-title: 'Trussle Stories: The reverend'
+title: 'Trussle Stories: The Reverend'
 ---
 {% include image/left.html filename="Church.jpeg" %}
 
@@ -42,4 +42,3 @@ We sent Ant his mortgage recommendation after a quick call to confirm his situat
 Ant’s application was submitted within 24 hours of first completing his Trussle profile, and his new lender approved the application within 10 days.
 
 Many customers of Trussle have left their own reviews. [Read them here.](https://www.trustpilot.com/review/trussle.com)
-
