@@ -4,6 +4,7 @@ title:  "Trussle Stories - The Sales Manager"
 layout: post
 date: '2016-10-11 09:00:00 +0100'
 author: Oli West
+author_twitter: oliwesbiz
 ---
 
 At [Trussle](https://trussle.com/) we put our customers first. We speak with them regularly to find out why they choose our online service to get a mortgage instead of their bank or a traditional high-street adviser.
