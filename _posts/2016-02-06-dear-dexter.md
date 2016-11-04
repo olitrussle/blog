@@ -7,7 +7,7 @@ excerpt: >-
   sometimes they tell us where we could do better, and that’s really where we
   focus most of our attention.
 author: Ishaan Malhi
-author_twitter: ishaantrussle
+author_twitter: ishaan_trussle
 thumbnail_filename: null
 ---
 ##Our Response to a Customer Review
