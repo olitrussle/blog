@@ -7,7 +7,7 @@ excerpt: >-
   Trussle, and has agreed an exclusive partnership with us to help make finding
   and buying a home easier than ever.
 author: Ishaan Malhi
-author_twitter: ishaantrussle
+author_twitter: ishaan_trussle
 thumbnail_filename: ZPG.jpg
 ---
 {% include image/left.html filename="Trussle_zoopla.png" %}
