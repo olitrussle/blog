@@ -6,7 +6,7 @@ excerpt: >-
   In this story, we hear from a freelance designer who almost didn’t use our
   service at all…
 author_twitter: oliwesbiz
-thumbnail_filename: James.jpeg
+thumbnail_filename: James_square.jpeg
 author: Oli West
 ---
 {% include image/left.html filename="James.jpeg" caption="The Freelancer" %}
