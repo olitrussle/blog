@@ -1,12 +1,14 @@
 ---
 layout: post
 published: true
-title:  "Trussle Stories - The Sales Manager"
-date: '2016-10-11 09:00:00 +0100'
+title: Trussle Stories - The Sales Manager
+date: '2016-09-19 09:00:00 +0100'
 author: Oli West
 author_twitter: oliwesbiz
-excerpt: "In this story, we hear from a sales manager who was able to save £7,200 over two years thanks to Trussle’s mortgage monitoring service."
-thumbnail_name: "yanneth.png"
+excerpt: >-
+  In this story, we hear from a sales manager who was able to save £7,200 over
+  two years thanks to Trussle’s mortgage monitoring service.
+thumbnail_name: yanneth.png
 ---
 
 At [Trussle](https://trussle.com/) we put our customers first. We speak with them regularly to find out why they choose our online service to get a mortgage instead of their bank or a traditional high-street adviser.
