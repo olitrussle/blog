@@ -3,8 +3,8 @@ published: true
 layout: post
 title: 'Trussle Stories: The Freelancer'
 excerpt: >-
-  In this story, we hear from a freelance designer who almost didn’t use our
-  service at all…
+  In this story, we hear from James, a freelance designer who almost didn’t use
+  our service at all…
 author_twitter: oliwesbiz
 thumbnail_filename: James_square.jpeg
 author: Oli West
