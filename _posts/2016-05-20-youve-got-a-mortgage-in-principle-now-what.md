@@ -7,6 +7,7 @@ excerpt: >-
   home, and to do that we’ll need a Mortgage in Principle.
 author_twitter: oliwesbiz
 author: Oli West
+thumbnail_filename: MiP_square.png
 ---
 {% include image/left.html filename="MiP.png" caption="Mortgage in Principle" %}
 
