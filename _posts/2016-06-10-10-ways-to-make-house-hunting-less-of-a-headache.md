@@ -8,7 +8,7 @@ excerpt: >-
   frustrating experience without careful planning.
 author: Oli West
 author_twitter: oliwesbiz
-thumbnail_filename: null
+thumbnail_filename: mortgage_steps_square.png
 ---
 Choosing a home to live in is one of the most exciting things you can do. But what should be a straightforward process can easily become a tiring and frustrating experience without careful planning.
 
