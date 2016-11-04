@@ -2,7 +2,6 @@
 published: true
 layout: post
 title: 'Trussle Stories: The Freelancer'
-date: 2016-07-14T00:00:00.000Z
 excerpt: >-
   In this story, we hear from a freelance designer who almost didn’t use our
   service at all…

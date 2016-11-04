@@ -2,7 +2,6 @@
 published: true
 layout: post
 title: You've got a Mortgage in Principle. Now what?
-date: {}
 excerpt: >-
   Each year in the UK over 300,000 of us secure a mortgage to buy our first
   home, and to do that we’ll need a Mortgage in Principle.
