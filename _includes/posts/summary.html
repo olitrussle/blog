@@ -1,7 +1,7 @@
 <a class="post-summary" href="{{ include.post.url | prepend: site.baseurl }}">
 
-  {% if include.post.thumbnail_name %}
-    <img class="post-summary-image" src="images/post_images/{{ include.post.thumbnail_name }}" />
+  {% if include.post.thumbnail_filename %}
+    <img class="post-summary-image" src="images/post_images/{{ include.post.thumbnail_filename }}" />
   {% endif %}
 
   <span class="post-summary-title">{{ include.post.title }}</span>

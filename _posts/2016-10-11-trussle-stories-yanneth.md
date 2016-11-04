@@ -7,7 +7,7 @@ author_twitter: oliwesbiz
 excerpt: >-
   In this story, we hear from a sales manager who was able to save £7,200 over
   two years thanks to Trussle’s mortgage monitoring service.
-thumbnail_name: yanneth.png
+thumbnail_filename: yanneth.png
 ---
 
 At [Trussle](https://trussle.com/) we put our customers first. We speak with them regularly to find out why they choose our online service to get a mortgage instead of their bank or a traditional high-street adviser.
