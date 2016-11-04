@@ -14,7 +14,7 @@ In this story, we hear from a sales manager who was able to save £7,200 over tw
 
 ## Turning the tables
 
-{% include left-image.html url="post_images/yanneth.png" %}
+{% include image/left.html filename="yanneth.png" %}
 
 Fresh from celebrating the start of an exciting new job, Yanneth and her husband began the search for a new home. After viewing a number of properties, they finally found one they were happy to call home. They made an offer and were pleased to hear it was accepted!
 
@@ -46,6 +46,6 @@ Once again, our mortgage monitoring system was able to flag that a more suitable
 
 > “We couldn’t believe how quickly Trussle reacted when the markets changed. It really felt like they were looking out for us! We’re very happy with the experience.”
 
-{% include central-image.html url="post_images/yanneth-new-home.jpeg" caption="Yanneth's family outside their new home" %}
+{% include image/center.html filename="yanneth-new-home.jpeg" caption="Yanneth's family outside their new home" %}
 
 **Many customers of Trussle have left their own reviews. [Read them here](https://uk.trustpilot.com/review/trussle.com).**

@@ -1,0 +1,7 @@
+<figure class="image-holder-center">
+  <img class="image-holder-image" src="{{ site.baseurl }}/images/post_images/{{ include.filename }}" />
+
+  {% if include.caption %}
+    <figcaption class="image-holder-caption">{{ include.caption }}</figcaption>
+  {% endif %}
+</figure>

@@ -1,0 +1,39 @@
+%image-holder {
+  display: block;
+  margin: 0 auto $tsl-space-small auto;
+  text-align: center;
+}
+
+.image-holder-left {
+  @extend %image-holder;
+
+  @include for-medium-up {
+    float: left;
+    margin: 0 $tsl-space-small $tsl-space-small 0;
+  }
+}
+
+.image-holder-right {
+  @extend %image-holder;
+
+  @include for-medium-up {
+    float: right;
+    margin: 0 0 $tsl-space-small $tsl-space-small;
+  }
+}
+
+.image-holder-center {
+  @extend %image-holder;
+
+  margin: $tsl-space-large auto;
+}
+
+.image-holder-image {
+  margin: auto;
+}
+
+.image-holder-caption {
+  display: block;
+  font-size: 80%;
+  font-style: italic;
+}
