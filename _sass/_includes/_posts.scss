@@ -27,6 +27,17 @@ a.post-summary {
   }
 }
 
+.post-summary-image {
+  @extend %clearfix;
+
+  float: right;
+  height: 100px;
+
+  @include for-small-only {
+    display: none;
+  }
+}
+
 .post-summary-title {
   @extend .tsl-h4;
   font-size: 125%;
