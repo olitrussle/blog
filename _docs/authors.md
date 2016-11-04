@@ -54,10 +54,9 @@ Here's a handful of metadata that you may find useful:
 - **`layout: post`** should be in all post metadata. This tells Jekyll to use the `post` page layout for styling.
 - **`title`**: this is mandatory, and is the title used in both the post page and the summary.
 - **`published`:** **`true` (default)** or `false`. Shows or hides a post on the blog.
-- **`date`:** this should be of the format `YYYY-MM-DD HH:MM:SS +/-TTTT`. If no date is supplied, the one in the file name will be used.
 - **`excerpt`:** This should be the summary that you'd like to see in summaries. It needs to be enclosed in double quotes (""). If one is not given, the first two sentences of the blog post will be used.
 - **`author_twitter`:** The Twitter handle (with quotes) of the author. If left blank, the author's name is not a link.
-- - **`thumbnail_filename`:** The name of a file, with the file extension, in `post_images` that should be resized for use in the summary. (Square images work best here.)
+- **`thumbnail_filename`:** The name of a file, with the file extension, in `post_images` that should be resized for use in the summary. (Square images work best here.)
 
 ### Posts are published by default
 
