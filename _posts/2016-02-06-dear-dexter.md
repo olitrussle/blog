@@ -10,7 +10,7 @@ author: Ishaan Malhi
 author_twitter: ishaan_trussle
 thumbnail_filename: null
 ---
-##Our Response to a Customer Review
+## Our Response to a Customer Review
 
 Here at Trussle, our team works really hard to save our customers more money over the lifetime of their mortgage than anywhere else — in fact, we think we could save them £4,000 per year on average. So it’s a great feeling when our customers tell us that we did a good job. But sometimes they tell us where we could do better, and that’s really where we focus most of our attention.
 

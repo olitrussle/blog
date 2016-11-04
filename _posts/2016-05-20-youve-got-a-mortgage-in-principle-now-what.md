@@ -9,13 +9,13 @@ author_twitter: oliwesbiz
 author: Oli West
 thumbnail_filename: MiP_square.png
 ---
-{% include image/left.html filename="MiP.png" caption="Mortgage in Principle" %}
+{% include image/center.html filename="MiP.png" %}
 
 Each year in the UK over 300,000 of us secure a mortgage to buy our first home, and to do that we’ll need a **Mortgage in Principle.**
 
 In a nutshell, a Mortgage in Principle — sometimes called a MIP, Decision in Principle, DIP, or even an Agreement in Principle, in some necks of the woods — is a handy document that can be shown to estate agents to indicate the maximum amount you could borrow.
 
-**_If you haven’t got a Mortgage in Principle yet, you can get one in under five minutes [here.]( "https://apply.trussle.com/get-started/go")_**
+**_If you haven’t got a Mortgage in Principle yet, you can get one in under five minutes [here.](https://apply.trussle.com/get-started/go)_**
 
 It’s important to know that a Mortgage in Principle is not a formal mortgage offer, nor a guarantee that you can borrow the amount stated; you’ll first need to be credit checked by your recommended lender.
 
@@ -45,4 +45,4 @@ We’ll first provide you with our recommendation, detailing the lender and mort
 
 When you’re happy with our recommendation, we’ll continue processing your mortgage application, providing you with updates of your progress along the way. All being well, your purchase will generally be completed within four to six weeks and you’ll be ready to move in.
 
-{% include image/left.html filename="MiP Steps.png" caption="MiP steps" %}
+{% include image/center.html filename="MiP Steps.png" %}
