@@ -49,12 +49,15 @@ Metadata is powerful because it allows you to control things about a particular 
 
 Metadata can be changed via the *Metadata* button on the right-hand toolbar of prose.io. Jekyll refers to this metadata as *front matter*, and they provide a [guide to built-in front matter](https://jekyllrb.com/docs/frontmatter/) on their website. 
 
+When adding metadata, **make sure to use double quotes ("") for values:** `author: "John Smith"` is good; `author: John Smith` is bad.
+
 Here's a handful of metadata that you may find useful:
 
 - **`layout: post`** should be in all post metadata. This tells Jekyll to use the `post` page layout for styling.
 - **`title`**: this is mandatory, and is the title used in both the post page and the summary.
 - **`published`:** **`true` (default)** or `false`. Shows or hides a post on the blog.
-- **`excerpt`:** This should be the summary that you'd like to see in summaries. It needs to be enclosed in double quotes (""). If one is not given, the first two sentences of the blog post will be used.
+- **`excerpt`:** This should be the summary that you'd like to see in summaries. If one is not given, the first two sentences of the blog post will be used.
+- **`author`:** The name of the author.
 - **`author_twitter`:** The Twitter handle (with quotes) of the author. If left blank, the author's name is not a link.
 - **`thumbnail_filename`:** The name of a file, with the file extension, in `post_images` that should be resized for use in the summary. (Square images work best here.)
 
