@@ -60,6 +60,7 @@ Here's a handful of metadata that you may find useful:
 - **`author`:** The name of the author.
 - **`author_twitter`:** The Twitter handle (with quotes) of the author. If left blank, the author's name is not a link.
 - **`thumbnail_filename`:** The name of a file, with the file extension, in `post_images` that should be resized for use in the summary. (Square images work best here.)
+- **`social_image_filename`:** The name of a file, with the file extension, in `post_images` that should be used in social shares of the page. [Files should be 1024×512px.](https://blog.bufferapp.com/ideal-image-sizes-social-media-posts)
 
 ### Posts are published by default
 

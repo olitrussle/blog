@@ -8,7 +8,6 @@ excerpt: >-
   focus most of our attention.
 author: Ishaan Malhi
 author_twitter: ishaan_trussle
-thumbnail_filename: null
 ---
 ## Our Response to a Customer Review
 

@@ -8,8 +8,13 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
   <!-- Good-looking social -->
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:image" content="{{ "/images/logos/trussle-logo-green-green.png" | prepend: site.baseurl }}" />
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}">
+
+  {% if page.social_image_filename %}
+    <meta property="og:image" content="{{ site.baseurl }}images/post_images/{{ page.social_image_filename }}" />
+  {% else %}
+    <meta property="og:image" content="{{ "/images/logos/trussle-logo-green-green.png" | prepend: site.baseurl }}" />
+  {% endif %}
 
   {% include head/favicons.html %}
 
