@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<div class="breadcrumbs">
+  <a href="{{ site.baseurl }}">Trussle Blog</a>
+  &raquo;
+  {{ page.title }}
+</div>
+
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -35,7 +41,9 @@ layout: default
     {{ content }}
     <hr />
     {% include trussle-banner.html %}
-    {% include share-buttons.html %}
   </div>
 
 </article>
+
+{% include share-buttons.html %}
+{% include related-articles.html %}
