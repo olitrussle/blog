@@ -33,6 +33,10 @@ If the post is in the `_posts` directory, the direct link to the blog will be `h
 
 If a post is in a subfolder, the link will be relative to that subfolder. For example, if a post is stored in `_posts/subfolder/2016-01-01-article.md` the direct link will be `https://trussle.com/blog/subfolder/article`.
 
+> If you place a post in a subfolder, it will also get a **category** equal to the subfolder. For instance, if my post is in `/_posts/cat1/2016-01-01-my-post.md`, then `my-post` will have the category `cat1`.
+> 
+> Categories can also be set using *metadata* (see below).
+
 ### Posts are written in Markdown
 
 [Markdown](http://kirkstrobeck.github.io/whatismarkdown.com/) is a pure text format that uses special symbols to format your post. The prose.io toolbar gives you help with headings, links and images, or you can click on the *Help* button for more information. A full Markdown reference is available [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
@@ -57,6 +61,7 @@ Here's a handful of metadata that you may find useful:
 - **`title`**: this is mandatory, and is the title used in both the post page and the summary.
 - **`published`:** **`true` (default)** or `false`. Shows or hides a post on the blog.
 - **`excerpt`:** This should be the summary that you'd like to see in summaries. If one is not given, the first two sentences of the blog post will be used.
+- **`categories`**: an optional field that allows you to list the categories this post belongs to. It should be in a list like so: `["First Category", "Second", "etc."]`
 - **`author`:** The name of the author.
 - **`author_twitter`:** The Twitter handle (with quotes) of the author. If left blank, the author's name is not a link.
 - **`thumbnail_filename`:** The name of a file, with the file extension, in `post_images` that should be resized for use in the summary. (Square images work best here.)
