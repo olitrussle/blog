@@ -1,5 +1,9 @@
 <figure class="image-holder-center">
-  <img class="image-holder-image" src="{{ site.baseurl }}/images/post_images/{{ include.filename }}" />
+  <img
+    class="image-holder-image"
+    src="{{ site.baseurl }}/images/post_images/{{ include.filename }}"
+    title="{{ include.alt || include.caption }}"
+    alt="{{ include.alt || include.caption }}" />
 
   {% if include.caption %}
     <figcaption class="image-holder-caption">{{ include.caption }}</figcaption>

@@ -102,12 +102,18 @@ If you want to:
 then **you should remove the link that's added by prose.io** and use one of the following lines of code instead:
 
 ```
-{% include image/left.html filename="YOUR_IMAGE_NAME" caption="CAPTION" %}
-{% include image/right.html filename="YOUR_IMAGE_NAME" caption="CAPTION" %}
-{% include image/center.html filename="YOUR_IMAGE_NAME" caption="CAPTION" %}
+{% include image/left.html filename="YOUR_IMAGE_NAME" caption="CAPTION" alt="IMAGE_DESCRIPTION" %}
+{% include image/right.html filename="YOUR_IMAGE_NAME" caption="CAPTION" alt="IMAGE_DESCRIPTION" %}
+{% include image/center.html filename="YOUR_IMAGE_NAME" caption="CAPTION" alt="IMAGE_DESCRIPTION" %}
 ```
 
-For `image/left` and `image/right`, text will flow alongside the image. `url` is mandatory and should include the file extension (like `foo.png`); `caption` is optional. `filename` should just be the name of the image.
+For `image/left` and `image/right`, text will flow alongside the image.
+
+Here's a description of all the options you can use with these tags:
+
+- `filename` is mandatory and should include the file extension (like `foo.png`).
+- `caption` is optional and will display a caption underneath the image.
+- `alt` is used by screen readers to describe an image. If `alt` is not specified, `caption` is used instead.
 
 ### Cropping and resizing images
 
