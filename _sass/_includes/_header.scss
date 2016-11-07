@@ -4,6 +4,7 @@
 
 .site-logo-link {
   border: 0;
+  margin: 24px 0;
 
   @include for-small-only {
     text-align: center;
@@ -16,8 +17,14 @@
 }
 
 .site-logo {
-  margin: 24px 0;
   width: 150px;
+}
+
+.site-logo-subtitle {
+  @extend .tsl-font-body-light;
+
+  color: map-get($tsl-colours, 'secondary-deep-blue');
+  font-size: 40px;
 }
 
 .go-to-main-site-button {
@@ -25,7 +32,7 @@
   border-radius: 3px;
   color: $brand-color;
   float: right;
-  margin: 24px 0;
+  margin: 34px 0;
   padding: 6px 10px;
   transition: all 0.2s linear;
 
@@ -34,8 +41,9 @@
   }
 
   &:hover {
-    border-color: map-get($tsl-colours, 'primary-black');
-    color: map-get($tsl-colours, 'primary-black');
+    background-color: map-get($tsl-colours, 'primary-deep-green');
+    border-color: map-get($tsl-colours, 'primary-green');
+    color: white;
     text-decoration: none;
   }
 
