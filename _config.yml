@@ -24,3 +24,7 @@ permalink: ":slug"
 
 # Build settings
 markdown: kramdown
+
+# Auto-generate sitemap.xml
+gems:
+  - jekyll-sitemap
