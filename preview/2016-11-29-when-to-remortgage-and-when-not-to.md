@@ -1,5 +1,13 @@
 ---
 published: true
+layout: post
+author: Oli West
+author_twitter: oliwesbiz
+excerpt: >-
+  Since initial rates will almost certainly be a lot more competitive than the
+  lender’s Standard Variable Rate, most borrowers can save by remortgaging once
+  their initial period has ended.
+thumbnail_filename: yanneth.png
 ---
 _Your initial mortgage rate will typically last a few years, and it’s sensible to start looking at your remortgaging options about three months before it finishes. You can also remortgage before your deal ends, but your mortgage lender will usually impose an early repayment charge._
 
