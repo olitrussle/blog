@@ -9,7 +9,7 @@ excerpt: >-
   their initial period has ended.
 thumbnail_filename: yanneth.png
 date: 2016-11-29T00:00:00.000Z
-title: When to remortgage and when not to
+title: When to remortgage (and when not to)
 ---
 _Your initial mortgage rate will typically last a few years, and it’s sensible to start looking at your remortgaging options about three months before it finishes. You can also remortgage before your deal ends, but your mortgage lender will usually impose an early repayment charge._
 
@@ -59,5 +59,3 @@ Remember to take into account the cost of a property valuation and solicitor fee
 A free service like [Trussle’s Mortgage Monitor] can give you the peace of mind that you’re not paying more for your mortgage than you need to. It compares your current mortgage with the market each day, searching through more than 11,000 mortgage products from over 90 lenders.
 
 When it’s time to think about remortgaging - either three months before your lender’s Standard Variable Rate is applied, or when a much better deal is available during your initial term - Trussle will notify you and help you switch to a better mortgage deal.
-
-[Use Trussle’s mortgage monitoring service to keep track of your current mortgage.](trussle.com)
