@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 _Your initial mortgage rate will typically last a few years, and it’s sensible to start looking at your remortgaging options about three months before it finishes. You can also remortgage before your deal ends, but your mortgage lender will usually impose an early repayment charge._
 
