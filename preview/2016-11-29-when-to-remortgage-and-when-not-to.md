@@ -21,7 +21,7 @@ When you first take out your mortgage, the lender will usually provide an initia
 
 When you reach the end of your initial rate, most lenders will move you onto their Standard Variable Rate (SVR), which tends to be higher than both your initial rate and other competitive deals currently available on the market.
 
-**For example:** A lender may offer you a fixed rate of 1% for the first two years of your mortgage, and then transfer you to a Standard Variable Rate of 4% for the remaining term. The SVR will depend on the lender, but it’s often set at a few percentage points above the Bank of England’s base rate, so it can go up and down.
+**Example:** A lender may offer you a fixed rate of 1% for the first two years of your mortgage, and then transfer you to a Standard Variable Rate of 4% for the remaining term. The SVR will depend on the lender, but it’s often set at a few percentage points above the Bank of England’s base rate, so it can go up and down.
 
 {% include image/left.html filename="ryan.jpg" alt="Ryan Tuff" %}
 
