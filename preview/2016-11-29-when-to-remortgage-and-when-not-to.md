@@ -26,6 +26,7 @@ When you reach the end of your initial rate, most lenders will move you onto the
 {% include image/left.html filename="ryan.jpg" alt="Ryan Tuff" %}
 
 **Trussle mortgage adviser Ryan Tuff says:** _“Since initial rates will almost certainly be a lot more competitive than the lender’s Standard Variable Rate, most borrowers can save by remortgaging once their initial period has ended. Switching from a lender’s SVR of 4.63% to an initial rate of 1.39% for example, could save the average homeowner £3,500 per year during the new initial period.”_
+
 <br style="clear: left;" />*Based on a mortgage amount of £173,400 repayable over 25 years, as of Nov ‘16
 
 Think about switching your mortgage around three months before your initial period ends. This will give you more time to find an attractive rate, since mortgage offers are valid for several months. Bear in mind that it can take up to two weeks to receive an offer from a mortgage lender. If you don’t remortgage before your initial rate finishes, you’re likely to end up on the SVR (but you can still remortgage later on to switch to a potentially better rate).
