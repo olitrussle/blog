@@ -25,7 +25,7 @@ For example, a lender may offer you a fixed rate of 1% for the first two years o
 
 {% include image/left.html filename="ryan.jpg" alt="Ryan Tuff" %}
 
-Trussle mortgage adviser Ryan Tuff says: “Since initial rates will almost certainly be a lot more competitive than the lender’s Standard Variable Rate, most borrowers can save by remortgaging once their initial period has ended. Switching from a lender’s SVR of 4.63% to an initial rate of 1.39% for example, could save the average homeowner £3,500 per year during the new initial period.*”
+Trussle mortgage adviser Ryan Tuff says: **_“Since initial rates will almost certainly be a lot more competitive than the lender’s Standard Variable Rate, most borrowers can save by remortgaging once their initial period has ended. Switching from a lender’s SVR of 4.63% to an initial rate of 1.39% for example, could save the average homeowner £3,500 per year during the new initial period.”_**
 
 _*Based on mortgage amount of £173,400 repayable over 25 years, as of Nov ‘16_
 
