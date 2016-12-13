@@ -47,7 +47,7 @@ Here are some of the reasons you may want to remortgage before the end of your i
 
 If you’re remortgaging because you want to borrow more money using the equity in your home, bear in mind that although the interest rate may be lower than other types of borrowing (unsecured loans and credit cards, for example), the longer mortgage term will often mean that you pay far more over the lifetime of the loan. It may be more sensible to find other ways of managing your non-mortgage debt.
 
-## Bonus: Remortgaging tips
+## Remortgaging tips
 
 When you’re looking at remortgaging, take into account any lender or product fees in addition to the interest rate to ensure you’re getting a good deal.
 
