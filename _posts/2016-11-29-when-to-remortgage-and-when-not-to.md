@@ -7,7 +7,7 @@ excerpt: >-
   Since initial rates will almost certainly be a lot more competitive than the
   lender’s Standard Variable Rate, most borrowers can save by remortgaging once
   their initial period has ended.
-thumbnail_filename: Trussle remortgage on phone.jpg
+thumbnail_filename: Trussle remortgage on phone square.jpg
 date: '2016-12-13T00:00:00.000Z'
 title: When To Remortgage (And When Not To)
 ---
