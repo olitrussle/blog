@@ -13,7 +13,7 @@ title: When To Remortgage (And When Not To)
 ---
 _Your initial mortgage rate will typically last a few years, and it’s sensible to start looking at your remortgaging options about three months before it finishes. You can also remortgage before your deal ends, but your mortgage lender will usually impose an early repayment charge._
 
-![Woman remortgaging with Trussle on mobile phone]({{site.baseurl}}/images/post_images/Trussle remortgage on phone.jpg)!
+![Woman remortgaging with Trussle on mobile phone]({{site.baseurl}}/images/post_images/Trussle remortgage on phone.jpg)
 
 ## Remortgaging when your initial rate ends
 
