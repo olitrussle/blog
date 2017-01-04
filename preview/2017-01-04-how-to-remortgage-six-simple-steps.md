@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 _To remortgage, you first need to check the terms of your existing mortgage, then decide what type of mortgage you want and find a good deal. The lender will then perform affordability and credit checks before valuing your property. If the mortgage is approved, the money will be transferred to your existing lender. The process usually takes around 3-4 weeks._
 
