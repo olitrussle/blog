@@ -1,5 +1,14 @@
 ---
 published: true
+layout: post
+author: Oli West
+author_twitter: oliwesbiz
+excerpt: >-
+  There are several reasons you may decide to remortgage, but one of the most
+  common reasons is to get a better rate once your initial mortgage period has
+  ended.
+thumbnail_filename: Trussle remortgage on phone square.jpg
+date: '2016-01-04T00:00:00.000Z'
 ---
 _To remortgage, you first need to check the terms of your existing mortgage, then decide what type of mortgage you want and find a good deal. The lender will then perform affordability and credit checks before valuing your property. If the mortgage is approved, the money will be transferred to your existing lender. The process usually takes around 3-4 weeks._
 
