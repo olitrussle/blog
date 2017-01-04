@@ -19,7 +19,7 @@ _To remortgage, you first need to check the terms of your existing mortgage, the
 
 There are several reasons you may decide to remortgage, including to free up more money or to gain more flexibility. But one of the most common reasons for remortgaging is to get a better rate once your initial mortgage period has ended.
 
-It’s sensible to start thinking about remortgaging about three months before your initial deal ends. There’s more information about this in our article, [When To Remortgage (And When Not To)](https://trussle.com/blog/when-to-remortgage-and-when-not-to).
+It’s sensible to start thinking about remortgaging about three months before your initial deal ends. Read more in our article, [When To Remortgage (And When Not To)](https://trussle.com/blog/when-to-remortgage-and-when-not-to).
 
 It’s now easier than ever to remortgage, thanks to new hassle-free services like [Trussle](https://trussle.com/) that help you switch quickly online.
 
