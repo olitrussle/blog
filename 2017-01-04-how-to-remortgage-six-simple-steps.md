@@ -2,8 +2,6 @@ _To remortgage, you first need to check the terms of your existing mortgage, the
 
 ![Trussle remortgage on laptop]({{site.baseurl}}//Trussle%20remortgage%20on%20laptop.jpg)
 
-
-
 ## Deciding to remortgage
 
 There are several reasons you may decide to remortgage, including to free up more money or to gain more flexibility. But one of the most common reasons for remortgaging is to get a better rate once your initial mortgage period has ended.
@@ -46,7 +44,7 @@ With a repayment mortgage you’re paying off the whole debt including interest,
 ### The mortgage term
 Also consider the term of the mortgage, which is the lifetime of the loan. A longer term can mean lower monthly repayments, but having the loan over a longer period of time will mean paying more interest overall.
 
-{% include image/left.html filename="deeksha.jpg" alt="Deeksha Shah" %}
+{% include image/left.html filename="deeksha.jpg" alt="Trussle mortgage adviser Deeksha Shah" %}
 
 **Trussle mortgage adviser Deeksha Shah says:** _“Lenders are offering 5 and 10-year fixed-rate mortgages at historically low rates at a time when the future is looking increasingly uncertain. Taking advantage of one these longer term fixed rates will help you budget more easily and could be beneficial if you’re not planning to move within the next few years.”_
 
