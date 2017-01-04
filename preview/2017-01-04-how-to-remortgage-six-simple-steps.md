@@ -52,6 +52,7 @@ Also consider the term of the mortgage, which is the lifetime of the loan. A lon
 **Trussle mortgage adviser Deeksha Shah says:** _“Lenders are offering 5 and 10-year fixed-rate mortgages at historically low rates at a time when the future is looking increasingly uncertain. Taking advantage of one these longer term fixed rates will help you budget more easily and could be beneficial if you’re not planning to move within the next few years.”_
 
 <br/>
+
 ## Step 4: Applying for the mortgage
 Whether you use a broker or go to a lender directly, you’ll be asked to provide proof of identity and proof of income. The lender will perform various checks including a credit check.
 
