@@ -51,6 +51,12 @@
     @extend .tsl-h4;
     margin: $tsl-space-large 0 $tsl-space-medium 0;
   }
+  
+  h3 {
+    @extend .tsl-h4;
+    font-size: 21px;
+    margin: $tsl-space-large 0 $tsl-space-medium 0;
+  }
 
   hr {
     margin: $tsl-space-large;
