@@ -29,6 +29,8 @@ When you reach the end of your initial rate, most lenders will move you onto the
 
 <br style="clear: left;" />*Based on a mortgage amount of £173,400 repayable over 25 years, as of Nov ‘16
 
+For more information about finding remortgage rates read our article, [Where To Remortgage](https://trussle.com/blog/where-to-remortgage-saving-time-money).
+
 Think about switching your mortgage around three months before your initial period ends. This will give you more time to find an attractive rate, since mortgage offers are valid for several months. Bear in mind that it can take up to two weeks to receive an offer from a mortgage lender. If you don’t remortgage before your initial rate finishes, you’re likely to end up on the SVR (but you can still remortgage later on to switch to a potentially better rate).
 
 In some situations, remortgaging when your initial term ends may not make sense. For example, if you’re within several months of paying off your mortgage, the cost of remortgaging may be higher than the remaining loan amount.
@@ -56,6 +58,8 @@ Consider product features when you’re making a decision: will your new mortgag
 You could also choose a shorter mortgage term when you remortgage if you want to pay your mortgage off sooner. Be careful, as this will result in increased monthly repayments.
 
 Remember to take into account the cost of a property valuation and solicitor fees when you’re making your remortgaging decision, as these can add up.
+
+Read our article, [How To Remortgage (In 6 Simple Steps)](https://trussle.com/blog/how-to-remortgage-six-simple-steps) for a clear and simple guide through this process.
 
 ## Keeping track of your current mortgage
 
