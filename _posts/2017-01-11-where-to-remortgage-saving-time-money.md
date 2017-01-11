@@ -12,7 +12,7 @@ date: '2017-01-04T00:00:00.000Z'
 ---
 _To find a new mortgage, you can use a comparison website or go to a mortgage broker. You may also want to check what your existing lender can offer. One of the best ways to remortgage is to use an online broker like [Trussle](https://trussle.com/), which can help you secure the right mortgage conveniently online._
 
-![Trussle homeowner searching for where to remortgage using laptop]({{site.baseurl}}/_posts/Trussle%20where%20to%20remortgage.jpg)![Trussle where to remortgage.jpg]({{site.baseurl}}/_posts/Trussle where to remortgage.jpg)
+![Trussle homeowner searching for where to remortgage using laptop]({{site.baseurl}}/images/post_images/Trussle where to remortgage.jpg)![Trussle where to remortgage.jpg]({{site.baseurl}}/images/post_images/Trussle where to remortgage.jpg)
 
 ## Deciding to remortgage
 When you reach the end of your initial mortgage deal, you’ll be moved onto your lender’s Standard Variable Rate (SVR), which usually means your monthly repayments will increase.
