@@ -34,7 +34,7 @@ If you’re remortgaging before your initial term ends, check the Early Repaymen
 If you’re remortgaging at the end of your initial term, fees don’t usually apply.
 
 ## Step 3: Finding a new mortgage
-Remortgaging is just getting a new mortgage; there’s no specific ‘remortgage’ product, so you have a full range of mortgage deals to choose from.
+Remortgaging is just getting a new mortgage; there’s no specific ‘remortgage’ product, so you have a full range of mortgage deals to choose from. Read our article, [Where To Remortgage (Saving Time And Money)](https://trussle.com/blog/where-to-remortgage-saving-time-money) for help with finding the right mortgage for you.
 
 When you’re comparing mortgages, consider the upfront fees, the interest rates, and the rules and restrictions (whether overpayments are allowed, for example).
 
