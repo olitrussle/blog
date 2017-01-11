@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-_To find a new mortgage, you can use a comparison website or go to a mortgage broker. You may also want to check what your existing lender can offer. One of the best ways to remortgage is to use an online broker like Trussle, which can help you secure the right mortgage conveniently online._
+_To find a new mortgage, you can use a comparison website or go to a mortgage broker. You may also want to check what your existing lender can offer. One of the best ways to remortgage is to use an online broker like [Trussle](https://trussle.com/), which can help you secure the right mortgage conveniently online._
 
 <image>
 
@@ -17,7 +17,7 @@ Here are a few ways you can search the market to compare remortgage deals and fi
 ## Asking what your existing lender can offer
 Your existing provider may be keen to keep you as a customer, so there’s a chance they’ll offer you a competitive deal. But be sure to compare any offer with other mortgage deals on the market.
 
-{% include image/left.html filename="ryan.jpg" alt="Ryan Tuff" %}
+{% include image/left.html filename="deeksha.jpg" alt="Trussle mortgage adviser Deeksha Shah" %}
 
 **Trussle mortgage adviser Deeksha Shah says:** _“The mortgage market is as competitive as it’s ever been, so it’s really important to shop around. Speaking to just one lender will severely limit your options and could mean you’ll miss out on a much better deal.”_
 
@@ -43,7 +43,7 @@ The mortgage deals you’re offered will depend partly on your loan-to-value rat
 For example if your property is worth £200,000, you bought it with a £40,000 deposit and you’ve already paid off £10,000 of your mortgage, you’re now borrowing £150,000. This means your LTV is 75%. 
 
 ### Fixed vs. variable rates
-You can choose a mortgage with a fixed interest rate for predictable payments, or a mortgage with a variable interest rate if you’re happy for your payments to go up and down according to the financial markets.
+You can choose a mortgage with a fixed interest rate for predictable payments, or a mortgage with a variable interest rate if you’re happy for your payments to go up and down according to the financial markets. There’s more information about this in our article, [How To Remortgage](https://trussle.com/blog/how-to-remortgage-six-simple-steps).
 
 ### Two, three, five or 10 year fixed
 You can also choose how long you want your mortgage rate to be fixed for, with lenders offering two, three and five year fixed options, and some even offering 10. If you’re likely to sell your home in the next few years, going for a shorter fixed term may be the better option; if your mortgage is still fixed when you want to move, you may have to pay an early repayment charge.
