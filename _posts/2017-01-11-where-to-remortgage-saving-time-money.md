@@ -8,7 +8,7 @@ excerpt: >-
   broker. You may also want to check what your existing lender can offer. One of
   the best ways to remortgage is to use an online broker.
 thumbnail_filename: TrussleWhereRemortgageLaptopSquare.jpg
-date: '2017-01-04T00:00:00.000Z'
+date: '2017-01-11T00:00:00.000Z'
 ---
 _To find a new mortgage, you can use a comparison website or go to a mortgage broker. You may also want to check what your existing lender can offer. One of the best ways to remortgage is to use an online broker like [Trussle](https://trussle.com/), which can help you secure the right mortgage conveniently online._
 
