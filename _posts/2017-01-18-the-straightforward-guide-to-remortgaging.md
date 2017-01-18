@@ -7,7 +7,7 @@ excerpt: >-
   Remortgaging is the process of switching from one mortgage to another, and
   often involves moving from one lender to another in search of a better deal.
 thumbnail_filename: TrussleWhereRemortgageLaptopSquare.jpg
-date: '2017-01-11T00:00:00.000Z'
+date: '2017-01-18T00:00:00.000Z'
 title: The Straightforward Guide To Remortgaging
 ---
 _Remortgaging is the process of switching from one mortgage to another. There’s no specific ‘remortgage’ product, so you have a wide range of mortgage deals to choose from. Remortgaging could save you a lot of money and new online services like [Trussle](https://trussle.com/) can make the whole process very straightforward._
