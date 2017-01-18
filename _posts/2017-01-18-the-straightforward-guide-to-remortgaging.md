@@ -6,7 +6,7 @@ author_twitter: oliwesbiz
 excerpt: >-
   Remortgaging is the process of switching from one mortgage to another, and
   often involves moving from one lender to another in search of a better deal.
-thumbnail_filename: TrussleWhereRemortgageLaptopSquare.jpg
+thumbnail_filename: Reading Trussle's straightforward remortgage guide square.jpg
 date: '2017-01-18T00:00:00.000Z'
 title: The Straightforward Guide To Remortgaging
 ---
