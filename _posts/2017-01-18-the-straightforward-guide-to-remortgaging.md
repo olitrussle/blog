@@ -28,7 +28,9 @@ Remortgaging at the end of your mortgage’s initial term means you avoid paying
 {% include image/left.html filename="ryan.jpg" alt="Ryan Tuff" %}
 
 **Trussle mortgage adviser Ryan Tuff says:** _“The key thing is to make sure you don’t fall onto your lender’s Standard Variable Rate. Doing so can be extremely costly. Look into switching around three months before your initial period ends to prevent paying more than you should.”_
+
 <br/>
+
 ## When should I remortgage?
 Ideally you should start the process of looking for a new mortgage about three months before the end of your initial term.
 
@@ -36,7 +38,7 @@ Make the move too early and you may be subject to an Early Repayment Charge (ERC
 
 A [free mortgage monitoring service](https://trussle.com/remortgage) from Trussle will notify you when it’s time to make the switch.
 
-**Learn more in our guide, [When To Remortgage (And When Not To)](https://trussle.com/blog/when-to-remortgage-and-when-not-to).**
+**For more details, read [When To Remortgage (And When Not To)](https://trussle.com/blog/when-to-remortgage-and-when-not-to).**
 
 ## How do I remortgage?
 You’ll need to look at the paperwork for your current mortgage so that you’re clear about when your initial term ends and what fees may be incurred by switching early.
@@ -47,7 +49,7 @@ You’ll then need to research which remortgage deals are available by speaking 
 
 The final stages of the remortgaging process will be agreeing the new mortgage. This will involve credit checks and a valuation of your property.
 
-**Learn more in our guide, [How To Remortgage (In 6 Simple Steps)](https://trussle.com/blog/how-to-remortgage-six-simple-steps).**
+**For more details, read [How To Remortgage (In 6 Simple Steps)](https://trussle.com/blog/how-to-remortgage-six-simple-steps).**
 
 ## Where do I remortgage?
 You have four main options to consider when deciding where to remortgage:
@@ -58,7 +60,7 @@ Speaking to a traditional mortgage broker will ensure you consider a wide range 
 
 Alternatively you could use an online broker like [Trussle](https://trussle.com/) to receive a quick and hassle-free service, with a qualified mortgage adviser at the end of the phone should you want to speak directly.
 
-**Learn more in our guide, [Where To Remortgage (Saving Time And Money)](https://trussle.com/blog/where-to-remortgage-saving-time-money).**
+**For more details, read [Where To Remortgage (Saving Time And Money)](https://trussle.com/blog/where-to-remortgage-saving-time-money).**
 
 <br/>
 **You may have to pay an early repayment charge to your existing lender if you remortgage.**
