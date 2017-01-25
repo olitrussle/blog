@@ -1,67 +1,82 @@
-.site-footer {
-  text-align: center;
+$tsl-primary-green: map-get($tsl-colours, primary-green);
+$tsl-secondary-mid-gray: map-get($tsl-colours, secondary-mid-grey);
+$tsl-secondary-light-gray: #EEE; // Gah.
 
-  .footer-green-section {
-    color: white;
-    @extend .tsl-primary-black-bg;
-    padding-bottom: $tsl-space-medium;
-  }
+.footer-link-list, .footer-legal, .footer-business-info {
+  @include wrap-to($outer-width);
+}
 
-  margin-top: 24px;
-  // Cool house-styled edge
+@mixin house-border-top {
+  background-color: $tsl-secondary-light-gray;
+  border-top: 4px solid $tsl-primary-green;
+  margin-top: $spacing-unit;
   position: relative;
-  &::before {
-    content: "\00a0"; // Space
-    width: 30px;
-    height: 25px;
-    background: url("#{$base-url}/images/house-footer.png");
-    position: absolute;
-    top: -24px;
-    right: 35px;
-  }
 
-  h3 {
-    color: white;
+  &::before {
+    background: url("#{$base-url}/images/house-footer.png");
+    content: "\00a0"; // Space
+    height: 25px;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    top: -24px;
+    width: 28px;
+  }
+}
+
+.site-footer {
+  @include house-border-top;
+
+  color: $tsl-secondary-mid-gray;
+  padding: $spacing-unit;
+  text-align: left;
+
+  @include for-small-only {
+    text-align: center;
+  }
+}
+
+.footer-link-list {
+  margin-bottom: $spacing-unit;
+  position: relative;
+  text-align: center;
+}
+
+.footer-link-list-column {
+  display: inline-block;
+  vertical-align: top;
+  width: 33%;
+
+  @include for-small-only {
+    display: block;
+    width: 100%;
   }
 
   a {
-    color: white;
+    border: 0;
+    color: $tsl-secondary-mid-gray;
+    display: block;
+    font-weight: 600;
+
+    padding: 5px 0;
+
 
     &:hover {
+      border: 0;
       text-decoration: underline;
     }
   }
-
-  .footer-link-list {
-    @include wrap-to($outer-width);
-
-    .footer-link-list-item {
-      border: 0;
-      display: inline-block;
-      max-width: 20%;
-      min-width: 120px;
-      padding: $tsl-space-medium;
-
-      &:hover { border: 0; }
-    }
-
-    a {
-      display: block;
-    }
-  }
-
-  .footer-legal {
-    @extend .tsl-primary-green;
-    @include wrap-to($outer-width);
-  }
 }
 
-.footer-business {
-  @include wrap-to($outer-width);
+
+.footer-legal {
+  margin-bottom: $spacing-unit / 2;
+}
+
+.footer-business-info {
   font-size: 80%;
-  padding: $tsl-space-small;
-}
-
-.last {
-  padding-bottom: $tsl-space-large;
+  line-height: 125%;
+  margin: 0 auto;
+  padding-bottom: $spacing-unit / 4;
 }
