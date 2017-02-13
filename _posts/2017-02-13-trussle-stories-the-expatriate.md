@@ -8,8 +8,9 @@ author_twitter: oliwesbiz
 thumbnail_filename: Emile_square.jpg
 author: Oli West
 date: '2017-02-13T00:00:00.000Z'
+title: 'Trussle Stories: The Expatriate'
 ---
-![Emile and his family]({{site.baseurl}}/_posts/Emile.jpg)
+![Emile and his family]({{site.baseurl}}/images/post_images/Emile.jpg)
 
 At [Trussle](https://trussle.com/) we put our customers first. We speak with them regularly to find out why they choose our online service to get a mortgage instead of their bank or a traditional high-street adviser.
 
@@ -18,8 +19,6 @@ It’s clear from speaking to our customers how unique they all are; from teache
 In this story, we hear from a South African auditor who was able to buy a dream home for his family despite a unique set of circumstances.
 
 ## The dream home
-
-{% include image/left.html filename="emile.jpg" %}
 
 Emile, a Governance Executive from South Africa, had lived in the UK for five years before deciding to buy his first family home.
 
