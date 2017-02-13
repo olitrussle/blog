@@ -20,9 +20,7 @@ In this story, we hear from a South African auditor who was able to buy a dream 
 
 ## The dream home
 
-Emile, a Governance Executive from South Africa, had lived in the UK for five years before deciding to buy his first family home.
-
-With a baby on the way, Emile and his wife had a limited timeframe to find a new home!
+Emile had lived in the UK for five years before deciding to buy his first family home. With a baby on the way, Emile and his wife had a limited timeframe to find a new home!
 
 > “We were fortunate that we fell in love with the first place we saw. It was a dream home for us.”
 
