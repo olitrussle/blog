@@ -1,0 +1,36 @@
+include typography/font-demo
+
+h2#typography Typography
+
+h4#typography-typeface Brand Typeface
+
+p All fonts can be used either by including the mixin in SASS or using the class in CSS. eg. to use #[tt tsl-font-serif], either #[tt @include tsl-font-serif] in SASS or use #[tt .tsl-font-serif] in CSS.
+
+p Playfair Display and Source Sans Pro are our two fonts.
+
+.font-demo-container
+  +font-demo("serif")
+  +font-demo("sans-serif")
+
+p Both fonts are used for headings.
+
+.font-demo-container
+  +font-demo("heading-primary")
+  +font-demo("heading-secondary")
+
+p Three weights of Source Sans Pro are used for all functional typography: Light, Regular and Semibold.
+
+.font-demo-container
+  +font-demo("body-bold")
+  +font-demo("body")
+  +font-demo("body-light")
+
+h4#typography-links Links
+
+include typography/link-demo
+
+h4#typography-fallback Fallback Fonts
+
+p In the event that the brand typeface cannot be used, we prescribe the following fallbacks in order:
+
+include typography/fallback-font-demo

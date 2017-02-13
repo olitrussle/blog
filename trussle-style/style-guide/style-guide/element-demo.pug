@@ -1,0 +1,9 @@
+// Used for all elements to give a consistent demonstration
+mixin element-demo(element_name, example_text)
+  .element-demo
+    .element-container
+      #{element_name}!= example_text
+    .element-container
+      div(class=`tsl-${element_name}`)!= example_text
+
+    p Use with #[tt #{element_name}] in #[tt .tsl-style] or use #[tt .tsl-#{element_name}] directly.

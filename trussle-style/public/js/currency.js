@@ -9,12 +9,15 @@
 // elements will be augmented with JavaScript that
 // ensures inputs will remain a currency.
 
+var PREFIX = "£ ";
+
 // Converts currency strings to numeric values,
 // rounded to 2 decimal places. Returns null if no numbers.
 function _currencyStringToValue(value) {
-  var unrounded = Number(value.replace(/[^0-9\.]+/g, ""));
+  var stripped = value.replace(/[^0-9\.]+/g, "");
+  if(stripped === "") { return null; }
 
-  if(unrounded === "") { return null; }
+  var unrounded = Number(value.replace(/[^0-9\.]+/g, ""));
   return Math.floor(unrounded * 100) / 100;
 }
 
@@ -24,14 +27,16 @@ function _currencyStringToValue(value) {
 // Returns an object with:
 // - rawValue: the value as a Number.
 // - displayedValue: the formatted value to display.
+//
+// Returns "£ " and null when no value has been entered.
 function formatCurrencyInput(oldValue) {
 
   var rawValue = _currencyStringToValue(oldValue);
 
   // Replace the fanciness for display.
   var displayedValue;
-  if (rawValue === null) { displayedValue = "£ "; }
-  else { displayedValue = "£ " + rawValue.toLocaleString("en-GB"); }
+  if (rawValue === null) { displayedValue = PREFIX; }
+  else { displayedValue = PREFIX + rawValue.toLocaleString("en-GB"); }
 
   // If the last character is a dot, it will be stripped in the number conversion. Let's re-add it!
   if (oldValue[oldValue.length - 1] === ".") {
@@ -51,23 +56,46 @@ function getNewCaretPosition(oldValue, newValue, oldCaretPosition) {
   //
   // Here's how to do it - get the numbers before the caret, then
   // put the caret just after that last number.
+  // (when deleting, however, it's the other way round!)
 
-  var numbersUsed = _currencyStringToValue(oldValue.substr(0, oldCaretPosition)).toString();
-  if (numbersUsed === "null") { return oldCaretPosition; }
-  if (oldValue[oldValue.length - 1] === ".") {
-    numbersUsed += ".";
+  if (oldValue === newValue) { return oldCaretPosition; }
+
+  if (oldValue.length <= newValue.length) {
+
+    // Addition
+    var beforeCaret = _currencyStringToValue(oldValue.substr(0, oldCaretPosition));
+
+    // If there are no numbers before the caret, we've deleted everything!
+    if (beforeCaret == null) { return PREFIX.length; }
+
+    // Make sure we keep our .
+    var beforeCaretString = beforeCaret.toString();
+    if (oldValue[oldValue.length - 1] === ".") {
+      beforeCaretString += ".";
+    }
+
+    // "123" => /1,?2,?3/
+    var searchRegex = new RegExp(beforeCaretString.split('').join(',?'));
+
+    var match = searchRegex.exec(newValue);
+    if (!match) { return oldCaretPosition - 1; }
+    else { return match.index + match[0].length; }
+
+  } else {
+
+    // Deletion
+    var afterCaret = _currencyStringToValue(oldValue.substr(oldCaretPosition));
+    if (afterCaret == null) { return newValue.length; }
+    var afterCaretString = afterCaret.toString();
+
+    // "123" => /.(?=(1,?2,?3))/ (positive lookahead)
+    var searchRegex = new RegExp('.(?=' + afterCaretString.split('').join(',?') + ')');
+
+    var match = searchRegex.exec(newValue);
+    if (!match) { return oldCaretPosition - 1; }
+    else { return match.index + match[0].length; }
   }
 
-  // "123" => /1[^2]*2[^3]*3/
-  var searchRegex = new RegExp(Array.prototype.reduce.call(numbersUsed, function(memo, item) {
-    if (!memo) { return item; }
-    if (item === ".") { item = "\\."; }
-    return memo + "[^" + item + "]*" + item;
-  }));
-
-  var match = searchRegex.exec(newValue);
-  if (!match) { return newValue.length; }
-  else { return match.index + match[0].length; }
 }
 
 // Attaches an oninput handler to each .tsl-currency class
@@ -78,16 +106,28 @@ function attachCurrencyHandlers() {
   Array.prototype.forEach.call(currencyInputs, function(input) {
 
     input.oninput = function onCurrencyInput(event) {
-      var oldValue = input.value;
-      var oldCaretPosition = input.selectionStart;
+      var dirtyValue = input.value;
+      var dirtyCaretPosition = input.selectionStart;
 
-      var newValues = formatCurrencyInput(oldValue);
-      input.rawValue = newValues.rawValue;
-      input.value = newValues.displayedValue;
+      var cleanValues = formatCurrencyInput(dirtyValue);
+      input.rawValue = cleanValues.rawValue;
+      input.value = cleanValues.displayedValue;
 
-      var newCaretPosition = getNewCaretPosition(oldValue, input.value, oldCaretPosition);
-      input.selectionStart = newCaretPosition;
-      input.selectionEnd = newCaretPosition;
+      if (input === document.activeElement) {
+        var newCaretPosition = getNewCaretPosition(dirtyValue, cleanValues.displayedValue, dirtyCaretPosition);
+
+        // Chrome for Android does something weird
+        // when an oninput event changes the value of
+        // an input. However, within a glorious setTimeout,
+        // all is well with the world.
+        //
+        // I hate myself.
+        setTimeout(function() {
+          input.selectionStart = newCaretPosition;
+          input.selectionEnd = newCaretPosition;
+        }, 1);
+
+      }
     }
 
     // Make sure the input is valid immediately.

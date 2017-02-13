@@ -1,0 +1,7 @@
+mixin font-demo(font_name)
+  .font-demo
+    div(class=`font-name tsl-font-${font_name}`) tsl-font-#{font_name}
+    div(class=`text-demo tsl-font-${font_name}`)
+      | ABCDEFGHIJKLMNOPQRSTUVWXYZ #[br]
+      | abcdefghijklmnopqrstuvwxyz #[br]
+      | 1234567890

@@ -1,0 +1,50 @@
+
+@mixin tsl-input-primary {
+  @extend %_tsl-ui-element;
+
+  border-color: $tsl-mid-grey;
+  color: $tsl-dark-grey;
+  padding: $tsl-input-internal-padding $tsl-input-internal-padding;
+  border-radius: 0;
+  box-shadow: none;
+  -webkit-appearance: none; // remove inner shadow in safari
+
+  &:hover {
+    border-color: $tsl-dark-grey;
+  }
+
+  &:focus,
+  &:active {
+    border-color: $tsl-green !important;
+  }
+
+  &.valid {
+    border-color: $tsl-deep-green;
+  }
+
+  &:invalid,
+  &.invalid {
+    border-color: $tsl-red;
+  }
+
+  &:disabled,
+  &.disabled {
+    border-color: $tsl-light-grey;
+    color: $tsl-light-grey;
+  }
+}
+
+@mixin tsl-input-secondary {
+  @extend %_tsl-ui-element;
+
+  border: 0;
+  border-bottom: 1px dotted $tsl-dark-grey;
+  color: $tsl-green;
+  font-size: 1.5;
+  height: auto;
+
+  &:focus,
+  &:active {
+    border-color: $tsl-green !important;
+  }
+}

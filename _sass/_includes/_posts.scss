@@ -5,14 +5,15 @@
 a.post-summary {
   @extend .tsl-font-body;
 
-  border: 1px solid map-get($tsl-colours, secondary-light-grey);
+  border: 1px solid $tsl-light-grey;
   border-radius: 3px;
-  box-shadow: 0 2px 2px -1px map-get($tsl-colours, secondary-mid-grey);
+  box-shadow: 0 2px 2px -1px $tsl-mid-grey;
   display: block;
   margin: $tsl-space-medium;
   padding: $tsl-space-small;
   position: relative;
   transition: all 0.2s ease-out;
+  text-decoration: none;
 
   @include for-small-only {
     margin-left: 0;
@@ -20,8 +21,8 @@ a.post-summary {
   }
 
   &:hover {
-    border: 1px solid map-get($tsl-colours, secondary-light-grey);
-    box-shadow: 0 4px 10px -1px map-get($tsl-colours, secondary-light-grey);
+    border: 1px solid $tsl-light-grey;
+    box-shadow: 0 4px 10px -1px $tsl-light-grey;
 
     .post-summary-cta {
       text-decoration: underline;
@@ -41,7 +42,6 @@ a.post-summary {
 }
 
 .post-summary-title {
-  @extend .tsl-h4;
   font-size: 125%;
 }
 

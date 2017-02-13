@@ -9,7 +9,8 @@
 function resizeSelectToSelectedOption(select) {
   var MINIMUM_SELECT_WIDTH = 144;
 
-  var selectedOptionText = select.selectedOptions[0].innerHTML;
+  var selectedIndex = select.selectedIndex;
+  var selectedOptionText = select[selectedIndex].innerHTML;
   var selectCss = select.className;
 
   if (selectedOptionText === "") {

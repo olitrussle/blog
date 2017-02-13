@@ -3,7 +3,7 @@
 }
 
 .post-title {
-  @extend .tsl-h1;
+  font-size: 48px;
 
   @include for-small-only {
     margin-top: $tsl-space-medium;
@@ -12,11 +12,10 @@
 }
 
 .post-meta {
-  @extend .tsl-p;
 }
 
 .post-content {
-  @extend .trussle-style;
+  @extend .tsl-style;
 
   font-size: 21px;
 
@@ -48,12 +47,10 @@
   }
 
   h2 {
-    @extend .tsl-h4;
     margin: $tsl-space-large 0 $tsl-space-medium 0;
   }
-  
+
   h3 {
-    @extend .tsl-h4;
     font-size: 21px;
     margin: $tsl-space-large 0 $tsl-space-medium 0;
   }

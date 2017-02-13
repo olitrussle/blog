@@ -19,7 +19,7 @@ function resizeInputToText(input) {
 
   // Create a span with the same properties as the input.
   var widthCheckerElement = document.createElement("span");
-  widthCheckerElement.className = inputCss + " tsl-input";
+  widthCheckerElement.className = inputCss;
   widthCheckerElement.style.display = "inline-block";
   widthCheckerElement.innerHTML = inputText.replace(/ /g, "&nbsp;");
 

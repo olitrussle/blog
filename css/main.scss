@@ -15,11 +15,11 @@ $spacing-unit:     $tsl-space-large;
 
 $text-color:       #000;
 $background-color: #fff;
-$brand-color:      map-get($tsl-colours, 'primary-green');
+$brand-color:      $tsl-green;
 
-$grey-color:       map-get($tsl-colours, 'secondary-mid-grey');
-$grey-color-light: map-get($tsl-colours, 'secondary-light-grey');
-$grey-color-dark:  map-get($tsl-colours, 'secondary-dark-grey');
+$grey-color:       $tsl-mid-grey;
+$grey-color-light: $tsl-light-grey;
+$grey-color-dark:  $tsl-dark-grey;
 
 // Width of the content area
 $outer-width:      1000px;
@@ -29,8 +29,8 @@ $content-width:    800px;
 // but it is necessary to get images working right!
 $base-url: "/blog";
 
-
 $small-only: 640px;
+
 @mixin for-small-only {
   @media screen and (max-width: $small-only) {
     @content;

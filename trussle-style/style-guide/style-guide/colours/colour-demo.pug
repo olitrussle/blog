@@ -1,0 +1,6 @@
+mixin colour-demo(colour_name, hex)
+  div.colour-demo-container
+    .colour-demo(class=`tsl-bg-${colour_name}` style="color: black") #{hex}
+    .colour-demo(class=`tsl-bg-${colour_name}` style="color: white") #{hex}
+    .colour-demo(class=`tsl-${colour_name}`) #{hex}
+    | $tsl-#{colour_name}

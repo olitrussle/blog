@@ -1,21 +1,25 @@
 .intro {
-  @extend .tsl-secondary-deep-blue-bg;
-  color: #F6F6F6;
+  background-color: $tsl-deep-blue;
+
+  p {
+    color: $tsl-off-white;
+  }
 
   & > * {
     @include wrap-to($content-width);
   }
 
   a {
-    border-color: #F6F6F6;
-    color: #F6F6F6;
+    border-color: $tsl-off-white;
+    color: $tsl-off-white;
 
-    &:hover { border-color: white; color: white; }
+    &:hover { border-color: $tsl-white; color: $tsl-white; }
   }
 
   padding: $tsl-space-medium 0 $tsl-space-tiny 0;
 }
 
 .intro-cta {
-  font-weight: $body-font-weight-bold;
+  @include tsl-font-body-bold;
+  color: $tsl-off-white;
 }

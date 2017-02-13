@@ -1,0 +1,71 @@
+// Run your PNGs through an optimisation process
+// to remove spaces and compress.
+//
+// Here's one I used earlier:
+//   https://compressor.io
+$dropdown-arrow-url: 'data:image/image+png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAICAQAAACxSAwfAAAAgElEQVQYGaXBsQ2CUBiF0YtTyB46BNEhWIPGkhUsNBTGwlDYUNjoAC5hLCgtDHnBPHj5PzsLQoyJ5+hH/dTTpvpw6Ysw09AjvnLG51Izkbr8xCUENERUrwpKrJKo9hTmsLnGuM2aA092bOlhoTF1JDXZkcxK62Cpb+7JDQ+x/vEGZI5D4o1o50oAAAAASUVORK5CYII=';
+
+@mixin _tsl-select-shared {
+  @extend %_tsl-ui-element;
+
+  // Don't show borders.
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  &::-ms-expand {
+    display: none;
+  }
+
+  border-radius: 0;
+  outline: none;
+}
+
+// TODO: Get rid of those awful fixed pixel values.
+// I assume it breaks on a browser somewhere...
+@mixin tsl-select-primary {
+  @include _tsl-select-shared;
+
+  background-color: $tsl-white;
+  background-image: url($dropdown-arrow-url);
+  background-position: right center;
+  background-repeat: no-repeat;
+  border-color: $tsl-mid-grey;
+  color: $tsl-mid-grey;
+  padding: $tsl-input-internal-padding ($tsl-input-internal-padding * 2 + 14px) $tsl-input-internal-padding $tsl-input-internal-padding;
+
+  &:hover {
+    border-color: $tsl-dark-grey;
+    color: $tsl-dark-grey;
+  }
+
+  &:focus,
+  &:active {
+    border-color: $tsl-dark-grey;
+    color: $tsl-dark-grey;
+    outline: none;
+  }
+
+  &:disabled,
+  &.disabled {
+    border-color: $tsl-light-grey;
+    color: $tsl-light-grey;
+  }
+}
+.tsl-select-primary { @include tsl-select-primary; }
+
+@mixin tsl-select-secondary {
+  @include _tsl-select-shared;
+
+  border: 0;
+  border-bottom: 1px dotted $tsl-dark-grey;
+  color: $tsl-green;
+  font-size: 1.5;
+  height: auto;
+
+  // Hide arrow when valid.
+  &:valid {
+    background-image: none;
+    padding-right: ($tsl-input-internal-padding * 2);
+  }
+}
+.tsl-select-secondary { @include tsl-select-secondary; }

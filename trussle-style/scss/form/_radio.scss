@@ -1,0 +1,93 @@
+$tsl-input-radio-default-width: 150px;
+
+@mixin tsl-radio-label-base($tsl-input-radio-width: $tsl-input-radio-default-width) {
+  @extend %_tsl-unselectable;
+  background-color: $tsl-white;
+  border: 1px solid $tsl-mid-grey;
+  color: $tsl-mid-grey;
+  display: inline-block;
+  font-weight: $tsl-font-sans-serif-font-weight-normal;
+  padding: $tsl-input-internal-padding;
+  position: relative;
+  text-align: center;
+  transition:
+    color 0.2s linear,
+    border-color 0.2s linear;
+  width: $tsl-input-radio-width;
+  z-index: 2;
+}
+
+@mixin _tsl-radio-label-hover {
+  border-color: $tsl-dark-grey;
+  color: $tsl-dark-grey;
+  cursor: pointer;
+}
+
+@mixin _tsl-radio-label-disabled {
+  border-color: $tsl-light-grey;
+  color: $tsl-light-grey;
+}
+
+@mixin _tsl-radio-label-checked {
+  border-color: $tsl-deep-green;
+  color: $tsl-deep-green;
+}
+
+@mixin _tsl-radio-label-checked-hover {
+  border-color: $tsl-green;
+    color: $tsl-green;
+}
+
+@mixin tsl-radio-label($tsl-input-radio-width: $tsl-input-radio-default-width) {
+  @include tsl-radio-label-base($tsl-input-radio-width);
+
+  &:hover,
+  &.hover {
+    @include _tsl-radio-label-hover;
+  }
+
+  &.disabled {
+    @include _tsl-radio-label-disabled;
+  }
+
+  &.checked {
+    @include _tsl-radio-label-checked;
+
+    &:hover,
+    &.hover {
+      @include _tsl-radio-label-checked-hover;
+    }
+  }
+}
+
+.tsl-radio-label { @include tsl-radio-label; }
+
+@mixin tsl-radio($tsl-input-radio-width: $tsl-input-radio-default-width) {
+  opacity: 0;
+  position: absolute;
+  z-index: 1;
+
+  & + label {
+    @include tsl-radio-label($tsl-input-radio-width);
+  }
+
+  &:focus + label,
+  & + label.focus {
+    @include _tsl-radio-label-hover;
+  }
+
+  &:disabled + label {
+    @include _tsl-radio-label-disabled;
+  }
+
+  &:checked + label {
+    @include _tsl-radio-label-checked;
+  }
+
+  &:focus:checked + label,
+  &:checked + label:hover {
+    @include _tsl-radio-label-checked-hover;
+  }
+}
+
+.tsl-radio { @include tsl-radio; }

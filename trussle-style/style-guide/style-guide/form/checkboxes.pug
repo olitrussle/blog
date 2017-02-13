@@ -1,0 +1,56 @@
+h4#ui-checkboxes Checkboxes
+
+.element-demo
+  .element-container
+    input(id="checkbox-demo-1" type="checkbox")
+    label(for="checkbox-demo-1") Normal Checkbox
+
+    input(id="checkbox-demo-2" type="checkbox" disabled checked)
+    label(for="checkbox-demo-2") Disabled and Checked
+
+    input(id="checkbox-demo-3" type="checkbox" disabled)
+    label(for="checkbox-demo-3") Disabled and Unchecked
+
+  .element-container(style="width: 300px;")
+    input(id="checkbox-demo-4" type="checkbox")
+    label(for="checkbox-demo-4") This is a checkbox with a longer label to show how the label wraps compared to the checkbox.
+
+p The checkbox works by hiding the input and replacing it with a PNG version. #[strong A label must immediately follow this input.]
+
+p Use one of the following:
+  ul
+   li Use the mixins #[tt tsl-checkbox] on an input or #[tt tsl-checkbox-label] on a label (SCSS).
+   li #[tt .tsl-checkbox] on an input, followed by a #[tt label] (CSS).
+   li
+      tt .tsl-style input[type="checkbox"]
+      | followed by #[tt .tsl-style label].
+
+h4 Large Selection Boxes (Radio Buttons)
+
+p Within forms there will be multiple choice questions that require a one click answer. When there are more than 6 options they should be consolidated into a dropdown.
+
+.element-demo
+  .element-container
+    input(name="radio-demo-1" id="radio-demo-1-option-1" type="radio" value="1" selected)
+    label(for="radio-demo-1-option-1") One
+
+    input(name="radio-demo-1" id="radio-demo-1-option-2" type="radio" value="2")
+    label(for="radio-demo-1-option-2") Two
+
+    input(name="radio-demo-1" id="radio-demo-1-option-3" type="radio" value="3")
+    label(for="radio-demo-1-option-3") Three
+
+    input(name="radio-demo-1" id="radio-demo-1-option-4" type="radio" value="X" disabled)
+    label(for="radio-demo-1-option-4") Disabled
+
+p The radio buttons work by hiding the input and replacing it with a label. #[strong A label must immediately follow this input.]
+
+p Use one of the following:
+  ul
+   li Use the mixins #[tt tsl-radio] on an input and #[tt tsl-radio-label] on a label (SCSS).
+   li #[tt .tsl-radio] on an input, followed by a #[tt label] (CSS).
+   li
+      tt .tsl-style input[type="radio"]
+      | followed by #[tt .tsl-style label].
+
+p The #[tt tsl-radio] mixin in SCSS can take an argument to specify the size of the radio buttons; by default, the button is 150px.

@@ -1,15 +1,11 @@
-$tsl-primary-green: map-get($tsl-colours, primary-green);
-$tsl-secondary-mid-gray: map-get($tsl-colours, secondary-mid-grey);
-$tsl-secondary-light-gray: #EEE; // Gah.
-
 .footer-link-list, .footer-legal, .footer-business-info {
   @include wrap-to($outer-width);
 }
 
 @mixin house-border-top {
-  background-color: $tsl-secondary-light-gray;
-  border-top: 4px solid $tsl-primary-green;
-  margin-top: $spacing-unit;
+  background-color: #EEE;
+  border-top: 4px solid $tsl-green;
+  margin-top: $tsl-space-huge;
   position: relative;
 
   &::before {
@@ -28,7 +24,7 @@ $tsl-secondary-light-gray: #EEE; // Gah.
 .site-footer {
   @include house-border-top;
 
-  color: $tsl-secondary-mid-gray;
+  color: $tsl-mid-grey;
   padding: $spacing-unit;
   text-align: left;
 
@@ -55,7 +51,7 @@ $tsl-secondary-light-gray: #EEE; // Gah.
 
   a {
     border: 0;
-    color: $tsl-secondary-mid-gray;
+    color: $tsl-mid-grey;
     display: block;
     font-weight: 600;
 

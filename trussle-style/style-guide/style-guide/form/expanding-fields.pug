@@ -1,0 +1,25 @@
+h4#ui-expanders Expanding Fields
+
+p Using JavaScript and CSS selectors, inputs and dropdowns can be made to fit the selected option or entered text.
+
+.element-demo
+  .element-container
+    input.tsl-expanding-input(type="text" value="This is an expanding input.")
+    input.secondary.tsl-expanding-input(type="text" value="This is an expanding input.")
+
+  p Use with #[tt input.tsl-expanding-input]. Make sure to include the JavaScript for this feature, #[tt expanding-input.js].
+
+  .element-container
+    select.tsl-expanding-select
+      option(value="" hidden disabled selected) Expanding Select
+      option(value="1") Short
+      option(value="2") Medium Medium
+      option(value="5") Long Long Long Long Long
+
+    select.secondary.tsl-expanding-select
+      option(value="" hidden disabled selected) Expanding Select
+      option(value="1") Short
+      option(value="2") Medium Medium
+      option(value="5") Long Long Long Long Long
+
+  p Use with #[tt select.tsl-expanding-select]. Make sure to include the JavaScript for this feature, #[tt expanding-select.js].

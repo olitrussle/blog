@@ -1,0 +1,39 @@
+// User interface (form) elements.
+
+$tsl-input-height: 48px;
+$tsl-input-internal-padding: 10px;
+
+// Disables text selection.
+%_tsl-unselectable {
+  -webkit-touch-callout: none; // iOS Safari
+  -webkit-user-select: none;   // Chrome/Safari/Opera
+  -khtml-user-select: none;    // Konqueror
+  -moz-user-select: none;      // Firefox
+  -ms-user-select: none;       // Internet Explorer/Edge
+  user-select: none;           // Non-prefixed version, currently not supported by any browser
+}
+
+%_tsl-ui-element {
+  @include tsl-font-sans-serif;
+
+  border: 1px solid;
+  box-sizing: border-box;
+  font-size: $tsl-font-base-size;
+  line-height: $tsl-font-line-height;
+  outline: none;
+  padding-bottom: $tsl-input-internal-padding;
+  padding-top: $tsl-input-internal-padding;
+
+
+  transition:
+    color 0.2s linear,
+    background-color 0.2s linear,
+    border-color 0.2s linear;
+}
+
+@import "form/label";
+@import "form/button";
+@import "form/input";
+@import "form/select";
+@import "form/checkbox";
+@import "form/radio";

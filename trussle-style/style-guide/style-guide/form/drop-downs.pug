@@ -1,0 +1,27 @@
+h4#ui-dropdowns Dropdowns
+
+p Dropdown Style 1 is based on the entry field style.
+
+.element-demo
+  .element-container
+    select
+      option(value="" hidden disabled selected) Select
+      option(value="M") Monthly
+      option(value="Q") Quarterly
+      option(value="A") Annually
+    select(disabled)
+      option Disabled
+
+p Use with the mixin #[tt tsl-select-primary] (SASS), #[tt .tsl-select-primary] (CSS) or #[tt .tsl-style select].
+
+p The second dropdown style is used within a body of text that requires you to complete a statement.
+
+.element-demo
+  .element-container
+    select.secondary(required)
+      option(value="" hidden disabled selected)
+      option(value="M") Monthly
+      option(value="Q") Quarterly
+      option(value="A") Annually
+
+p #[strong This field must have a required attribute] in order to show/hide the arrow. Use with the mixin #[tt tsl-select-secondary] (SASS), #[tt .tsl-select-secondary] (CSS) or #[tt .tsl-style select.secondary].

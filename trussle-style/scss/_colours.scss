@@ -1,38 +1,63 @@
 // Colour definitions.
 //
-// Use these using the colours directly in SASS with map-get($tsl-colours, "colour-name");
-$tsl-colours: (
-  // Primary Brand Colour.
-  primary-green: #4AC64A,
-  primary-black: #0D280A,
-  primary-deep-green: #1DB01D,
+// Use these by using the colours directly in SASS.
 
-  // Secondary Palette.
-  secondary-yellow: #F7DD4C,
-  secondary-blue: #7ACCC8,
-  secondary-carmine: #E86D5B,
-  secondary-lime: #99D940,
-  secondary-deep-blue: #2AB9B2,
-  secondary-orange: #EC8740,
-  secondary-dark-grey: #323232,
-  secondary-mid-grey: #747474,
-  secondary-light-grey: #999,
+// Primary Brand Colours.
+$tsl-green: #4AC64A;
+$tsl-deep-green: #1DB01D;
 
-  // Other Colours.
-  tertiary-red: #E1034C,
-  tertiary-white: #FFF
+// Shades
+$tsl-pure-black: #000000;
+$tsl-black: #0D280A;
+$tsl-dark-grey: #313131;
+$tsl-mid-grey: #747474;
+$tsl-light-grey: #999999;
+$tsl-muted-grey: #BEBEBE;
+$tsl-off-white: #FDFDFD;
+$tsl-white: #FFFFFF;
+
+// Secondary Palette.
+$tsl-red: #E1034C;
+$tsl-carmine: #E86D5B;
+$tsl-pink: #FF37A6;
+$tsl-orange: #ED8740;
+$tsl-yellow: #F7DD4C;
+$tsl-lime: #99D940;
+$tsl-cyan: #1EA4F5;
+$tsl-blue: #7ACCC8;
+$tsl-deep-blue: #29B9B2;
+$tsl-purple: #5D5B58;
+$tsl-violet: #C549C5;
+
+// Used internally for generating classes.
+//
+// This violates DRY, but is a limitation of SASS.
+// (You can't interpolate variable names.)
+$_tsl-color-list: (
+  green: $tsl-green,
+  deep-green: $tsl-deep-green,
+  black: $tsl-black,
+  dark-grey: $tsl-dark-grey,
+  mid-grey: $tsl-mid-grey,
+  light-grey: $tsl-light-grey,
+  muted-grey: $tsl-muted-grey,
+  off-white: $tsl-off-white,
+  white: $tsl-white,
+  red: $tsl-red,
+  carmine: $tsl-carmine,
+  pink: $tsl-pink,
+  orange: $tsl-orange,
+  yellow: $tsl-yellow,
+  lime: $tsl-lime,
+  cyan: $tsl-cyan,
+  blue: $tsl-blue,
+  deep-blue: $tsl-deep-blue,
+  purple: $tsl-purple,
+  violet: $tsl-violet
 );
 
-// Generates the classes required.
-// For a colour foo, generate .tsl-foo and .tsl-foo-bg
-@each $name, $colour in $tsl-colours {
-  .tsl-#{$name} {
-    // TODO: How can we get away from !important?
-    color: $colour !important;
-  }
-
-  .tsl-#{$name}-bg {
-    // TODO: How can we get away from !important?
-    background-color: $colour !important;
-  }
+// CSS colour classes.
+@each $name, $color in $_tsl-color-list {
+  .tsl-#{$name} { color: $color; }
+  .tsl-bg-#{$name} { background-color: $color; }
 }

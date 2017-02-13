@@ -1,0 +1,52 @@
+%tsl-label {
+  @include tsl-font-sans-serif-bold;
+
+  // Spaced to make sure we're aligned correctly to the right
+  // of the input.
+  display: inline-block;
+}
+
+@mixin tsl-label { @extend %tsl-label; }
+.tsl-label { @include tsl-label; }
+
+// Allow labels to be placed on top...
+@mixin _tsl-question-group-on-top-overrides {
+  display: inline-block;
+}
+
+@mixin _tsl-question-group-on-top-label-overrides {
+  display: block;
+}
+
+@mixin _tsl-question-group-on-top-input-overrides {
+  display: block;
+  width: 100%;
+}
+
+@mixin tsl-question-group-on-top {
+  @include _tsl-question-group-on-top-overrides;
+
+  .question {
+    @extend %tsl-label;
+    @include _tsl-question-group-on-top-label-overrides;
+  }
+
+  .answer {
+    @include _tsl-question-group-on-top-input-overrides;
+  }
+}
+
+.tsl-question-group {
+
+  .question {
+    @extend %tsl-label;
+    padding-right: $tsl-input-internal-padding;
+  }
+
+  &.on-top {
+    @include _tsl-question-group-on-top-overrides;
+
+    .question { @include _tsl-question-group-on-top-label-overrides; }
+    .answer { @include _tsl-question-group-on-top-input-overrides; }
+  }
+}

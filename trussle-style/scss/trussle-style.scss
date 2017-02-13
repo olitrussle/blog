@@ -1,19 +1,12 @@
 // Trussle Front-End Style.
 
-// This macro generates two styles for an element x:
-//
-// .trussle-style x { ... }
-// .tsl-x { ... }
-//
-@mixin trussle-style($element-name) {
-  .trussle-style { #{$element-name} { @content; } }
-  .tsl-#{$element-name} { @content; }
-}
-
 // Note that the order is important!
-// Rules are in ascending order of precedence.
+// Where they conflict, rules are in ascending order of precedence.
 @import "space";
 @import "colours";
 @import "typography";
-@import "layout";
+@import "links";
+@import "form";
 @import "ui";
+
+@import "tsl-style";

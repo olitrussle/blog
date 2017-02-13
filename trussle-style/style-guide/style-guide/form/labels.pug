@@ -1,0 +1,25 @@
+h4 Labels
+
+p Labels are semi-bold and are placed either to the side of (default) or above the labelled input. Don't use colons (:) in the label, and make labels full questions.
+
+.element-demo
+
+  .element-container
+    .tsl-question-group
+      label.question(for="label-demo-2") What&rsquo;s your first name?
+      input.answer(id="label-demo-2")
+
+  p This can be used in a number of ways:
+
+  ol
+    li In SASS, you can style a label with the mixin #[tt tsl-label].
+    li In CSS, you can style a label directly with #[tt .tsl-label].
+    li Also in CSS, you can enclose a #[tt label.question] and #[tt input.answer] in an element styled with #[tt .tsl-question-group].
+    li Finally, also in CSS you can use a #[tt label] within a #[tt .tsl-style] element.
+
+  .element-container
+    .tsl-question-group.on-top
+      label.question(for="label-demo-1") What&rsquo;s your e-mail address?
+      input.answer(id="label-demo-1")
+
+  p By default, labels will be #[em to the side of] the input, so we have to enclose the label and input in a #[tt .tsl-question-group.on-top] to place the label above the input. In SASS, you can emulate this with the mixin #[tt tsl-question-group-on-top].

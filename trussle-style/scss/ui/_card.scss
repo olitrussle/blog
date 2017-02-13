@@ -1,0 +1,31 @@
+@mixin card-shadow {
+  box-shadow: 0 2px 4px lighten( #000, 65%);
+}
+
+@mixin tsl-card {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-top: 2px solid $tsl-light-grey;
+  background: $tsl-white;
+  @include card-shadow;
+}
+.tsl-card { @include tsl-card; }
+
+@mixin tsl-card-primary {
+  @include tsl-card;
+  border-top-color: $tsl-green;
+}
+.tsl-card-primary { @include tsl-card-primary; }
+
+@mixin tsl-card-clickable {
+  @include tsl-card;
+  @extend %_tsl-unselectable;
+
+  cursor: pointer;
+
+  &:hover {
+    border-top: 2px solid $tsl-green;
+    box-shadow: 0 7px 15px -5px $tsl-light-grey;
+  }
+}
+.tsl-card-clickable { @include tsl-card-clickable; }

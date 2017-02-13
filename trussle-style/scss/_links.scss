@@ -1,0 +1,27 @@
+
+@mixin _tsl-link-shared {
+  cursor: pointer;
+  display: inline-block;
+  text-decoration: underline;
+}
+
+// Primary link style.
+@mixin tsl-link-primary {
+  @include _tsl-link-shared;
+
+  color: $tsl-green;
+  &:hover { color: $tsl-black; }
+}
+.tsl-link-primary { @include tsl-link-primary; }
+
+// Secondary link style.
+@mixin _tsl-link-secondary-overrides {
+  color: $tsl-black;
+  &:hover { color: $tsl-green; }
+}
+
+@mixin tsl-link-secondary {
+  @include _tsl-link-shared;
+  @include _tsl-link-secondary-overrides;
+}
+.tsl-link-secondary { @include tsl-link-secondary; }

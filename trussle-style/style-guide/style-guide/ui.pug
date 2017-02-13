@@ -1,0 +1,30 @@
+h2#UI UI Elements
+
+h4#ui-card Card
+
+.element-demo
+  .element-container
+    br
+    .tsl-card
+      p Related content for a user
+    br
+    .tsl-card-primary
+      p Actionable content for the user
+    br
+    .tsl-card-clickable(tabindex="0")
+      p A clickable card
+    br
+
+p Cards are designed to group related content for the user. Those that contain actionable content should use #[tt .tsl-card-primary]; those with secondary information can use #[tt .tsl-card].
+
+p Any card that can be clicked by the user should be #[tt .tsl-card-clickable]. Don't forget to add #[tt tabindex="0"] to the card to ensure it can be clicked using the keyboard.
+
+h4#ui-lightbox Lightbox
+
+p Lightboxes are used to store additional content for the user. They are designed to sit on top of the page below but sticking to the 12 column grid which the rest of the design sits on. At least one column should be allowed on each side of the lightbox as a margin.
+
+p The mobile version is designed to sit on top of the page below but sticking to the 6 column grid which the rest of the design sits on. Lightboxes span full screen on mobile.
+
+p Text can be left aligned or centered, depending on the type of content, but line lengths should always be 8-12 words.
+
+p No lightbox assistance is given in this package. #[a(href="http://foundation.zurb.com/sites/docs/reveal.html") Foundation Reveal Modal] is used in most projects to provide lightboxes.

@@ -1,0 +1,7 @@
+// Used for all elements to give a consistent demonstration
+mixin space-demo(class_name, example_text)
+  .element-demo
+    .element-container
+      div(class=class_name)!= example_text
+
+    div Use with #[tt .#{class_name}] directly, or using #[tt $#{class_name}] in SASS.

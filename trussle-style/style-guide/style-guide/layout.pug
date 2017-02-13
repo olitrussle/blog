@@ -1,0 +1,66 @@
+include layout/space-demo
+
+h2#layout Layout
+
+h4#layout-grid The Grid
+
+p The basis of all designs is the 12-column grid. Layouts are crafted using this, and elements are aligned along the columns. In order to maintain clean, consistent and considered layouts throughout, we should have margin at the top and the sides of the grid.
+
+p The margin is flexible based on the screen and device. Larger screens may require more margin, with mobile screens the smallest margin as they require more real estate for the interface. We use the defaults from Foundation here:
+
+.element-container.grid-demos
+  .grid-demo.mobile
+    .grid On screens less than 640px, we use a 12px border.
+  .grid-demo.tablet
+    .grid On screens between 640px and 1024px, we use a 24px border.
+  .grid-demo.desktop
+    .grid On screens higher than 1024px, we keep the page at 1024px and center it on the page.
+
+p No assistance is given for the grid in this package. #[a(href="http://foundation.zurb.com/sites/docs/grid.html") Foundation Grid] is used in most projects to provide the grid system.
+
+h4#layout-horizontal Spacing
+
+p UI elements are sized horizontally to the grid, they may be between 1 and 4 columns wide and spaced between themselves according to the grid margins.
+
+p Paragraphs of copy should be restrained in width to ensure line lengths are never more than 8-12 words.
+
+p All spacing is based on 8px multiples. Some SASS variables are given to help:
+
+ul
+  li #[tt $tsl-space-multiple]
+    .space-demo(style="width: 8px; height: 8px")
+    | 8px &nbsp;
+  li #[tt $tsl-space-tiny]
+    .space-demo(style="width: 16px; height: 16px")
+    | 8px &nbsp;
+  li #[tt $tsl-space-small:]
+    .space-demo(style="width: 16px; height: 16px")
+    |16px &nbsp;
+  li #[tt $tsl-space-medium:]
+    .space-demo(style="width: 24px; height: 24px")
+    |24px &nbsp;
+  li #[tt $tsl-space-large:]
+    .space-demo(style="width: 32px; height: 32px")
+    |32px &nbsp;
+  li #[tt $tsl-space-huge:]
+    .space-demo(style="width: 40px; height: 40px")
+    |40px &nbsp;
+
+h4#layouts-creating Creating Layouts
+
+p This short guide will give you a basic direction when creating new page layouts.
+
+ul
+  li Content can run across the entire screen.
+  li Questions always align in the same place.
+  li Content can also span a limited amount of columns but is always ranged left.
+  li On the more functional product pages, (e.g. Fact Find) text is usually left aligned to improve readability and layout. However, when suitable, copy can be centered. For example, a lightbox modal that is centered in the screen can have centered copy to match.
+  li Only Source Sans Pro should be used within the product.
+
+h4#layouts-additional-content Structuring Additional Content
+
+p There will be situations where a parent question may lead to further secondary questions. Parent questions will always range left as per general layouts, secondary questions will range left but from an indentation, indicating that it is the child of the parent. This allows us to add in as much additional content as required.
+
+ul
+  li When the parent question is short, the child questions can fill the space on the right of the screen.
+  li In some situations the parent question will extend further over the page, here the secondary question will still align along the indentation, but underneath the parent.

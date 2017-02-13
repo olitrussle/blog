@@ -1,0 +1,39 @@
+// Augment all children of this element with Trussle styles.
+.tsl-style {
+
+  @include tsl-font-body;
+
+  p { @include tsl-font-body; }
+
+  h1 { @include tsl-font-heading-primary; }
+  h2, h3, h4, h5, h6 { @include tsl-font-heading-secondary; }
+
+  a {
+    @include tsl-link-primary;
+    &.secondary { @include _tsl-link-secondary-overrides; }
+  }
+
+  button {
+    @include tsl-button-primary;
+    &.secondary { @include _tsl-button-secondary-overrides; }
+    &.tertiary { @include _tsl-button-tertiary-overrides; }
+  }
+
+  input,
+  .tsl-expanding-input {
+    @include tsl-input-primary;
+    &.secondary { @include tsl-input-secondary; }
+  }
+
+  input[type="checkbox"] { @include tsl-checkbox; }
+
+  input[type="radio"] { @include tsl-radio; }
+
+  select,
+  .tsl-expanding-select {
+    @include tsl-select-primary;
+    &.secondary { @include tsl-select-secondary; }
+  }
+
+  label { @include tsl-label; }
+}

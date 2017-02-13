@@ -1,0 +1,55 @@
+doctype html
+
+title Trussle Style Guide
+meta(charset="utf-8")
+meta(name="viewport" content="width=device-width, initial-scale=1.0")
+link(rel="stylesheet" href="style-guide.css")
+link(rel="stylesheet" href="trussle-style/css/trussle-style.css")
+link(rel="apple-touch-icon", sizes="57x57", href="trussle-style/favicon/apple-icon-57x57.png")
+link(rel="apple-touch-icon", sizes="60x60", href="trussle-style/favicon/apple-icon-60x60.png")
+link(rel="apple-touch-icon", sizes="72x72", href="trussle-style/favicon/apple-icon-72x72.png")
+link(rel="apple-touch-icon", sizes="76x76", href="trussle-style/favicon/apple-icon-76x76.png")
+link(rel="apple-touch-icon", sizes="114x114", href="trussle-style/favicon/apple-icon-114x114.png")
+link(rel="apple-touch-icon", sizes="120x120", href="trussle-style/favicon/apple-icon-120x120.png")
+link(rel="apple-touch-icon", sizes="144x144", href="trussle-style/favicon/apple-icon-144x144.png")
+link(rel="apple-touch-icon", sizes="152x152", href="trussle-style/favicon/apple-icon-152x152.png")
+link(rel="apple-touch-icon", sizes="180x180", href="trussle-style/favicon/apple-icon-180x180.png")
+link(rel="icon", type="image/png", sizes="192x192", href="trussle-style/favicon/android-icon-192x192.png")
+link(rel="icon", type="image/png", sizes="32x32", href="trussle-style/favicon/favicon-32x32.png")
+link(rel="icon", type="image/png", sizes="96x96", href="trussle-style/favicon/favicon-96x96.png")
+link(rel="icon", type="image/png", sizes="16x16", href="trussle-style/favicon/favicon-16x16.png")
+link(rel="manifest", href="trussle-style/favicon/manifest.json")
+meta(name="msapplication-TileColor", content="#ffffff")
+meta(name="msapplication-TileImage", content="trussle-style/favicon/ms-icon-144x144.png")
+meta(name="theme-color", content="#ffffff")
+
+script(src="trussle-style/js/currency.js")
+script(src="trussle-style/js/expanding-select.js")
+script(src="trussle-style/js/expanding-input.js")
+
+.tsl-style
+  h1 Trussle Style Guide
+
+  p This page demonstrates the various styles that are part of the Trussle Style. It is also used by developers as a reference guide to the styles available.
+
+  h2 Table of Contents
+
+  include style-guide/table-of-contents.html
+
+  h2#how-to-use How to Use the Styles
+
+  p Developers have some options on how to attach these styles to their HTML (in order of preference):
+
+  ol
+    li Include the SASS and use mixins (eg. #[tt @include tsl-x]).
+    li Include #[tt trussle-style.css] and use CSS classes (#[tt .tsl-x]).
+    li Add #[tt tsl-style] to a top-level element and use semantic elements (#[tt .tsl-style x]).
+
+  p Some features require Javascript; these features have instructions on how to set them up in their section.
+
+  include style-guide/colours
+  include style-guide/typography
+  include style-guide/layout
+  include style-guide/form
+  include style-guide/ui
+  include style-guide/images-and-icons

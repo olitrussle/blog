@@ -28,14 +28,15 @@
   margin: 24px 0;
   padding: 6px 10px;
   transition: all 0.2s linear;
+  text-decoration: none;
 
   &:visited {
     color: $brand-color;
   }
 
   &:hover {
-    border-color: map-get($tsl-colours, 'primary-black');
-    color: map-get($tsl-colours, 'primary-black');
+    border-color: $tsl-black;
+    color: $tsl-black;
     text-decoration: none;
   }
 

@@ -1,17 +1,16 @@
 {
   "name": "trussle-style",
-  "version": "0.0.1",
+  "version": "4.0.0",
   "description": "Frontend elements for Trussle sites",
   "scripts": {
-    "build-scss": "./node_modules/.bin/node-sass --include-path scss scss/trussle-style.scss public/trussle-style.css",
-    "postinstall": "npm run build-scss",
-    "postversion": "git push origin master",
+    "build-scss": "./node_modules/.bin/node-sass --include-path public/scss --source-map true public/scss/trussle-style.scss public/css/trussle-style.css",
+    "prepublish": "npm run build-scss",
+    "postversion": "git push origin master --tags",
     "preversion": "npm run test",
     "start": "cd style-guide && npm install && npm start",
     "test": "./node_modules/.bin/karma start --single-run && ./node_modules/.bin/sass-lint --config .sass-lint.yml --verbose --no-exit",
-    "version": "npm run build-scss",
     "watch": "npm run watch-scss & npm run watch-test & (cd style-guide && npm run watch)",
-    "watch-scss": "./node_modules/.bin/node-sass --include-path scss scss/trussle-style.scss public/trussle-style.css --watch --recursive",
+    "watch-scss": "./node_modules/.bin/node-sass --include-path public/scss --source-map true public/scss/trussle-style.scss public/css/trussle-style.css --watch --recursive",
     "watch-test": "./node_modules/.bin/karma start"
   },
   "files": [

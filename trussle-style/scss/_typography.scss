@@ -1,110 +1,94 @@
 // Typography definitions.
 
-@import "https://fonts.googleapis.com/css?family=Playfair+Display:700|Source+Sans+Pro:300,400,600";
+@import url("//fonts.googleapis.com/css?family=Playfair+Display:700|Source+Sans+Pro:300,400,600");
 
-// Header
-$header-font-family: "Playfair Display", serif;
-$header-font-weight: 700;
-$header-font-color: map-get($tsl-colours, primary-black);
+$tsl-font-color: $tsl-black;
+$tsl-font-base-size: 16px;
+$tsl-font-line-height: 1.5;
+$tsl-font-serif-font-weight: 700;
+$tsl-font-sans-serif-font-weight-bold: 600;
+$tsl-font-sans-serif-font-weight-normal: 400;
+$tsl-font-sans-serif-font-weight-light: 300;
 
-.tsl-font-header {
-  color: $header-font-color;
-  font-family: $header-font-family;
-  font-weight: $header-font-weight;
-  line-height: 150%;
+// A bunch of anti-aliasing hacks for various browsers.
+// (Why can't they just get along?)
+%_tsl-font-antialiased {
+  -webkit-font-smoothing: antialiased;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
 }
 
-// Body
-$body-font-family: "Source Sans Pro", "Trebuchet", sans-serif;
-$body-font-weight-bold: 600;
-$body-font-weight: 400;
-$body-font-weight-light: 300;
-$body-font-color: map-get($tsl-colours, primary-black);
+// This is how we lay out text.
+//
+// (Using a mixin to save some file size.)
+@mixin _tsl-text {
+  @extend %_tsl-font-antialiased;
 
-$base-font-size: 16px;
-
-%font-body {
-  color: $body-font-color;
-  font-family: $body-font-family;
-  font-size: $base-font-size;
-  line-height: 150%;
+  color: $tsl-font-color;
+  line-height: $tsl-font-line-height;
 }
 
-.tsl-font-body-bold {
-  @extend %font-body;
-  font-weight: $body-font-weight-bold;
+// Our serif font family and weight.
+//
+// Note that the font family is deliberately
+// NOT a variable; this is to ensure it is
+// always used at the correct weight.
+@mixin tsl-font-serif {
+  font-family: "Playfair Display", serif;
+  font-weight: $tsl-font-serif-font-weight;
+}
+.tsl-font-serif { @include tsl-font-serif; }
+
+// Our sans-serif font family and weight.
+//
+// Note that the font family is deliberately
+// NOT a variable; this is to ensure it is
+// always used at the correct weight.
+@mixin tsl-font-sans-serif {
+  @extend %_tsl-font-antialiased;
+  font-family: "Source Sans Pro", "Trebuchet", sans-serif;
+  font-weight: $tsl-font-sans-serif-font-weight-normal;
+}
+.tsl-font-sans-serif { @include tsl-font-sans-serif; }
+
+@mixin tsl-font-sans-serif-bold {
+  @extend %_tsl-font-antialiased;
+  font-family: "Source Sans Pro", "Trebuchet", sans-serif;
+  font-weight: $tsl-font-sans-serif-font-weight-bold;
 }
 
-.tsl-font-body {
-  @extend %font-body;
-  font-weight: $body-font-weight;
+@mixin tsl-font-sans-serif-light {
+  @extend %_tsl-font-antialiased;
+  font-family: "Source Sans Pro", "Trebuchet", sans-serif;
+  font-weight: $tsl-font-sans-serif-font-weight-light;
 }
 
-.tsl-font-body-light {
-  @extend %font-body;
-  font-weight: $body-font-weight-light;
+// More semantic classes - headings and body text.
+@mixin tsl-font-heading-primary {
+  @include tsl-font-serif;
+  @include _tsl-text;
 }
+.tsl-font-heading-primary { @include tsl-font-heading-primary; }
 
-.trussle-style {
-  @extend .tsl-font-body;
-  font-size: $base-font-size;
+@mixin tsl-font-heading-secondary {
+  @include tsl-font-sans-serif-bold;
+  @include _tsl-text;
 }
+.tsl-font-heading-secondary { @include tsl-font-heading-secondary; }
 
-%spacing-reset {
-  margin: 0;
-  padding: 0;
+@mixin tsl-font-body {
+  @include tsl-font-sans-serif;
+  @include _tsl-text;
 }
+.tsl-font-body { @include tsl-font-body; }
 
-// The margins for the header are based on the font size.
-@mixin header-font-and-spacing($font-size) {
-  font-size: $font-size;
-  margin-bottom: $font-size / 3;
-  margin-top: $font-size * (2 / 3);
+@mixin tsl-font-body-bold {
+  @include tsl-font-sans-serif-bold;
+  @include _tsl-text;
 }
+.tsl-font-body-bold { @include tsl-font-body-bold; }
 
-@include trussle-style(h1) {
-  @extend %spacing-reset, .tsl-font-header;
-  @include header-font-and-spacing($base-font-size * 3);
+@mixin tsl-font-body-light {
+  @include tsl-font-sans-serif-light;
+  @include _tsl-text;
 }
-
-@include trussle-style(h2) {
-  @extend %spacing-reset, .tsl-font-header;
-  @include header-font-and-spacing($base-font-size * 2.5);
-}
-
-@include trussle-style(h3) {
-  @extend %spacing-reset, .tsl-font-body-bold;
-  @include header-font-and-spacing($base-font-size * 2);
-}
-
-@include trussle-style(h4) {
-  @extend %spacing-reset, .tsl-font-body-bold;
-  @include header-font-and-spacing($base-font-size * 1.5);
-}
-
-@include trussle-style(p) {
-  @extend %spacing-reset, .trussle-style;
-  margin-bottom: $base-font-size;
-}
-
-@include trussle-style(a) {
-
-  border-bottom: 1px dotted map-get($tsl-colours, primary-green);
-  color: map-get($tsl-colours, primary-green);
-  display: inline-block;
-  text-decoration: none;
-
-  &:hover {
-    border-bottom: 1px solid map-get($tsl-colours, primary-green);
-    cursor: pointer;
-  }
-
-  &.in-page {
-    border-bottom-color: map-get($tsl-colours, primary-black);
-    color: map-get($tsl-colours, primary-black);
-
-    &:hover {
-      border-bottom-color: map-get($tsl-colours, primary-black);
-    }
-  }
-}
+.tsl-font-body-light { @include tsl-font-body-light; }

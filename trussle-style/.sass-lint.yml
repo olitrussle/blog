@@ -1,0 +1,39 @@
+# SASS-LINT
+# From https://github.com/sasstools/sass-lint
+
+options:
+  merge-default-rules: true
+  formatter: stylish
+
+files:
+  include: 'scss/**/*.scss'
+
+# Rule Configuration
+rules:
+
+  # Force double quotes
+  quotes:
+    - 1
+    - style: double
+
+  # Duplicate properties are really bad, because
+  # we don't know what the right one is!
+  no-duplicate-properties: 2
+
+  # Our hex values appear to be primarily uppercase.
+  hex-notation:
+    - 1
+    - style: uppercase
+
+  # 3-value shorthands look weird. 1, 2 or 4.
+  shorthand-values:
+    - 1
+    - allowed-shorthands:
+      - 1
+      - 2
+
+  # Include leading zeros in decimal values.
+  # It looks clearer.
+  leading-zero:
+    - 1
+    - include: true

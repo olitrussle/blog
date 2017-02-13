@@ -1,0 +1,46 @@
+include colours/colour-demo
+
+h2#colours Colours
+
+p The following colours can be used these ways (in order of preference):
+
+ol
+  li In SASS, use the variable #[tt $tsl-#[i colour_name])]
+  li In CSS, use the classes #[tt .tsl-#[i colour_name]] for foreground or #[tt .tsl-bg-#[i colour_name]] for background.
+
+h4#colours-primary Primary Brand Colour
+
+p The Primary Trussle Green has two complimentary shades, Light and Dark. The primary colour is the main brand colour, used for key brand moments, or interface elements that require prominence.
+
+// Cheap way of updating all colours:
+// paste the definitions from _colours.scss here
+// regex find \$tsl-(.+): (#.+);
+// replace +colour-demo("$1", "$2")
+
++colour-demo("green", "#4AC64A")
++colour-demo("deep-green", "#1DB01D")
+
+h4#colours-shades Shades
+
++colour-demo("pure-black", "#000000")
++colour-demo("black", "#0D280A")
++colour-demo("dark-grey", "#313131")
++colour-demo("mid-grey", "#747474")
++colour-demo("light-grey", "#999999")
++colour-demo("muted-grey", "#BEBEBE")
++colour-demo("off-white", "#FDFDFD")
++colour-demo("white", "#FFFFFF")
+
+h4#colours-other Other Colours
+
++colour-demo("red", "#E1034C")
++colour-demo("carmine", "#E86D5B")
++colour-demo("pink", "#FF37A6")
++colour-demo("orange", "#ED8740")
++colour-demo("yellow", "#F7DD4C")
++colour-demo("lime", "#99D940")
++colour-demo("cyan", "#1EA4F5")
++colour-demo("blue", "#7ACCC8")
++colour-demo("deep-blue", "#29B9B2")
++colour-demo("purple", "#5D5B58")
++colour-demo("violet", "#C549C5")

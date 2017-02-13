@@ -1,0 +1,125 @@
+$tsl-button-min-width: 144px;
+
+@mixin _tsl-button-shared {
+  @extend %_tsl-ui-element;
+  @extend %_tsl-unselectable;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: $tsl-font-sans-serif-font-weight-bold;
+  min-width: $tsl-button-min-width;
+  padding-left: $tsl-input-internal-padding * 2;
+  padding-right: $tsl-input-internal-padding * 2;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 0;
+}
+
+@mixin tsl-button-drop-shadow {
+  box-shadow: 0 2px 4px -1px rgba(0,0,0,0.5);
+}
+
+
+
+@mixin tsl-button-primary {
+  @include _tsl-button-shared;
+
+  background-color: $tsl-green;
+  border-color: $tsl-green;
+  color: $tsl-white;
+
+  &:hover,
+  &:focus {
+    background-color: $tsl-black;
+    border-color: $tsl-black;
+  }
+
+  &:active,
+  &.active {
+    background-color: $tsl-deep-green;
+    border-color: $tsl-deep-green;
+  }
+
+  &:disabled,
+  &.disabled {
+    background-color: $tsl-muted-grey;
+    border-color: $tsl-muted-grey;
+    box-shadow: none;
+    cursor: not-allowed;
+  }
+}
+
+.tsl-button-primary { @include tsl-button-primary; }
+
+
+
+@mixin _tsl-button-secondary-overrides {
+  background-color: $tsl-white;
+  border-color: $tsl-green;
+  color: $tsl-green;
+
+  &:hover,
+  &:focus {
+    background-color: $tsl-white;
+    border-color: $tsl-black;
+    color: $tsl-black;
+  }
+
+  &:active,
+  &.active {
+    background-color: $tsl-white;
+    border-color: $tsl-deep-green;
+    color: $tsl-deep-green;
+  }
+
+  &:disabled,
+  &.disabled {
+    background-color: $tsl-white;
+    border-color: $tsl-light-grey;
+    box-shadow: none;
+    color: $tsl-light-grey;
+  }
+}
+
+@mixin tsl-button-secondary {
+  @include _tsl-button-shared;
+  @include _tsl-button-secondary-overrides;
+}
+
+.tsl-button-secondary { @include tsl-button-secondary; }
+
+
+
+@mixin _tsl-button-tertiary-overrides {
+  background-color: $tsl-white;
+  border-color: $tsl-deep-blue;
+  color: $tsl-deep-blue;
+
+  &:hover,
+  &:focus {
+    background-color: $tsl-white;
+    border-color: $tsl-black;
+    color: $tsl-black;
+  }
+
+  &:active,
+  &.active {
+    background-color: $tsl-white;
+    border-color: $tsl-deep-green;
+    color: $tsl-deep-green;
+  }
+
+  &:disabled,
+  &.disabled {
+    background-color: $tsl-white;
+    border-color: $tsl-light-grey;
+    box-shadow: none;
+    color: $tsl-light-grey;
+  }
+}
+
+@mixin tsl-button-tertiary {
+  @include _tsl-button-shared;
+  @include _tsl-button-tertiary-overrides;
+}
+
+.tsl-button-tertiary { @include tsl-button-tertiary; }

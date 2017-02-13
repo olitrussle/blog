@@ -13,5 +13,5 @@
 }
 
 .trussle-banner-cta {
-  font-weight: $body-font-weight-bold;
+  @include tsl-font-body-bold;
 }

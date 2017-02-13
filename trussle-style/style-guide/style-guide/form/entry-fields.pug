@@ -1,0 +1,44 @@
+h4#ui-entry Entry Fields
+
+p Entry fields are based on the same style as the buttons. The entry field type is based on the body from the typography section.
+
+p Labels are semi-bold and placed either above or to the side of the input.
+
+// These are all a little too different to make a mixin. Sad.
+.element-demo
+
+  .element-container
+    input(id="blank" type="text")
+    input(type="text" value="Default")
+    input.valid(type="text" value="Valid")
+    input.invalid(type="text" value="Invalid")
+    input(type="text" value="Disabled" disabled)
+
+  .element-container
+    input(type="number")
+    input(type="number" value="0")
+    input.valid(type="number" value="123")
+    input.invalid(type="number" value="-321")
+    input(type="number" value="0" disabled)
+
+p Use with the mixin #[tt tsl-input-primary] (SASS), #[tt .tsl-input-primary] (CSS) or #[tt .tsl-style input]. Use #[tt .valid] and #[tt .invalid] to specify when a field is valid or not. (#[tt :invalid] works, but #[tt :valid] does not because it is applied over the top of the default.)
+
+.element-demo
+  .element-container
+    input.tsl-currency(type="text" value="£ ")
+    input.tsl-currency(type="text" value="£ 0")
+    input.tsl-currency.valid(type="text" value="£ 12,345")
+    input.tsl-currency.invalid(type="text" value="£ xxx")
+    input.tsl-currency(type="text" value="£ 0" disabled)
+
+p Use with #[tt .tsl-currency]. Make sure to include the JavaScript for this input, #[tt currency.js].
+
+p The second style is used when completing statements.
+
+.element-demo
+  .element-container
+    input.secondary(type="text")
+    input.secondary(type="number" value="0")
+    input.secondary.tsl-currency(type="text" value="£ ")
+
+p  Use with the mixin #[tt tsl-input-secondary] (SASS), #[tt .tsl-input-secondary] (CSS) or #[tt .tsl-style input.secondary]

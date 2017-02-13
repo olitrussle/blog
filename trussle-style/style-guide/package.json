@@ -1,0 +1,26 @@
+{
+  "name": "style-guide",
+  "version": "0.0.0",
+  "description": "Style guide that shows off the trussle-style package.",
+  "main": "index.js",
+  "bin": {
+    "style-guide": "build-toc.js"
+  },
+  "scripts": {
+    "build": "npm run build-style-guide && npm run build-toc && npm run build-style-guide",
+    "build-style-guide": "./node_modules/.bin/pug index.pug",
+    "build-toc": "node bin/build-toc",
+    "start": "./node_modules/.bin/http-server .",
+    "watch": "./node_modules/.bin/pug index.pug --watch"
+  },
+  "author": "Team Trussle",
+  "license": "ISC",
+  "dependencies": {
+    "trussle-style": "file:.."
+  },
+  "devDependencies": {
+    "http-server": "^0.9.0",
+    "pug": "^2.0.0-beta6",
+    "pug-cli": "^1.0.0-alpha6"
+  }
+}

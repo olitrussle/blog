@@ -1,0 +1,27 @@
+mixin button-demo(class_name, label)
+  .element-demo
+    .element-container
+      button(class=class_name)!= label
+      button(class=class_name disabled) Disabled
+      button(class=class_name) A really long version of the button
+
+    if class_name
+      p Use with the mixin #[tt tsl-button-#{class_name}] (SASS), #[tt .tsl-button-#{class_name}] (CSS) or #[tt .tsl-style button.#{class_name}].
+    else
+      p Use with the mixin #[tt tsl-button-primary] (SASS), #[tt .tsl-button-primary] (CSS) or #[tt .tsl-style button].
+
+h4#ui-buttons Buttons
+
+p The type style is based on the body from the typography section, set in the same colour as the button (unless filled, in which case it is white).
+
+p This button style has a minimum width of 144px, or have a padding of 24px.
+
+p Primary Buttons are for the most prominent CTAs. Secondary Buttons are used as the second level for standard buttons throughout the interface. Tertiary Buttons are special style buttons, used for buttons that require additional attention but shouldn't be the most prominent on the page.
+
+p #[tt .active] and #[tt .disabled] classes are available to apply to buttons styled with #[tt .tsl-button].
+
+p Also, don't forget to use #[tt tabindex] for accessibility.
+
++button-demo(undefined, "Primary")
++button-demo("secondary", "Secondary")
++button-demo("tertiary", "Tertiary")
