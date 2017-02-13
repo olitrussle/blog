@@ -5,7 +5,7 @@ excerpt: >-
   In this story we hear from Emile, a South African expat who was able to buy a
   dream home for his family despite a unique set of circumstances.
 author_twitter: oliwesbiz
-thumbnail_filename: Emile_square.jpeg
+thumbnail_filename: Emile_square.jpg
 author: Oli West
 date: '2017-02-13T00:00:00.000Z'
 ---
@@ -19,7 +19,7 @@ In this story, we hear from a South African auditor who was able to buy a dream 
 
 ## The dream home
 
-{% include image/left.html filename="emile.png" %}
+{% include image/left.html filename="emile.jpg" %}
 
 Emile, a Governance Executive from South Africa, had lived in the UK for five years before deciding to buy his first family home.
 
