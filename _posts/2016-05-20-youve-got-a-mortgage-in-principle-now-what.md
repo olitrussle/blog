@@ -15,7 +15,7 @@ Each year in the UK over 300,000 of us secure a mortgage to buy our first home, 
 
 In a nutshell, a Mortgage in Principle — sometimes called a MIP, Decision in Principle, DIP, or even an Agreement in Principle, in some necks of the woods — is a handy document that can be shown to estate agents to indicate the maximum amount you could borrow.
 
-**_If you haven’t got a Mortgage in Principle yet, you can get one in under five minutes [here.](https://apply.trussle.com/get-started/go)_**
+**_If you haven’t got a Mortgage in Principle yet, you can get one in under five minutes [here.](https://apply.trussle.com/affordability-calculator)_**
 
 It’s important to know that a Mortgage in Principle is not a formal mortgage offer, nor a guarantee that you can borrow the amount stated; you’ll first need to be credit checked by your recommended lender.
 
