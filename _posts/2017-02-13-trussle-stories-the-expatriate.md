@@ -7,6 +7,7 @@ excerpt: >-
 author_twitter: oliwesbiz
 thumbnail_filename: Emile_square.jpeg
 author: Oli West
+date: '2017-02-13T00:00:00.000Z'
 ---
 ![Emile and his family]({{site.baseurl}}/_posts/Emile.jpg)
 
