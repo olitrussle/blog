@@ -26,14 +26,16 @@ published: true
         {{ page.date | date: " %B %Y" }}
       </time>
     </p>
-      
+
   <div class="post-content" itemprop="articleBody">
     {{ content }}
-    <hr />
-    {% include trussle-banner.html %}
   </div>
-
+    {% include mailing-list.html %}
+    {% include trussle-banner.html %}
 </article>
+
+
+
 
 {% include share-buttons.html %}
 {% include related-articles.html %}

@@ -18,6 +18,7 @@
   @extend .tsl-style;
 
   font-size: 21px;
+  margin-bottom: $tsl-space-huge;
 
   @include for-small-only {
     font-size: 16px;

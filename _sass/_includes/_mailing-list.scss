@@ -1,0 +1,80 @@
+$form-element-medium-width: 250px;
+$form-element-small-width: 200px;
+
+.mailing-list {
+
+  margin-bottom: $tsl-space-small;
+
+  .card {
+    @extend .tsl-card;
+    border-top-color: $tsl-yellow;
+    padding: $tsl-space-huge 0px $tsl-space-huge $tsl-space-huge;
+    margin: $tsl-space-large $tsl-space-large;
+  }
+
+  .secondary-text {
+    color: $tsl-light-grey;
+  }
+
+  .email-submit-buttom {
+    @extend .tsl-button-primary;
+
+    width: 150px;
+  }
+
+  p {
+    margin: $tsl-space-small 0px;
+  }
+
+  h3 {
+    margin: 0px 0px;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  input {
+    width: 320px;
+    margin-right: $tsl-space-small;
+  }
+
+  @media (max-width: 640px) {
+
+    .card {
+      margin: 0 0 $tsl-space-large 0;
+    }
+
+    .email-submit-buttom  {
+      width: 250px;
+    }
+
+    input {
+      width: $form-element-medium-width;
+    }
+
+    p {
+      width: $form-element-medium-width * 0.80;
+    }
+
+    input {
+      margin-right: 0;
+      margin-bottom: $tsl-space-small;
+    }
+  }
+
+  @media (max-width: 320px) {
+    .email-submit-buttom {
+      width: $form-element-small-width;
+    }
+
+    input {
+      width: $form-element-small-width;
+    }
+
+    p {
+      width: $form-element-small-width * 0.80;
+    }
+  }
+}
