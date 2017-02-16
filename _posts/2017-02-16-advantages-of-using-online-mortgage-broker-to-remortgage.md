@@ -20,7 +20,7 @@ _The advantages of using an online mortgage broker to remortgage include speed, 
 Like a traditional mortgage broker, an online mortgage broker will compare the products of many different lenders to find the right one for you based on your personal and financial circumstances. However, an online mortgage broker uses technology to make the application process a fast, convenient, and hassle-free experience.
 
 ## Benefits of using an online mortgage broker
-<image>
+![Comparison between online mortgage broker, traditional mortgage broker, comparison site, and direct to lender]({{site.baseurl}}/images/post_images/Trussle comparison chart.png)
 
 ### Manage your details online
 The first and most obvious benefit of using an online mortgage broker to remortgage is that you can manage the whole process online. In practice, this means you can provide your details without needing to arrange a meeting or phone call with an adviser.
@@ -62,8 +62,3 @@ It takes less than a minute to [find out whether you could save](https://apply.t
 We’ll then manage the application process, keeping you informed at every step of the way. We’ll even continue to monitoring your mortgage once secured, so you never pay more than you should.
 
 With no paperwork or meetings to worry about, you’ll have more time available to spend doing the things you love.
-
-<br/>
-**You may have to pay an early repayment charge to your existing lender if you remortgage.**
-
-**Your home may be repossessed if you don't keep up repayments on your mortgage.**
