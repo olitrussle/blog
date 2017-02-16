@@ -4,9 +4,9 @@ layout: post
 author: Oli West
 author_twitter: oliwesbiz
 excerpt: >-
-  Remortgaging is the process of switching from one mortgage to another, and
-  often involves moving from one lender to another in search of a better deal.
-thumbnail_filename: Reading Trussle's straightforward remortgage guide square.jpg
+  The advantages of using an online mortgage broker to remortgage include speed,
+  convenience, and value.
+thumbnail_filename: The advantages of using an online mortgage broker to remortgage square.jpg
 date: '2017-02-16T00:00:00.000Z'
 title: Advantages Of Using An Online Mortgage Broker To Remortgage
 ---
