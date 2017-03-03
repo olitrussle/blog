@@ -33,21 +33,31 @@ We have many favourite reviews. Here are some of them…
     <a href="https://www.trustpilot.com/reviews/5879ec6d8a103103cc1b209a">Marcus</a>
     
 > <div style="text-align: center">
-    “In all of my property purchases <span style="font-weight: bold; color:#4AC64A">I have never had as smooth an experience as with Trussle</span>I would not hesitate to recommend them and  will be using Trussle again in the future.”
+    “In all of my property purchases <span style="font-weight: bold; color:#4AC64A">I have never had as smooth an experience as with Trussle</span>. I would not hesitate to recommend them and  will be using Trussle again in the future.”
     <br/>
     <a href="https://www.trustpilot.com/reviews/5888b3e37b45660ac890214d">Simon Dance</a>
     
+> <div style="text-align: center">
+    “<span style="font-weight: bold; color:#4AC64A">Took the guesswork out of getting a mortgage</span>. Discussed my financial requirements and found a provider that worked within my needs. I would recommend this to anyone wanting to get a mortgage.”
+    <br/>
+    <a href="https://www.trustpilot.com/reviews/586e648c8a10310b701d49fe">Matt Barber</a>
     
-    
-    
+> <div style="text-align: center">
+    “From start to end, Trussle has been excellent and they are definitely going to disrupt the mortgage industry with their approach and use of technology and their <span style="font-weight: bold; color:#4AC64A">outstanding customer service</span>!”
+    <br/>
+    <a href="https://www.trustpilot.com/reviews/584fd90590ef76043c793ec1">Pete Baston</a>
  
+> <div style="text-align: center">
+    “They have been nothing but helpful from start to finish. I have to say <span style="font-weight: bold; color:#4AC64A">Holly is like an angel sent from above</span>: responding to emails at the weekend and after office hours, always cheerful and happy to help.”
+    <br/>
+    <a href="https://www.trustpilot.com/reviews/57f7a9c719774d0804fdfdbc">Lucy Preston</a>
 
-> "**<span style="color:#4AC64A">Took the guesswork out of getting a mortgage</span>**. Discussed my financial requirements and found a provider that worked within my needs. I would recommend this to anyone wanting to get a mortgage." [Matt Barber](https://www.trustpilot.com/reviews/586e648c8a10310b701d49fe)
+> <div style="text-align: center">
+    “I had the option of either waiting 3 weeks for an appointment with a high street bank mortgage advisor at an inconvenient time of day, or giving Trussle a shot. Needless to say I made the right choice, <span style="font-weight: bold; color:#4AC64A">receiving a mortgage offer before the bank in question could even arrange an initial appointment</span>.”
+    <br/>
+    <a href="https://www.trustpilot.com/reviews/57f7a9c719774d0804fdfdbc">Lucy Preston</a>
 
-> “From start to end, Trussle has been excellent and they are definitely going to disrupt the mortgage industry with their approach and use of technology and their **<span style="color:#4AC64A">outstanding customer service!</span>**” [Pete Baston](https://www.trustpilot.com/reviews/584fd90590ef76043c793ec1)
-
-> “They have been nothing but helpful from start to finish. I have to say **<span style="color:#4AC64A">Holly is like an angel sent from above</span>**: responding to emails at the weekend and after office hours, always cheerful and happy to help.” [Lucy Preston](https://www.trustpilot.com/reviews/57f7a9c719774d0804fdfdbc)
-
-> “I had the option of either waiting 3 weeks for an appointment with a high street bank mortgage advisor at an inconvenient time of day, or giving Trussle a shot. Needless to say I made the right choice, **<span style="color:#4AC64A">receiving a mortgage offer before the bank in question could even arrange an initial appointment</span>**.” [Chris](https://www.trustpilot.com/reviews/579fc2050000ff000976d8e1)
-
-> “After a bit of online research I came across Trussle with all their glowing reviews, so decided to give them a go. Communication was fast, efficient and with minimal fuss - all for no cost. I now tell anyone who will listen - **<span style="color:#4AC64A">this is the future of mortgage advice</span>**.” [Luke B](https://www.trustpilot.com/reviews/5818ae90827ad309ecf9faab)
+> <div style="text-align: center">
+    “After a bit of online research I came across Trussle with all their glowing reviews, so decided to give them a go. Communication was fast, efficient and with minimal fuss - all for no cost. I now tell anyone who will listen - <span style="font-weight: bold; color:#4AC64A">this is the future of mortgage advice</span>.”
+    <br/>
+    <a href="https://www.trustpilot.com/reviews/5818ae90827ad309ecf9faab">Luke B</a>
