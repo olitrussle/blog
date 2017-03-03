@@ -55,7 +55,7 @@ We have many favourite reviews. Here are some of them…
 > <div style="text-align: center">
     “I had the option of either waiting 3 weeks for an appointment with a high street bank mortgage advisor at an inconvenient time of day, or giving Trussle a shot. Needless to say I made the right choice, <span style="font-weight: bold; color:#4AC64A">receiving a mortgage offer before the bank in question could even arrange an initial appointment</span>.”
     <br/>
-    <a href="https://www.trustpilot.com/reviews/57f7a9c719774d0804fdfdbc">Lucy Preston</a>
+    <a href="https://www.trustpilot.com/reviews/579fc2050000ff000976d8e1">Chris</a>
 
 > <div style="text-align: center">
     “After a bit of online research I came across Trussle with all their glowing reviews, so decided to give them a go. Communication was fast, efficient and with minimal fuss - all for no cost. I now tell anyone who will listen - <span style="font-weight: bold; color:#4AC64A">this is the future of mortgage advice</span>.”
