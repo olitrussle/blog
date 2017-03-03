@@ -28,7 +28,7 @@ That was just the beginning. 99 reviews later, we’re proud to be rated an ‘E
 We have many favourite reviews. Here are some of them…
 
 > “We've now got a shiny new mortgage thanks to Trussle. And despite being first time buyers, self employed, and in a rush, it was still **<span style="color:#4AC64A">less stressful than some takeaways I've ordered online.</span>**”
-[Marcus](https://www.trustpilot.com/reviews/5879ec6d8a103103cc1b209a)
+<br/>[Marcus](https://www.trustpilot.com/reviews/5879ec6d8a103103cc1b209a)
 
 > "In all of my property purchases **<span style="color:#4AC64A">I have never had as smooth an experience as with Trussle</span>**. I would not hesitate to recommend them and  will be using Trussle again in the future." [Simon Dance](https://www.trustpilot.com/reviews/5888b3e37b45660ac890214d)
 
