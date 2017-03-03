@@ -33,7 +33,7 @@ We have many favourite reviews. Here are some of them…
 
 > "**<span style="color:#4AC64A">Took the guesswork out of getting a mortgage</span>**. Discussed my financial requirements and found a provider that worked within my needs. I would recommend this to anyone wanting to get a mortgage." [Matt Barber](https://www.trustpilot.com/reviews/586e648c8a10310b701d49fe)
 
-> “From start to end, Trussle has been excellent and they are definitely going to disrupt the mortgage industry with their approach and use of technology and their **<span style="color:#4AC64A">outstanding customer service!**</span>” [Pete Baston](https://www.trustpilot.com/reviews/584fd90590ef76043c793ec1)
+> “From start to end, Trussle has been excellent and they are definitely going to disrupt the mortgage industry with their approach and use of technology and their **<span style="color:#4AC64A">outstanding customer service!</span>**” [Pete Baston](https://www.trustpilot.com/reviews/584fd90590ef76043c793ec1)
 
 > “They have been nothing but helpful from start to finish. I have to say **<span style="color:#4AC64A">Holly is like an angel sent from above</span>**: responding to emails at the weekend and after office hours, always cheerful and happy to help.” [Lucy Preston](https://www.trustpilot.com/reviews/57f7a9c719774d0804fdfdbc)
 
