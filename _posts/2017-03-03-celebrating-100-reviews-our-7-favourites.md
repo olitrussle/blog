@@ -21,7 +21,7 @@ It took exactly one year and 29 days to receive our 100th review, and we’d lik
 
 This time last year we were thrilled to receive our first review from our first ever customer, Dexter. It was a 1000 word write-up full of useful feedback. We responded in our blog article, [Dear Dexter](https://trussle.com/blog/dear-dexter).
 
-That was just the beginning. 99 reviews later, we’re proud to be rated an ‘Excellent’ 9.3/10 on Trustpilot with more than 9/10 of you ratingyour Trussle experience 5*!
+That was just the beginning. 99 reviews later, we’re proud to be rated an ‘Excellent’ 9.3/10 on Trustpilot with more than 9/10 of you rating your Trussle experience 5*!
 
 ![Trussle Trustpilot reviews]({{site.baseurl}}/images/post_images/Trussle Trustpilot reviews.jpg)
 
