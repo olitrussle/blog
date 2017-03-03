@@ -7,11 +7,11 @@ excerpt: >-
   receiving feedback from our brilliant customers. It’s always a thrill to read
   a new review!
 author_twitter: oliwesbiz
-thumbnail_filename: Emile_square.jpg
+thumbnail_filename: 100_reviews_ig.png
 author: Oli West
 date: '2017-02-13T00:00:00.000Z'
 ---
-![The Trussle team celebrates 100 Trustpilot reviews!]({{site.baseurl}}/_posts/100_reviews_blog.png)
+![The Trussle team celebrates 100 Trustpilot reviews!]({{site.baseurl}}/images/post_images/100_reviews_blog.png)
 
 One of the perks of building and launching a new service to the public is receiving feedback from our brilliant customers. It’s always a thrill to read a new review!
 
@@ -23,7 +23,7 @@ This time last year we were thrilled to receive our first review from our first 
 
 That was just the beginning. 99 reviews later, we’re proud to be rated an ‘Excellent’ 9.3/10 on Trustpilot with more than 9/10 of you rating us 5*!
 
-![Trussle Trustpilot reviews]({{site.baseurl}}/_posts/Trussle Trustpilot reviews.jpg)
+![Trussle Trustpilot reviews]({{site.baseurl}}/images/post_images/Trussle Trustpilot reviews.jpg)
 
 We have many favourite reviews. Here are some of them…
 
