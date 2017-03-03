@@ -31,8 +31,16 @@ We have many favourite reviews. Here are some of them…
     “We've now got a shiny new mortgage thanks to Trussle. And despite being first time buyers, self employed, and in a rush, it was still <span style="font-weight: bold; color:#4AC64A">less stressful than some takeaways I've ordered online.</span>”
     <br/>
     <a href="https://www.trustpilot.com/reviews/5879ec6d8a103103cc1b209a">Marcus</a>
-
-> "In all of my property purchases **<span style="color:#4AC64A">I have never had as smooth an experience as with Trussle</span>**. I would not hesitate to recommend them and  will be using Trussle again in the future." [Simon Dance](https://www.trustpilot.com/reviews/5888b3e37b45660ac890214d)
+    
+> <div style="text-align: center">
+    “In all of my property purchases <span style="font-weight: bold; color:#4AC64A">I have never had as smooth an experience as with Trussle</span>I would not hesitate to recommend them and  will be using Trussle again in the future.”
+    <br/>
+    <a href="https://www.trustpilot.com/reviews/5888b3e37b45660ac890214d">Simon Dance</a>
+    
+    
+    
+    
+ 
 
 > "**<span style="color:#4AC64A">Took the guesswork out of getting a mortgage</span>**. Discussed my financial requirements and found a provider that worked within my needs. I would recommend this to anyone wanting to get a mortgage." [Matt Barber](https://www.trustpilot.com/reviews/586e648c8a10310b701d49fe)
 
