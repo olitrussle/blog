@@ -51,7 +51,7 @@ Fast walker, traveller, mountain lover, list-maker, avid reader, occasional runn
 I was keen to get involved with Fintech - it’s such an exciting space that’s growing so quickly, and as I have experience working in property, I thought Trussle would be an ideal mix of the two. I heard back from the team after my interview via a Spotify playlist called ‘You Got It’ - with a handcrafted selection of songs telling me the role was mine. Definitely the coolest way I’ve ever been offered a job. 
 
 ## What does a Copywriter do?
-I sit in the Marketing team, and write content for the blog, website, and newsletters. We’re getting our Instagram off the ground too, which I’ll be looking after - follow [hellotrussle](instagram.com/hellotrussle "Instagram") if you want to see some behind the scenes startup life. 
+I sit in the Marketing team, and write content for the blog, website, and newsletters. We’re getting our Instagram off the ground too, which I’ll be looking after - [follow us](https://www.instagram.com/hellotrussle/) if you want to see some behind the scenes startup life. 
 
 ## What's your favourite film? 
 Amelie. 
