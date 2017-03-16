@@ -12,7 +12,7 @@ title: Meet The Team - Ashleigh & Lydia
 ---
 We’ve been growing quickly here at Trussle, and this week we welcomed two new faces to the team. Meet Ashleigh and Lydia, our new Mortgage Adviser and Copywriter respectively…
 
-![Ashleigh and Lydia at Trussle]({{site.baseurl}}/images/post_images/AshleighLydiaTrussle.JPG)
+![Ashleigh and Lydia at Trussle]({{site.baseurl}}/images/post_images/AshleighLydiaTrussle2.JPG)
 
 # Ashleigh (to the left)
 **Role at Trussle: Mortgage Adviser**
