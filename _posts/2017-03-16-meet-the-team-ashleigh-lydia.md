@@ -25,7 +25,7 @@ Living in Perth, the beach was only a few minutes from work and I swam every mor
 ## How does mortgage broking in the UK compare to Australia?
 I’ve picked up on a few differences after a week on the job, but I’m sure I’ll come across lots more. The mortgage industry is so heavily regulated in Australia so buyers have to meet very strict criteria, whereas I’ve noticed it seems a little more relaxed over here. The fees for using a mortgage broker are much higher in Australia, too, which I’m sure will come as good news to UK homeowners. 
 
-## App you couldn’t live without? 
+## Which app couldn't you live without? 
 Citymapper - it’s a lifesaver every day. 
 
 ## Any pets? 
@@ -53,7 +53,7 @@ I was keen to get involved with Fintech - it’s such an exciting space that’s
 ## What does a Copywriter do?
 I sit in the Marketing team, and write content for the blog, website, and newsletters. We’re getting our Instagram off the ground too, which I’ll be looking after - follow [hellotrussle](instagram.com/hellotrussle "Instagram") if you want to see some behind the scenes startup life. 
 
-## Favourite film? 
+## What's your favourite film? 
 Amelie. 
 
 ## Favourite sport?
