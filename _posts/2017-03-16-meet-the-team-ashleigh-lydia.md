@@ -28,10 +28,10 @@ I’ve picked up on a few differences after a week on the job, but I’m sure I�
 ## Which app couldn't you live without? 
 Citymapper - it’s a lifesaver every day. 
 
-## Any pets? 
+## Do you have any pets? 
 I have a Great Dane back home called Kobe. He’s the man.
 
-## Next on the travel list? 
+## Where's next on the travel list? 
 I’m heading to Portugal next month and I can’t wait. I’ve heard so many great things so I’m hoping it lives up to expectations. The beaches look incredible so I’m sure I’ll be happy.
 
 ## One tip for anyone travelling to Perth: 
