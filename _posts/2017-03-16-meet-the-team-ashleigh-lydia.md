@@ -8,6 +8,7 @@ excerpt: >-
 thumbnail_filename: AshleighLydiaTrusslesquare.JPG
 author: Lydia Bower
 date: '2017-03-16 T00:00:00.000Z'
+title: Meet The Team - Ashleigh & Lydia
 ---
 We’ve been growing quickly here at Trussle, and this week we welcomed two new faces to the team. Meet Ashleigh and Lydia, our new Mortgage Adviser and Copywriter respectively…
 
@@ -62,8 +63,4 @@ Does skiing count? I did a season a few years ago but it got cut short as I was 
 Woman's Hour. I’m not normally a Radio 4 kind of person but they cover so much interesting and relevant stuff. Oh and I loved My Dad Wrote A Porno when it was on.
 
 ## Best book you’ve read recently? 
-We Are All Completely Beside Ourselves by Karen Joy Fowler was gripping. 
-
-
-
-
+We Are All Completely Beside Ourselves by Karen Joy Fowler was gripping.
