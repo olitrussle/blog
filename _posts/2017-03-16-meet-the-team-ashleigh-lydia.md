@@ -8,7 +8,7 @@ excerpt: >-
 thumbnail_filename: AshleighLydiaTrusslesquare.JPG
 author: Lydia Bower
 date: '2017-03-16 T00:00:00.000Z'
-title: Meet The Team - Ashleigh & Lydia
+title: 'Meet The Team: Ashleigh & Lydia'
 ---
 We’ve been growing quickly here at Trussle, and this week we welcomed two new faces to the team. Meet Ashleigh and Lydia, our new Mortgage Adviser and Copywriter respectively…
 
