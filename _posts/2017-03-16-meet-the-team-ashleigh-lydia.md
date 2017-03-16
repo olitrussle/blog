@@ -36,6 +36,7 @@ I’m heading to Portugal next month and I can’t wait. I’ve heard so many gr
 ## One tip for anyone travelling to Perth: 
 Bring sunscreen! You might not think you’re burning, but you’ll only make that mistake once - being burnt by the Aussie sun is not fun.   
 
+<br/>
 
 # Lydia (to the right)
 **Role at Trussle: Copywriter**
