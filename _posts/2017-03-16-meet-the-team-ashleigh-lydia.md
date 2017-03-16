@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 Title: Meet The Team - Ashleigh & Lydia
 excerpt: >-
