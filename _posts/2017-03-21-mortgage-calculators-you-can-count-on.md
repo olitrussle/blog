@@ -3,9 +3,9 @@ published: true
 layout: post
 title: 'Introducing: Mortgage Calculators You Can Count On'
 excerpt: >-
-  We’ve been growing quickly here at Trussle, and this week we welcomed two new
-  faces to the team.
-thumbnail_filename: AshleighLydiaTrusslesquare.JPG
+  After extensive development and testing we’re pleased to announce the
+  following three new calculators...
+thumbnail_filename: Trussle Mortgage Calculators.JPG
 author: Oli West
 date: '2017-03-21 T00:00:00.000Z'
 ---
