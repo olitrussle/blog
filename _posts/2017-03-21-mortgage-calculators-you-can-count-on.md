@@ -22,7 +22,7 @@ After extensive development and testing we’re pleased to announce the followin
 
 ## Affordability calculator
 
-![Trussle affordability calculator]({{site.baseurl}}/images/post_images/Gif1.gif)
+{% include image/center.html filename="Gif1.gif" caption="Trussle affordability calculator" alt="Trussle affordability calculator" %}
 
 Our affordability calculator is incredibly simple. Simply type in your salary and savings, and we’ll quickly work out how much you could afford to spend on a new home. We’ll even take solicitors fees and stamp duty into account so you don’t suffer any nasty surprises.
 
@@ -34,7 +34,7 @@ For this, simply spend a few more minutes telling us about your income, outgoing
 
 ## Borrowing calculator
 
-![Trussle borrowing calculator]({{site.baseurl}}/images/post_images/Gif2.gif)
+{% include image/center.html filename="Gif2.gif" caption="Trussle borrowing calculator" alt="Trussle borrowing calculator" %}
 
 The affordability calculator is great if you’re just starting your search, but what if you already have a property in mind and simply want to know whether you can afford it?
 
@@ -44,7 +44,7 @@ Our new borrowing calculator will give you an idea of whether you can afford the
 
 ## Switching calculator
 
-![Trussle switching calculator]({{site.baseurl}}/images/post_images/Gif3.gif)
+{% include image/center.html filename="Gif3.gif" caption="Trussle switching calculator" alt="Trussle switching calculator" %}
 
 One of the most common questions we’re asked is “Should I switch my mortgage now?” This isn’t always an easy question to answer, but our switching calculator is a good way of getting a quick indication, allowing you to quickly and easily check based on two simple questions.
 
