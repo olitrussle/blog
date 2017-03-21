@@ -5,7 +5,7 @@ title: 'Introducing: Mortgage Calculators You Can Count On'
 excerpt: >-
   After extensive development and testing we’re pleased to announce the
   following three new calculators...
-thumbnail_filename: Trussle Mortgage Calculators.JPG
+thumbnail_filename: Trussle Mortgage Calculators.jpg
 author: Oli West
 date: '2017-03-21 T00:00:00.000Z'
 ---
