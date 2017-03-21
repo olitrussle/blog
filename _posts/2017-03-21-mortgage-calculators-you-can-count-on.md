@@ -6,8 +6,8 @@ excerpt: >-
   We’ve been growing quickly here at Trussle, and this week we welcomed two new
   faces to the team.
 thumbnail_filename: AshleighLydiaTrusslesquare.JPG
-author: Lydia Bower
-date: '2017-03-16 T00:00:00.000Z'
+author: Oli West
+date: '2017-03-21 T00:00:00.000Z'
 ---
 The internet is full of mortgage calculators. Banks have them, comparison sites have them, and there are plenty of independent ones. They’re often clunky to use and many ask for unnecessary details that aren’t needed to indicate how much you could borrow; for example, how much interest you'll be paying. As a result, we don’t think anyone’s really nailed calculators just yet.
 
