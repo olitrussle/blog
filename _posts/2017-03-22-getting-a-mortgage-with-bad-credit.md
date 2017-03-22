@@ -45,11 +45,11 @@ If you use Trussle to apply for a mortgage, your credit score will only be check
 
 If you’re struggling to get a mortgage due to a poor credit score, there are some things you can do to improve your rating.
 
-**(1) Stop applying for credit**
+**1. Stop applying for credit**
 
 The lender will usually check your credit score when you apply for a loan. Lots of credit checks over a short period can negatively impact your credit score, so wait before applying for credit again, and take other measures to improve your credit score first.
 
-**(2) Check your own credit score**
+**2. Check your own credit score**
 
 Check your credit score with major credit reference agencies [Equifax](https://www.equifax.co.uk/), [Experian](http://www.experian.co.uk/), or [Callcredit](http://www.callcredit.co.uk/). Requesting your own credit report doesn’t impact your rating.
 
@@ -59,24 +59,24 @@ As well as your credit score, your credit report should show you the things that
 
 If you think you’ve spotted a mistake on your credit report, let the rating agency know so they can investigate and amend your record if they agree that something’s amiss.
 
-**(3) Pay off debts**
+**3. Pay off debts**
 
 It’s easier said than done, but try to pay down your debt as much as possible. Although it’s always a good idea to have some savings in case an unexpected cost comes up, using some of your savings to pay off debt may be a good move. 
 
 Since missed payments can hit your credit rating hard, you could set up direct debits to avoid missing future instalments. 
 
-**(4) Make sure you’re on the electoral roll**
+**4. Make sure you’re on the electoral roll**
 
 It’s important that you’re registered to vote at your current address as this can impact your credit score. It’s also used by lenders to confirm your name and address.
 You can [register to vote](https://www.gov.uk/register-to-vote) online. If you’re not eligible to vote (because you’re not a British citizen, for example) you can send proof of address documents to the credit rating agencies as an alternative way of confirming your address.
 
-**(5) Review your accounts**
+**5. Review your accounts**
 
 Having lots of open accounts (several credit cards, for example) can negatively impact your score, as it makes it look like you have lots of credit available. However, if closing some accounts means maxing out your remaining credit, this could also have a negative impact.
 
 Review your situation carefully and decide whether it makes sense to close some accounts that you don’t use. If you do this, bear in mind that you need to contact the lenders to close the accounts rather than just cutting up your cards! 
 
-**(6) Use credit wisely**
+**6. Use credit wisely**
 
 Lenders look at your credit rating to make sure you have a history of managing debt responsibly, which means they may turn you down if you don’t have much of a credit history.
 
@@ -86,11 +86,11 @@ However, it’s very important that you manage this debt sensibly and make your 
 
 If you’re struggling to get accepted for a credit card, you could try applying for a special ‘credit builder’ card, but you should repay in full each month as the interest rates for these cards are usually very high.  
 
-**(7) Be consistent**
+**7. Be consistent**
 
 Using different phone numbers and different job titles across credit applications can mean that you fail fraud checks, so try to be as consistent as possible. Moving house often or changing banks a lot can also take a toll on your credit score. 
 
-**(8) Wait it out** 
+**8. Wait it out** 
 
 Serious financial issues like CCJs and loan defaults will stay on your report for six years. If you’re nearing the end of that period, it’s probably best to wait before applying for a mortgage. If you had a good reason for defaulting on a loan - for example you were seriously ill or lost your job - you can ask the credit agency to add a note to your file.
 
