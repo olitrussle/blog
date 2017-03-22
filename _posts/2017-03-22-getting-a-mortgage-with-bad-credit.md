@@ -11,7 +11,6 @@ date: '2017-03-22 T00:00:00.000Z'
 ---
 ![Mortgage bad credit]({{site.baseurl}}/images/post_images/Mortgage%20with%20bad%20credit.jpg)
 
-![Mortgage bad credit thumbnail]({{site.baseurl}}/images/post_images/Mortgage%20with%20bad%20credit%20square.jpg)
 
 ## What is bad credit and why does it matter?
 Having ‘bad credit’ usually means having a poor credit score. Your credit score is an indicator of your financial health, based on how you’ve dealt with credit in the past.
