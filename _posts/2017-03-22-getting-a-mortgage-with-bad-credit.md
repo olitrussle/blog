@@ -3,9 +3,9 @@ published: true
 layout: post
 title: Getting A Mortgage With Bad Credit
 excerpt: >-
-  After extensive development and testing we’re pleased to announce the
-  following three new calculators...
-thumbnail_filename: Mortgage with bad credit.jpg
+  Although having ‘bad credit’ usually means having a poor credit score, we can
+  often find mortgages for those who’ve been rejected for a mortgage previously.
+thumbnail_filename: Mortgage%20with%20bad%20credit%20square.jpeg
 author: Oli West
 date: '2017-03-22 T00:00:00.000Z'
 ---
@@ -93,6 +93,3 @@ Using different phone numbers and different job titles across credit application
 **8. Wait it out** 
 
 Serious financial issues like CCJs and loan defaults will stay on your report for six years. If you’re nearing the end of that period, it’s probably best to wait before applying for a mortgage. If you had a good reason for defaulting on a loan - for example you were seriously ill or lost your job - you can ask the credit agency to add a note to your file.
-
- 
-
