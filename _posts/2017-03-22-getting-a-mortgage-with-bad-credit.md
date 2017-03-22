@@ -51,7 +51,7 @@ The lender will usually check your credit score when you apply for a loan. Lots 
 
 **2. Check your own credit score**
 
-Check your credit score with major credit reference agencies [Equifax](https://www.equifax.co.uk/), [Experian](http://www.experian.co.uk/), or [Callcredit](http://www.callcredit.co.uk/). Requesting your own credit report doesn’t impact your rating.
+Check your credit score with major credit reference agencies [Equifax](https://www.equifax.co.uk/), [Experian](http://www.experian.co.uk/), or [Callcredit](http://www.callcredit.co.uk/).  Requesting your own credit report doesn’t impact your rating.
 
 You can get a hard copy of your credit report for a small fee (no more than £2) or you may be able to get an online version for free.
 
