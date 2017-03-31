@@ -17,7 +17,7 @@ description: > # this means to ignore newlines until "baseurl:"
 # IF YOU CHANGE THIS, CHANGE IT AT css/main.css
 baseurl: "/blog"
 url: "https://trussle.com" # the base hostname & protocol for your site
-twitter_username: HelloTrussle
+twitter_username: trussle
 
 # Blog settings
 permalink: ":slug"
