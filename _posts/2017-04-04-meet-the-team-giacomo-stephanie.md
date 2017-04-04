@@ -5,7 +5,7 @@ title: 'Meet The Team: Giacomo & Stephanie'
 excerpt: >-
   Say hello to Giacomo and Stephanie, the two newest members of the Trussle
   team.
-thumbnail_filename: G%26Sthumbnail.jpeg
+thumbnail_filename: Giacomoandstephaniesquare.jpeg
 author: Lydia Bower
 date: '2017-04-04 T00:00:00.000Z'
 ---
@@ -13,7 +13,8 @@ This week, we welcomed two new faces to the team - Giacomo and Stephanie. Both h
 
 ![Giacomo and Stephanie]({{site.baseurl}}/images/posts_images/Giacomo and Stephanie blog.jpg)
 
-![G&S thumbnail]({{site.baseurl}}/images/post_images/G%26Sthumbnail.jpg)
+![giacomo stephanie square]({{site.baseurl}}/images/post_images/Giacomoandstephaniesquare.jpg)
+
 
 ## Giacomo
 **Role at Trussle: Case Manager**
