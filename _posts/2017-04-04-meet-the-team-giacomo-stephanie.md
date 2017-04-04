@@ -13,8 +13,6 @@ This week, we welcomed two new faces to the team - Giacomo and Stephanie. Both h
 
 ![Giacomo and Stephanie]({{site.baseurl}}/images/posts_images/Giacomo and Stephanie blog.jpg)
 
-![giacomo and stephanie thumbnail]({{site.baseurl}}/images/posts_images/G&Sthumbnail.jpg)
-
 ## Giacomo
 **Role at Trussle: Case Manager**
 
