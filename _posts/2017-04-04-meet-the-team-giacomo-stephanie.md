@@ -5,7 +5,7 @@ title: 'Meet The Team: Giacomo & Stephanie'
 excerpt: >-
   Say hello to Giacomo and Stephanie, the two newest members of the Trussle
   team.
-thumbnail_filename: images/post_images/G&Sthumbnail.jpeg
+thumbnail_filename: images/posts_images/G&Sthumbnail.jpeg
 author: Lydia Bower
 date: '2017-04-04 T00:00:00.000Z'
 ---
