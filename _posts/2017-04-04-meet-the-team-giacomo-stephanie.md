@@ -11,7 +11,9 @@ date: '2017-04-04 T00:00:00.000Z'
 ---
 This week, we welcomed two new faces to the team - Giacomo and Stephanie. Both have joined Trussle as Case Managers, and we asked them a few questions to get to know them better...
 
-![Giacomo and Stephanie]({{site.baseurl}}/_posts/Giacomo and Stephanie blog.jpg)
+![Giacomo and Stephanie]({{site.baseurl}}/images/posts_images/Giacomo and Stephanie blog.jpg)
+
+![giacomo and stephanie thumbnail]({{site.baseurl}}/images/posts_images/G&Sthumbnail.jpg)
 
 ## Giacomo
 **Role at Trussle: Case Manager**
