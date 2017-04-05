@@ -7,8 +7,8 @@ excerpt: >-
 author_twitter: oliwesbiz
 thumbnail_filename: Ryan_square.jpg
 author: Oli West
-date: '2017-02-13T00:00:00.000Z'
-title: null
+date: '2017-04-05T00:00:00.000Z'
+title: 'Trussle Stories: The Lawyer'
 ---
 ![Trussle Stories The Lawyer Ryan]({{site.baseurl}}/images/post_images/Trussle Stories The Lawyer Ryan.jpg)
 
