@@ -27,7 +27,7 @@ During my time at Hootsuite, the company grew from around 100 employees to over 
 It’s a great place to work and the product offers real value. I noticed immediately how much collaboration there is - everyone’s equally committed and ready to jump in, share notes, and brainstorm, regardless of their job title. Product-wise, what Trussle offers makes sense. It doesn’t take long to explain how Trussle works, and straight away it’s easy to see the value in what we do. 
 
 ## Any hidden talents?
-I’m a big karaoke fan. It’s my favourite way to wind down and relax - I’ve done it about once a week for the last decade, although I still need to find somewhere to go in London. An added bonus to doing regular karaoke is the fact you get really good at public speaking. To add to the mix, I also do Brazilian jiu jitsu, which is great for cardio and building strength, and cross stitching (I mainly stitch band logos). 
+I’m a big karaoke fan. It’s my favourite way to wind down and relax - I’ve done it about once a week for the last decade, although I still need to find somewhere to go in London. An added bonus to doing karaoke regularly is the fact you get really good at public speaking. To add to the mix, I also do Brazilian jiu jitsu, which is great for cardio and building strength, and cross stitching (I mainly stitch band logos). 
 
 ## Favourite book?
 House of leaves by Mark Z. Danielewski
