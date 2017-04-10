@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-title: Meet The Team Teri
+title: 'Meet The Team: Teri'
 excerpt: >-
   Meet our new Head of Customer Success, Teri, who joined the team last week to
   help make our customer experience the best it can be...
@@ -37,7 +37,3 @@ People who walk really slowly - although I feel that may be a London-wide sentim
 
 ## What’s the best thing about your job?
 Having the opportunity to make a real impact to overall customer experience, making life easier for customers as well as the team. I love having the freedom and flexibility to make a positive change in a short amount of time - it’s really exciting.
-
-
-
-
