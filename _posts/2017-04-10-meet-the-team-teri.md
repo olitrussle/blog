@@ -1,5 +1,13 @@
 ---
 published: false
+layout: post
+title: Meet The Team Teri
+excerpt: >-
+  Meet our new Head of Customer Success, Teri, who joined the team last week to
+  help make our customer experience the best it can be...
+thumbnail_filename: meet the team Teri square.jpeg
+author: Lydia Bower
+date: '2017-04-10 T00:00:00.000Z'
 ---
 **Role at Trussle:** Head of Customer Success
 
