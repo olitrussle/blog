@@ -15,7 +15,6 @@ date: '2017-04-10 T00:00:00.000Z'
 Last week, we welcomed Teri to the Trussle team. Hailing from Vancouver, Teri touched down in London last week and hit the ground running. Teri will heading up the Customer Success team, making sure we deliver the best experience possible, and we’re excited to have her on board. 
 
 ![Meet the team Teri]({{site.baseurl}}/images/post_images/meet the team Teri.jpg)
-![Teri_square]({{site.baseurl}}/images/post_images/meet%20the%20team%20Teri%20square.jpg)
 
 ## What brought you to London?
 I’m Canadian and was living and working in Vancouver for Hootsuite. I always wanted to go back to London immediately after being there on trips - I felt like I could never get enough of the city. I started looking for jobs in London and found the perfect role at Trussle, and I knew it was the right decision. My grandad is Scottish, too, so that made the whole visa situation easier. 
