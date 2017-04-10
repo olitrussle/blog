@@ -5,6 +5,7 @@ Last week, we welcomed Teri to the Trussle team. Hailing from Vancouver, Teri to
 
 ![Meet the team Teri]({{site.baseurl}}/images/post_images/meet the team Teri.jpg)
 
+![Meet the team Teri square]({{site.baseurl}}/images/post_images/meet the team Teri square.jpg)
 
 
 ## What brought you to London?
