@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 excerpt: >-
   A fixed, tracker, and variable rate mortgage - what's the difference? We take
