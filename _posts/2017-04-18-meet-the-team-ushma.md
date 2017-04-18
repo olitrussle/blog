@@ -11,9 +11,6 @@ date: '2017-04-18T00:00:00.000Z'
 ---
 ![Ushma]({{site.baseurl}}/images/post_images/Image%20uploaded%20from%20iOS%20(1).jpg)
 
-![Ushma square]({{site.baseurl}}/images/post_images/Ushma square.jpg)
-
-
 We were excited to welcome Ushma to Trussle last week, where she’s already making a great impact on the mortgage team. Ushma is looking like a frontrunner for the friendliest face in the office (she’s a self proclaimed talkaholic), and also brings the total number of vegetarians in the office to two, which Jonny (veggie number one) was very excited about. 
 
 ### Role at Trussle: Mortgage Adviser
