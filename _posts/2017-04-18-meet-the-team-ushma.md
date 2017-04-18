@@ -1,5 +1,13 @@
 ---
 published: false
+layout: post
+title: 'Meet The Team: Ushma'
+excerpt: >-
+  We were excited to welcome Ushma to Trussle last week, where she’s already
+  making a great impact on the mortgage team.  
+thumbnail_filename: UshmaTrussleSquare.jpg
+author: Lydia Bower
+date: '2017-04-18T00:00:00.000Z'
 ---
 
 ![UshmaTrussle]({{site.baseurl}}/images/post_images/UshmaTrussle.jpg)
@@ -33,4 +41,3 @@ Dubai. I’ve been 4 times and I’m still not bored - everything is so luxuriou
 
 ## What’s your favourite thing about your job at Trussle?
 I never stop talking and my family and friends always come to me for advice, so talking and advising for a living suits me perfectly!
-
