@@ -13,7 +13,7 @@ title: 'Fixed, Tracker, And Variable Rates Explained'
 
 ![mortgage types]({{site.baseurl}}/images/post_images/mortgage types.jpg)
 
-With a fixed rate mortgage, the interest rate stays the same for an agreed period (two years, for example) while the rate of a variable mortgage can move up and down. A tracker mortgage is a type of variable rate mortgage that follows another rate, such as the base rate set by the Bank of England. 
+_With a fixed rate mortgage, the interest rate stays the same for an agreed period (two years, for example) while the rate of a variable mortgage can move up and down. A tracker mortgage is a type of variable rate mortgage that follows another rate, such as the base rate set by the Bank of England._ 
 
 When you take out a mortgage you have several choices to make, and one of the most important is how the interest rate will be set. Although you’ll come across lots of different wording, the main choice is between a mortgage with a fixed rate and a mortgage with a variable rate. 
 
