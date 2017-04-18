@@ -1,5 +1,13 @@
 ---
 published: false
+layout: post
+excerpt: >-
+  A fixed, tracker, and variable rate mortgage - what's the difference? We take
+  a look at what these types of mortgages offer, explaining how one option might
+  more suitable for you than another. 
+thumbnail_filename: Stocksy_txp773953cesAS100_Medium_1314248.jpg
+author: Oli West
+date: '2017-04-18T00:00:00.000Z'
 ---
 ![Ushma]({{site.baseurl}}/images/post_images/Image%20uploaded%20from%20iOS%20(1).jpg)
 
@@ -35,6 +43,3 @@ Dubai. I’ve been 4 times and I’m still not bored - everything is so luxuriou
 
 ## What’s your favourite thing about your job at Trussle?
 I never stop talking and my family and friends always come to me for advice, so talking and advising for a living suits me perfectly!
-
-
-
