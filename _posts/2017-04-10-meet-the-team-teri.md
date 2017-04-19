@@ -12,7 +12,7 @@ date: '2017-04-10 T00:00:00.000Z'
 
 **Role at Trussle:** Head of Customer Success
 
-Last week, we welcomed Teri to the Trussle team. Hailing from Vancouver, Teri touched down in London last week and hit the ground running. Teri will heading up the Customer Success team, making sure we deliver the best experience possible, and we’re excited to have her on board. 
+Last week, we welcomed Teri to the Trussle team. Hailing from Vancouver, Teri touched down in London last week and hit the ground running. Teri will be heading up the Customer Success team, making sure we deliver the best experience possible, and we’re excited to have her on board. 
 
 ![Meet the team Teri]({{site.baseurl}}/images/post_images/meet the team Teri.jpg)
 
