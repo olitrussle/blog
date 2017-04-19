@@ -3,12 +3,16 @@ published: false
 layout: post
 title: 'Trussle Stories: The Teacher'
 excerpt: >-
-  We were excited to welcome Ushma to Trussle last week, where she’s already
-  making a great impact on the mortgage team.  
-thumbnail_filename: UshmaTrussleSquare.jpg
+  In this story, we hear from Jeni, a first time buyer nervous about getting a
+  mortgage with no previous experience.
+thumbnail_filename: IMG_5347.jpg
 author: Lydia Bower
 date: '2017-04-19T00:00:00.000Z'
 ---
+![Jeni]({{site.baseurl}}/images/post_images/IMG_5347.JPG)
+![Jeni the teacher]({{site.baseurl}}/images/post_images/IMG_5347.JPG)
+
+
 Speaking to our customers regularly is just one of the ways we’re helping change the mortgage industry for the better. We like finding out why people choose [Trussle](https://trussle.com/) over a traditional mortgage broker or bank, and interestingly, the reasons are always different.  
 
 We’ve established that there’s no such thing as the average Trussle customer - we help people in a range of situations, across a variety of professions. 
@@ -22,8 +26,7 @@ Living with her parents in a small town on the outskirts of Glasgow, Jeni was ke
 
 After a few months looking, Jeni found a flat in Glasgow’s West End that she loved. The flat was in an ideal location and in great condition, so Jeni could move in without doing any work. Once her offer was accepted, the next step was getting a mortgage. 
 
-<image of local area>
-
+![West End Glasgow]({{site.baseurl}}/images/post_images/View_of_Glasgow_from_Queens_Park.jpg)
 
 ## A better experience
 
