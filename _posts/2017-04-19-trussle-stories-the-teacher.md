@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Trussle Stories: The Teacher'
 excerpt: >-
-  In this story, we hear from Jeni, a first time buyer, who was nervous about
+  In this story, we hear from Jeni, a first time buyer who was nervous about
   getting a mortgage. Luckily, Trussle was there to help.
 thumbnail_filename: Jeni trussle square.jpg
 author: Lydia Bower
