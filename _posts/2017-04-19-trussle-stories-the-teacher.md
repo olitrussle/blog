@@ -3,8 +3,8 @@ published: false
 layout: post
 title: 'Trussle Stories: The Teacher'
 excerpt: >-
-  In this story, we hear from Jeni, a first time buyer nervous about getting a
-  mortgage with no previous experience.
+  In this story, we hear from Jeni, a first time buyer, who was nervous about
+  getting a mortgage. Luckily, Trussle was there to help.
 thumbnail_filename: Jeni trussle square.jpg
 author: Lydia Bower
 date: '2017-04-19T00:00:00.000Z'
@@ -13,9 +13,9 @@ date: '2017-04-19T00:00:00.000Z'
 
 Speaking to our customers regularly is just one of the ways we’re helping change the mortgage industry for the better. We like finding out why people choose [Trussle](https://trussle.com/) over a traditional mortgage broker or bank, and interestingly, the reasons are always different.  
 
-We’ve established that there’s no such thing as the average Trussle customer - we help people in a range of situations, across a variety of professions. 
+__We’ve established that there’s no such thing as the average Trussle customer - we help people in a range of situations, across a variety of professions.__ 
 
-In this story, we hear from Jeni - a teacher buying her first home in Glasgow. Jeni was a little apprehensive about getting a mortgage as she was buying on her own, but luckily, Trussle was there to help. 
+In this story, we hear from Jeni - a teacher buying her first home in Glasgow. Jeni was a little apprehensive about getting a mortgage as she was buying on her own, but luckily, Trussle was there to help.
 
 
 ## The right time to buy
@@ -25,6 +25,7 @@ Living with her parents in a small town on the outskirts of Glasgow, Jeni was ke
 After a few months looking, Jeni found a flat in Glasgow’s West End that she loved. The flat was in an ideal location and in great condition, so Jeni could move in without doing any work. Once her offer was accepted, the next step was getting a mortgage. 
 
 ![West End Glasgow]({{site.baseurl}}/images/post_images/View_of_Glasgow_from_Queens_Park.jpg)
+
 
 ## A better experience
 
@@ -39,6 +40,7 @@ __"I may be a Maths teacher, but I was totally clueless when it came to mortgage
 
 Jeni’s mind was put at ease after looking through the Trussle website, and she felt confident enough to apply for a mortgage using our service. 
 
+
 ## A smooth application
 
 Because Jeni had got a Mortgage in Principle with Trussle, all she had to do was update the property details in her Trussle Profile once she’d found her flat. Shortly after, Jeni received her recommendation from us and was happy to go ahead with her application.  
@@ -46,6 +48,7 @@ Because Jeni had got a Mortgage in Principle with Trussle, all she had to do was
 The application process was straightforward. Completing her profile didn’t take long and Jeni was surprised at how quick and easy it was. 
 
 __"I was worried about feeling stupid because I didn’t know much about getting a mortgage, but I never felt like that when talking to the team."__
+
 
 ## Regular updates
 
@@ -57,6 +60,7 @@ The simple process of applying for a mortgage suited Jeni, who didn’t have any
 
 __"The best thing about using Trussle was the communication. It was so easy for someone like me with no knowledge of the process to understand what was going on. Trussle made sure I was supported and kept informed throughout."__
 
+
 ## A simple process
 
 Now that her mortgage is secured, Jeni’s ready and waiting to move into her new flat. 
@@ -64,6 +68,7 @@ Now that her mortgage is secured, Jeni’s ready and waiting to move into her ne
 __"I was looking at home insurance recently and it took me two days to compare all the deals. I don’t know how I’d have found the time to do the same for mortgages, so Trussle was a lifesaver."__ 
 
 __"I’d recommend Trussle to anyone. My experience was so much better than with the traditional broker I turned to first - I was kept informed the whole way. As a first time buyer, with something as important as your mortgage, that’s all you want."__ 
+
 
 Pleased we could help you, Jeni! Many other Trussle customers have left their own reviews [here](https://uk.trustpilot.com/review/trussle.com "Trustpilot"). 
 
