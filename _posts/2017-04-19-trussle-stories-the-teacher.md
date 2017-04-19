@@ -9,8 +9,7 @@ thumbnail_filename: IMG_5347.jpg
 author: Lydia Bower
 date: '2017-04-19T00:00:00.000Z'
 ---
-![Jeni]({{site.baseurl}}/images/post_images/IMG_5347.JPG)
-![Jeni the teacher]({{site.baseurl}}/images/post_images/IMG_5347.JPG)
+![Jeni Trussle teacher]({{site.baseurl}}/_posts/Jeni Trussle.JPG)
 
 
 Speaking to our customers regularly is just one of the ways we’re helping change the mortgage industry for the better. We like finding out why people choose [Trussle](https://trussle.com/) over a traditional mortgage broker or bank, and interestingly, the reasons are always different.  
