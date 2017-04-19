@@ -5,11 +5,11 @@ title: 'Trussle Stories: The Teacher'
 excerpt: >-
   In this story, we hear from Jeni, a first time buyer who was nervous about
   getting a mortgage. Luckily, Trussle was there to help.
-thumbnail_filename: Jeni trussle square.jpg
-author: Lydia Bower
+thumbnail_filename: 'Jeni trussle square.JPG'
+author: 'Lydia Bower'
 date: '2017-04-19T00:00:00.000Z'
 ---
-![Jeni Trussle teacher]({{site.baseurl}}/_posts/Jeni Trussle.JPG)
+![Jeni Trussle teacher]({{site.baseurl}}/images/post_images/Jeni Trussle.JPG)
 
 Speaking to our customers regularly is just one of the ways we’re helping change the mortgage industry for the better. We like finding out why people choose [Trussle](https://trussle.com/) over a traditional mortgage broker or bank, and interestingly, the reasons are always different.  
 
