@@ -3,10 +3,10 @@ published: false
 layout: post
 title: How To Compare Remortgage Deals (It's Not All About The Rate)
 excerpt: >-
-  Although having ‘bad credit’ usually means having a poor credit score, we can
-  often find mortgages for those who’ve been rejected for a mortgage previously.
+  "When you compare remortgage deals, remember to check the arrangement fees and
+  other details, as well as the rates."
 thumbnail_filename: CompareDealsSquare.jpeg
-author: Lydia Bower
+author: Oli West
 date: '2017-04-20 T00:00:00.000Z'
 ---
 ![comparing remortgage deals]({{site.baseurl}}/images/post_images/compare remortgage deals.jpg)
