@@ -3,8 +3,8 @@ published: true
 layout: post
 title: How To Compare Remortgage Deals (It's Not All About The Rate)
 excerpt: >-
-  "When you compare remortgage deals, remember to check the arrangement fees and
-  other details, as well as the rates."
+  When you compare remortgage deals, remember to check the arrangement fees and
+  other details, as well as the rates.
 thumbnail_filename: CompareDealsSquare.jpeg
 author: Oli West
 date: '2017-04-20 T00:00:00.000Z'
