@@ -17,10 +17,10 @@ _When you compare remortgage deals, remember to check the arrangement fees and o
 [Remortgaging](https://trussle.com/blog/the-straightforward-guide-to-remortgaging "remortgaging") is the process of taking out a new mortgage to pay off your old one. You’ll need to make some decisions about the type of mortgage you want in order to find mortgage deals and compare them. Your choices will impact the rates you’re offered.
 
 Here are some of the key things you’ll want to consider:       
-[Do you want a fixed, tracker, or variable interest rate?](#do-you-want-a-fixed-tracker-or-variable-interest-rate-)    
-[Do you want an interest-only or repayment mortgage?](#do-you-want-a-repayment-or-interest-only-mortgage-)    
-[How long will the mortgage term be?](#how-long-will-the-mortgage-term-be-)     
-[Do you want to be able to make overpayments?](#do-you-want-to-be-able-to-make-overpayments-)    
+[Do you want a fixed, tracker, or variable interest rate?](#do-you-want-a-fixed-tracker-or-variable-interest-rate)    
+[Do you want an interest-only or repayment mortgage?](#do-you-want-a-repayment-or-interest-only-mortgage)    
+[How long will the mortgage term be?](#how-long-will-the-mortgage-term-be)     
+[Do you want to be able to make overpayments?](#do-you-want-to-be-able-to-make-overpayments)    
 
 
 ### Do you want a fixed, tracker, or variable interest rate? 
