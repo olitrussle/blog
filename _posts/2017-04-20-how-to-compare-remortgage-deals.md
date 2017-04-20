@@ -16,13 +16,13 @@ _When you compare remortgage deals, remember to check the arrangement fees and o
 ## What kind of mortgage do you want? 
 [Remortgaging](https://trussle.com/blog/the-straightforward-guide-to-remortgaging "remortgaging") is the process of taking out a new mortgage to pay off your old one. You’ll need to make some decisions about the type of mortgage you want in order to find mortgage deals and compare them. Your choices will impact the rates you’re offered.
 
-Here are some of the key things you’ll want to consider:
-[Do you want a fixed, tracker, or variable interest rate?](#fixed)
-Do you want an interest-only or repayment mortgage?
-How long will the mortgage term be?
-Do you want to be able to make overpayments?
+Here are some of the key things you’ll want to consider:       
+[Do you want a fixed, tracker, or variable interest rate?](#do-you-want-a-fixed-tracker-or-variable-interest-rate-)    
+[Do you want an interest-only or repayment mortgage?](#do-you-want-a-repayment-or-interest-only-mortgage-)    
+[How long will the mortgage term be?](#how-long-will-the-mortgage-term-be-)     
+[Do you want to be able to make overpayments?](#do-you-want-to-be-able-to-make-overpayments-)    
 
-<a name="fixed"></a>
+
 ### Do you want a fixed, tracker, or variable interest rate? 
 A fixed rate mortgage guarantees a certain interest rate for an agreed period, making your payments consistent. A variable rate goes up and down according to a benchmark set by the lender. A tracker mortgage is a type of variable rate mortgage, but it tracks the movements of the Bank of England’s base rate. Most often the rate will be set above the rate it tracks, and some lenders will set a ‘collar rate’, which means that your rate can’t go below a certain level.
 
