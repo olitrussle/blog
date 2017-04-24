@@ -21,7 +21,7 @@ Jonny’s played a key role in creating the products we’ve released at Trussle
 I was hired as a software engineer, so as you can imagine, I write a lot of code. I also did some design before we had a full-time designer - I wanted to join Trussle as I’m easily distracted and there’s lots of variety in the role. I’m interested in organisational happiness - not just building a company, but making one that everyone wants to be part of, and I’m lucky that I’ve had the flexibility to explore that. 
 
 ## How has Trussle changed since you joined?
-Well we’re a lot bigger now - when I joined we were still based in one of our investor's offices. It was a nice office, but when we made our 14th hire it was time to move - we were like goldfish crammed into two glass bowls. 
+Well we’re a lot bigger now - when I joined we were still based in one of our investors offices. It was a nice office, but when we made our 14th hire it was time to move - we were like goldfish crammed into two glass bowls. 
 
 Our branding has also changed, and we now offer Mortgage in Principles, which was a big release that took a lot of work. Growing a company involves a bit of a trial and an experiment, but over the past year we’ve learnt a lot about what our customers really want from an online mortgage broker and we’re constantly improving our service as a result. We’ve also got lots more customers! 
 
@@ -36,7 +36,4 @@ I’m a radio presenter on a little internet station called The Mix Radio. I got
 ## What's your favourite piece of technology now and in the future?
 Mobile phones have done crazy things for the world. Who’d have thought that we’d all be carrying computers in our pockets - now you can release something, and everyone has a version of it immediately, wherever they are. 
 
-Looking towards the future of technology, I love everything that Elon Musk (owner of Tesla) does, especially with SpaceX (basically a let’s-go-to-space-on-the-cheap mission). He’s an inspirational person with mad ideas and the money to execute them, and his company is actually trying to improve humanity. It’s really exciting to watch whatever comes out of his brain. 
-
-
-
+Looking towards the future of technology, I love everything that Elon Musk (owner of Tesla) does, especially with SpaceX (basically a let’s-go-to-space-on-the-cheap mission). He’s an inspirational person with mad ideas and the money to execute them, and his company is actually trying to improve humanity. It’s really exciting to watch whatever comes out of his brain.
