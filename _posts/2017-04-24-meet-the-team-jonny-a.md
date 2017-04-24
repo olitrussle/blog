@@ -2,8 +2,8 @@
 published: false
 layout: post
 excerpt: >-
-  When you compare remortgage deals, remember to check the arrangement fees and
-  other details, as well as the rates.
+  Meet Jonny - a software engineer who can often be found coding by day, and on
+  the radio at other times...
 thumbnail_filename: JonnyAsquare.jpg
 author: Lydia Bower
 date: '2017-04-20 T00:00:00.000Z'
