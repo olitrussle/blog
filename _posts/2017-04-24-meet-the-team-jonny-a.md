@@ -4,7 +4,7 @@ layout: post
 excerpt: >-
   Meet Jonny - a software engineer who can often be found coding by day, and on
   the radio at other times...
-thumbnail_filename: JonnyAsquare.jpg
+thumbnail_filename: JonnyAsquare1.JPG
 author: Lydia Bower
 date: '2017-04-20 T00:00:00.000Z'
 title: 'Meet The Team: Jonny A'
