@@ -33,7 +33,7 @@ After studying Physics at Durham, I became an engineer full time. Physics and pr
 ## What would people would be surprised to know about you?
 I’m a radio presenter on a little internet station called The Mix Radio. I got into radio at uni - I was pretty shy in first year and wanted to improve my presentation skills. I paid the joining fee, gave it a try, and I’ve been doing it ever since. The trick is to not take yourself too seriously!
 
-## Favourite piece of technology?/device?
+## What's your favourite piece of technology now and in the future?
 Mobile phones have done crazy things for the world. Who’d have thought that we’d all be carrying computers in our pockets - now you can release something, and everyone has a version of it immediately, wherever they are. 
 
 Looking towards the future of technology, I love everything that Elon Musk (owner of Tesla) does, especially with SpaceX (basically a let’s-go-to-space-on-the-cheap mission). He’s an inspirational person with mad ideas and the money to execute them, and his company is actually trying to improve humanity. It’s really exciting to watch whatever comes out of his brain. 
