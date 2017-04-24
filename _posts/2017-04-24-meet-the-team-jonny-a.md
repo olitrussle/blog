@@ -4,11 +4,13 @@ layout: post
 excerpt: >-
   When you compare remortgage deals, remember to check the arrangement fees and
   other details, as well as the rates.
-thumbnail_filename: CompareDealsSquare.jpg
+thumbnail_filename: JonnyAsquare.jpg
 author: Lydia Bower
 date: '2017-04-20 T00:00:00.000Z'
 title: 'Meet The Team: Jonny A'
 ---
+![JonnyA]({{site.baseurl}}/images/post_images/JonnyA.JPG)
+
 ### Role at Trussle: Software Engineer
 
 Jonny is a software engineer through and through, so much so that he even codes in his spare time. 
