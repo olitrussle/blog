@@ -30,7 +30,7 @@ By being a nerdy teenager - it’s a long story that started back in the 90s. I 
 
 After studying Physics at Durham, I became an engineer full time. Physics and programming are quite similar - you have a problem, then you have to use the tools you have to solve it. 
 
-## What would people would be surprised to know about you?
+## Is there anything people would be surprised to know about you?
 I’m a radio presenter on a little internet station called The Mix Radio. I got into radio at uni - I was pretty shy in first year and wanted to improve my presentation skills. I paid the joining fee, gave it a try, and I’ve been doing it ever since. The trick is to not take yourself too seriously!
 
 ## What's your favourite piece of technology now and in the future?
