@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 excerpt: >-
   Meet Jonny - a software engineer who can often be found coding by day, and on
