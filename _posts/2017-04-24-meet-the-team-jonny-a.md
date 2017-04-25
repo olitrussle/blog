@@ -6,7 +6,7 @@ excerpt: >-
   the radio at other times...
 thumbnail_filename: JonnyAsquare1.JPG
 author: Lydia Bower
-date: '2017-04-20 T00:00:00.000Z'
+date: '2017-04-24 T00:00:00.000Z'
 title: 'Meet The Team: Jonny A'
 ---
 ![JonnyA]({{site.baseurl}}/images/post_images/JonnyA.JPG)
