@@ -25,19 +25,19 @@ There are a few things you can do to make sure we can help with your application
 
 Whether you’re applying for a mortgage or you’re looking to remortgage, there are a few documents lenders will always want to see. 
 
-**Three months of bank statements**
+- **Three months of bank statements**
 
 As most banks now offer online banking, the easiest way to send us your bank statements is to log in to your online banking account and download your statements directly to your computer. There’s no need to scan anything this way, and the statements will be automatically saved to PDF format. 
 
-**Three months of payslips**
+- **Three months of payslips**
 
 Many people now receive their payslips online which makes it easy to download as a PDF. If you receive paper payslips, you’ll need to scan them and send as a PDF. You can scan multiple payslips on one page rather than a page for each. 
 
-**Your ID**
+- **Your ID**
 
 You’ll need to provide a scanned copy of either your passport or driving license. 
 
-**Your address ID**
+- **Your address ID**
 
 Council tax bills, utility bills, and bank statements are all accepted forms of address ID. They must be dated within the last three months.
 
@@ -45,16 +45,16 @@ Council tax bills, utility bills, and bank statements are all accepted forms of 
 ### If you’re buying a home, you’ll need to provide a few extra documents. 
 **You’ll need:**
 
-Proof of deposit - either a saving statement or a bank statement
-Or, if the deposit is a gift, we’ll provide you with a ‘Confirmation of Gifted Deposit’ form for you to fill in, alongside three months of bank statements of the person gifting the deposit.
+- Proof of deposit - either a saving statement or a bank statement
+- Or, if the deposit is a gift, we’ll provide you with a ‘Confirmation of Gifted Deposit’ form for you to fill in, alongside three months of bank statements of the person gifting the deposit.
 
 ### If you’re remortgaging:
-You’ll need a current mortgage statement
+- You’ll need a current mortgage statement
 
 ## Be aware, there are a few documents you might also be asked for: 
-Evidence of a bonus 
-Visa evidence
-Sometimes, if you’re remortgaging, you’ll need to provide debt consolidation statements.
+- Evidence of a bonus 
+- Visa evidence
+- Sometimes, if you’re remortgaging, you’ll need to provide debt consolidation statements.
 
 
 ## Uploading documents with Trussle
@@ -82,5 +82,5 @@ Yes - files can’t be bigger than 5mb. If all your documents are on separate PD
 
 4. Name your documents. Having a clearly labelled PDF makes it easy for your adviser to find exactly what they need quickly and easily.
 
-5.Check which documents you can download as PDFs (such as bank statements) before printing and scanning to save yourself time and effort. Almost all banks now offer downloadable statements. 
+5. Check which documents you can download as PDFs (such as bank statements) before printing and scanning to save yourself time and effort. Almost all banks now offer downloadable statements. 
 
