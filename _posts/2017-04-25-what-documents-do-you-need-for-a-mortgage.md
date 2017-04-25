@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: What Documents Do You Need To Apply For A Mortgage?
 excerpt: >-
