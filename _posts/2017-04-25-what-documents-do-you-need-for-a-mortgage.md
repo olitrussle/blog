@@ -16,7 +16,7 @@ date: '2017-04-25 T00:00:00.000Z'
 
 It may be tempting to send in anything and everything to do with your finances when you’re applying for a mortgage, but it’s not necessary.
 
-We’ll ask you to upload your documents once you’ve completed your mortgage application with Trussle. Before you start searching through old files and digging out bank statements dating back to 2003, hold fire! Lenders require a fair amount of information before agreeing to give you a mortgage, but you can save yourself time and effort by only uploading the documents they need to see. 
+Once you’ve completed your mortgage application with Trussle, we’ll ask you to upload your documents. Before you start searching through old files and digging out bank statements dating back to 2003, hold fire! Lenders require a fair amount of information before agreeing to give you a mortgage, but you can save yourself time and effort by only uploading the documents they need to see. 
 
 There are a few things you can do to make sure we can help with your application as quickly as possible. We’ve created a complete list of everything you’ll need to apply for a mortgage to help.
 
