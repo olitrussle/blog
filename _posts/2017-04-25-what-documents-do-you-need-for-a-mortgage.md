@@ -59,7 +59,6 @@ Council tax bills, utility bills, and bank statements are all accepted forms of 
 ## Be aware, there are a few documents you might also be asked for: 
 - Evidence of a bonus 
 - Visa evidence
-- Sometimes, if you’re remortgaging, you’ll need to provide debt consolidation statements.
 
 
 ## Uploading documents with Trussle
