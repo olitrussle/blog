@@ -3,9 +3,8 @@ published: true
 layout: post
 title: What Documents Do You Need To Apply For A Mortgage?
 excerpt: >-
-  When applying for a mortgage, you need to provide some documents. We’ve
-  created a complete list of everything you’ll need to apply for a mortgage to
-  help you speed up your application.
+  We’ve created a complete list of all the documents you’ll need to apply for a
+  mortgage to help you speed up your application.
 thumbnail_filename: documentsmortgagesquare.jpg
 author: Lydia Bower
 date: '2017-04-25 T00:00:00.000Z'
