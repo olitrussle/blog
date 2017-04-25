@@ -11,8 +11,6 @@ date: '2017-04-25 T00:00:00.000Z'
 ---
 ![documentsmortgage]({{site.baseurl}}/images/post_images/documentsmortgage.jpg)
 
-## What documents do you need to apply for a mortgage?
-
 It may be tempting to send in anything and everything to do with your finances when you’re applying for a mortgage, but it’s not necessary.
 
 Once you’ve completed your mortgage application with Trussle, we’ll ask you to upload your documents. Before you start searching through old files and digging out bank statements dating back to 2003, hold fire! Lenders require a fair amount of information before agreeing to give you a mortgage, but you can save yourself time and effort by only uploading the documents they need to see. 
@@ -81,5 +79,4 @@ Yes - files can’t be bigger than 5mb. If all your documents are on separate PD
 
 4. Name your documents. Having a clearly labelled PDF makes it easy for your adviser to find exactly what they need quickly and easily.
 
-5. Check which documents you can download as PDFs (such as bank statements) before printing and scanning to save yourself time and effort. Almost all banks now offer downloadable statements. 
-
+5. Check which documents you can download as PDFs (such as bank statements) before printing and scanning to save yourself time and effort. Almost all banks now offer downloadable statements.
