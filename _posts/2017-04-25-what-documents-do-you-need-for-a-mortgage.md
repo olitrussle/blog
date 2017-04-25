@@ -39,6 +39,14 @@ You’ll need to provide a scanned copy of either your passport or driving licen
 Council tax bills, utility bills, and bank statements are all accepted forms of address ID. They must be dated within the last three months.
 
 
+### If you’re self-employed (as a Sole Trader/Limited Company Director/Partnerships/LLP), in addition to the documents above, there are some extra documents you’ll need to provide:
+
+- 2 to 3 years SA302s and 2 to 3 years accounts
+
+- Some lenders will also ask for 3 months business bank statements. 
+
+
+
 ### If you’re buying a home, you’ll need to provide a few extra documents. 
 **You’ll need:**
 
