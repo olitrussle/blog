@@ -17,12 +17,9 @@ Once you’ve completed your mortgage application with Trussle, we’ll ask you 
 
 There are a few things you can do to make sure we can help with your application as quickly as possible. We’ve created a complete list of everything you’ll need to apply for a mortgage to help.
 
-[Documents you'll need: A complete list](#documents-youll-need-a-complete-list)
-
-[Documents you'll need if you're self employed](#documents-you-need-if-youre-self-employed)
-
-[Uploading documents with Trussle](#uploading-documents-with-trussle)
-
+[Documents you'll need: A complete list](#documents-youll-need-a-complete-list)  
+[Documents you'll need if you're self employed](#documents-you-need-if-youre-self-employed)  
+[Uploading documents with Trussle](#uploading-documents-with-trussle)  
 [5 things to remember when uploading your documents](#5-things-to-remember-when-uploading-your-documents) 
 
 ## Documents you’ll need: A complete list
