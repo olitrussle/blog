@@ -3,9 +3,9 @@ published: true
 layout: post
 tite: How To Remortgage With Trussle
 excerpt: >-
-  "Remortgaging is the process of switching from one mortgage to another. We’ve
+  Remortgaging is the process of switching from one mortgage to another. We’ve
   made the process of remortgaging much simpler - what used to be hard work is
-  now quick and straightforward."
+  now quick and straightforward.
 thumbnail_filename: HowToRemortgageSquare.jpeg
 author: Lydia Bower
 date: '2017-04-26T00:00:00.000Z'
