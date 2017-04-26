@@ -77,7 +77,7 @@ You’ll know the answers to most of the questions off the top of your head, but
 
 ## Don’t be put off by a previous bad experience 
 
-![RyanTrussle]({{site.baseurl}}/images/post_images/ryan (1).png)
+![RyanTrussle]({{site.baseurl}}/images/post_images/ryan%20(1).png)
 Trussle mortgage adviser Ryan says that people often put up barriers when it comes to remortgaging. _‘Getting a mortgage the first time round is a long, laboured, and downright miserable process for many. They think of remortgaging as being difficult, tarnished by their previous experience, and don’t want to go through it again. What they often don’t realise is that remortgaging can be really simple, and takes very little effort on their part. It takes just ten minutes to complete your Trussle Profile, followed by a quick phone call with an adviser, and then we look after the rest. You could save yourself a significant amount of money by remortgaging, so it’s really worth looking into.’_
 
 ## Remortgage without the hassle 
