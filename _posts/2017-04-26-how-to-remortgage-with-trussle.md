@@ -12,8 +12,6 @@ date: '2017-04-26T00:00:00.000Z'
 ---
 
 ![HowToRemortgage]({{site.baseurl}}/images/post_images/HowToRemortgage.jpg)
-![HowToRemortgageSquare]({{site.baseurl}}/images/post_images/HowToRemortgageSquare.jpg)
-
 
 Remortgaging might sound daunting, but it’s simply the process of switching from one mortgage to another. We’ve made the process of remortgaging much simpler - what used to be hard work is now quick and straightforward. Most importantly, using Trussle is free - helping you remortgage without the hassle. 
  
@@ -96,11 +94,4 @@ We understand how important it is to know that your personal information is in s
 In addition, we’re approved by the Financial Conduct Authority who are the UK’s independent financial regulatory body. They exist to make sure you’re protected and treated fairly.
 
 ### Find out if you could save in 60 seconds
-See how simple remortgaging can be with Trussle. [Get started](https://apply.trussle.com/remortgage-quick-check) now. 
-
-
-
-
-
- 	
-    
+See how simple remortgaging can be with Trussle. [Get started](https://apply.trussle.com/remortgage-quick-check) now.
