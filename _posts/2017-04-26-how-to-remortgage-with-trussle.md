@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 tite: test
 excerpt: >-
