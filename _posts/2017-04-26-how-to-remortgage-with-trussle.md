@@ -9,6 +9,7 @@ excerpt: >-
 thumbnail_filename: HowToRemortgageSquare.jpg
 author: Lydia Bower
 date: '2017-04-26T00:00:00.000Z'
+title: How To Remortgage With Trussle
 ---
 ![HowToRemortgage]({{site.baseurl}}/images/post_images/HowToRemortgage.jpg)
 
