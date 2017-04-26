@@ -14,6 +14,18 @@ _Remortgaging is the process of switching from one mortgage to another. There’
 
 ![Reading Trussle's straightforward remortgage guide]({{site.baseurl}}/images/post_images/Reading Trussle's straightforward remortgage guide.jpg)
 
+We've outlined some of the key things you'll want to consider:
+
+[What is remortgaging?](#what-is-remortgaging)
+
+[Why remortgage?](#why-remortgage)
+
+[When should I remortgage?](#when-should-i-remortgage)
+
+[How do I remortgage?](#how-do-i-remortgage)
+
+[Where do I remortgage?](#where-do-i-remortgage)
+
 ## What is remortgaging?
 Remortgaging is the process of switching from one mortgage to another, and often involves moving from one lender to another in search of a better deal. The process will be familiar from when you took out your initial mortgage, and will include credit checks and a property valuation.
 
