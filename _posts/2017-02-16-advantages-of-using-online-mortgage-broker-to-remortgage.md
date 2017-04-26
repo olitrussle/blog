@@ -16,6 +16,11 @@ _The advantages of using an online mortgage broker to remortgage include speed, 
 
 [Remortgaging](https://trussle.com/blog/the-straightforward-guide-to-remortgaging) is the process of moving your mortgage, usually in order to get a more competitive rate once your initial deal is over. To do this you could visit a traditional mortgage broker, use an online comparison site to compare lenders, or approach lenders directly. More recently, a fourth option has become available - using an [online mortgage broker](https://trussle.com/) like Trussle to remortgage.
 
+Before you decide to remortgage with an online mortgage broker, there's a few things to consider:  
+[Why use an online mortgage broker?](#why-use-an-online-mortgage-broker)  
+[Benefits of using an online mortgage broker](#benefits-of-using-an-online-mortgage-broker)  
+[Using Trussle to remortgage](#using-online-mortgage-broker-trussle-to-remortgage)
+
 ## Why use an online mortgage broker?
 Like a traditional mortgage broker, an online mortgage broker will compare the products of many different lenders to find the right one for you based on your personal and financial circumstances. However, an online mortgage broker uses technology to make the application process a fast, convenient, and hassle-free experience.
 
