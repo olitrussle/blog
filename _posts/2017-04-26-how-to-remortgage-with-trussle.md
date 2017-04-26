@@ -23,13 +23,13 @@ Applying to remortgage with Trussle is simple. We’ve turned what was a needles
 
 ## A step by step guide to remortgaging
 
-**- Find out if you’re ready to switch**
+**1. Find out if you’re ready to switch**
 
 We’ll get started by asking you to enter the start date of your current mortgage deal, your initial mortgage term, and the type of mortgage you have. If you’ve completed your fixed term deal, or are on your lender’s SVR, it’s likely you’ll be ready to switch. We’ll tell you if this is the case using our remortgage calculator, then you can begin the application process.
 
 ![RemortgagingGif]({{site.baseurl}}/images/post_images/remo.gif)
 
-**- Answer a few initial questions**
+**2. Answer a few initial questions**
 
 The questions we ask focus on your employment, finances, personal details, and address history. When it comes to your property details, we’ll ask a few basic questions, such as how much your home is worth, how many years are left on your mortgage, and the amount you pay back each month. 
 
@@ -38,24 +38,24 @@ You can edit your answers as you go. You can also save your progress at any time
 ![questions]({{site.baseurl}}/images/post_images/income_profile.gif)
 
 
-**- Receive your remortgage examples**
+**3. Receive your remortgage examples**
 
 We’ll send you a few examples to look over based on the details you’ve provided. Let us know if you want to move forward once you’ve reviewed them. 
 
-**- Receive your personalised recommendation**
+**4. Receive your personalised recommendation**
 
 You’ll speak to one of our friendly advisers so they can learn more about your preferences. They’ll then be able to give you a personalised mortgage recommendation. 
 
 ![RecommendEmail]({{site.baseurl}}/images/post_images/recommendation_email%20(1).png)
 
 
-**- Keep track of your progress from your Trussle Timeline**
+**5. Keep track of your progress from your Trussle Timeline**
 
 When you complete your Trussle Profile, you’ll be able to see your progress from your Trussle Timeline. Access your Timeline anywhere, at any time, to see your answers, keep track of your application, and edit your answers if something changes.
 
 ![timeline]({{site.baseurl}}/images/post_images/timeline.png)
 
-**- Find out if your application has been approved**
+**6. Find out if your application has been approved**
 
 Waiting to hear whether your application has been approved can take between one day to two weeks. This varies from lender to lender, and as each case is different, it’s impossible to give a concrete timeframe. As soon as we hear from the lender, we’ll be in touch by email to share the news! 
 
@@ -77,7 +77,6 @@ You’ll know the answers to most of the questions off the top of your head, but
 
 ## Don’t be put off by a previous bad experience 
 
-![RyanTrussle]({{site.baseurl}}/images/post_images/ryan%20(1).png)
 Trussle mortgage adviser Ryan says that people often put up barriers when it comes to remortgaging. _‘Getting a mortgage the first time round is a long, laboured, and downright miserable process for many. They think of remortgaging as being difficult, tarnished by their previous experience, and don’t want to go through it again. What they often don’t realise is that remortgaging can be really simple, and takes very little effort on their part. It takes just ten minutes to complete your Trussle Profile, followed by a quick phone call with an adviser, and then we look after the rest. You could save yourself a significant amount of money by remortgaging, so it’s really worth looking into.’_
 
 ## Remortgage without the hassle 
