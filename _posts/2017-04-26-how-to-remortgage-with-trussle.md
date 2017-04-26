@@ -27,8 +27,7 @@ Applying to remortgage with Trussle is simple. We’ve turned what was a needles
 
 We’ll get started by asking you to enter the start date of your current mortgage deal, your initial mortgage term, and the type of mortgage you have. If you’ve completed your fixed term deal, or are on your lender’s SVR, it’s likely you’ll be ready to switch. We’ll tell you if this is the case using our remortgage calculator, then you can begin the application process.
 
-![remo.gif]({{site.baseurl}}/images/post)_images/remo.gif)
-
+![RemortgagingGif]({{site.baseurl}}/images/post_images/remo.gif)
 
 **- Answer a few initial questions**
 
