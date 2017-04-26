@@ -17,6 +17,10 @@ Once you’ve completed your mortgage application with Trussle, we’ll ask you 
 
 There are a few things you can do to make sure we can help with your application as quickly as possible. We’ve created a complete list of everything you’ll need to apply for a mortgage to help.
 
+[Documents you'll need: A complete list](#documents-youll-need-a-complete-list)
+[Documents you'll need if you're self employed](#documents-you-need-if-youre-self-employed)
+[Uploading documents with Trussle](#uploading-documents-with-trussle)
+[5 things to remember when uploading your documents](#5-things-to-remember-when-uploading-your-documents) 
 
 ## Documents you’ll need: A complete list
 
@@ -38,10 +42,11 @@ You’ll need to provide a scanned copy of either your passport or driving licen
 
 Council tax bills, utility bills, and bank statements are all accepted forms of address ID. They must be dated within the last three months.
 
+## Documents you'll need if you're self-employed
 
 ### If you’re self-employed (as a Sole Trader/Limited Company Director/Partnerships/LLP), in addition to the documents above, there are some extra documents you’ll need to provide:
 
-- 2 to 3 years SA302s and 2 to 3 years accounts
+- 2 to 3 years SA302s and 2 to 3 years accounts.
 
 - Some lenders will also ask for 3 months business bank statements. 
 
@@ -50,13 +55,13 @@ Council tax bills, utility bills, and bank statements are all accepted forms of 
 ### If you’re buying a home, you’ll need to provide a few extra documents. 
 **You’ll need:**
 
-- Proof of deposit - either a saving statement or a bank statement
+- Proof of deposit - either a saving statement or a bank statement.
 - Or, if the deposit is a gift, we’ll provide you with a ‘Confirmation of Gifted Deposit’ form for you to fill in, alongside three months of bank statements of the person gifting the deposit.
 
 ### If you’re remortgaging:
-- You’ll need a current mortgage statement
+- You’ll need a current mortgage statement.
 
-## Be aware, there are a few documents you might also be asked for: 
+## Be aware, there are a few more documents you might also be asked for: 
 - Evidence of a bonus 
 - Visa evidence
 
