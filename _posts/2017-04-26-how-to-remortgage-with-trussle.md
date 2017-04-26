@@ -10,7 +10,6 @@ thumbnail_filename: HowToRemortgageSquare.jpg
 author: Lydia Bower
 date: '2017-04-26T00:00:00.000Z'
 ---
-
 ![HowToRemortgage]({{site.baseurl}}/images/post_images/HowToRemortgage.jpg)
 
 Remortgaging might sound daunting, but it’s simply the process of switching from one mortgage to another. We’ve made the process of remortgaging much simpler - what used to be hard work is now quick and straightforward. Most importantly, using Trussle is free - helping you remortgage without the hassle. 
@@ -46,8 +45,7 @@ We’ll send you a few examples to look over based on the details you’ve provi
 
 You’ll speak to one of our friendly advisers so they can learn more about your preferences. They’ll then be able to give you a personalised mortgage recommendation. 
 
-![RecommendEmail]({{site.baseurl}}/images/post_images/recommendation_email%20(1).png)
-
+![emailrecommendation]({{site.baseurl}}/images/post_images/recommendation_email.png)
 
 **5. Keep track of your progress from your Trussle Timeline**
 
