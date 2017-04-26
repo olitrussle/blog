@@ -19,7 +19,19 @@ When you take out a mortgage you have several choices to make, and one of the mo
 
 Whilst a variable rate may look particularly attractive while interest rates are low, a fixed rate mortgage means predictable repayments and protection from shifts in the market. Each has its pros and cons and what’s right for you will depend on your individual circumstances. 
 
-This guide explains fixed rate and variable rate mortgages (including trackers and SVRs), and considers some of the advantages and disadvantages of each. 
+This guide explains fixed rate and variable rate mortgages (including trackers and SVRs), and considers some of the advantages and disadvantages of each: 
+ 
+[Fixed rate mortgage](#fixed-rate-mortgage)
+
+[Variable rate mortgage](#variable-rate-mortgage)
+
+[Tracker](#tracker)
+
+[Standard Variable Rate (SVR)](#standard-variable-rate-(svr))
+
+[Discounted Variable Rate](#discounted-variable-rate)
+
+[Choosing between a fixed rate, tracker, or variable mortgage](#choosing-between-a-fixed-rate,-variable,-or-tracker-mortgage)
 
 ## Fixed rate mortgage
 As you’d expect, a fixed rate mortgage gives you a fixed interest rate for an agreed period. No matter what happens to market rates during this time, you’ll keep paying back your loan at your set rate.
@@ -58,7 +70,7 @@ In general, you’ll get this discounted rate for a fixed period (two or three y
 
 ![DVR mortgage]({{site.baseurl}}/images/post_images/DVR.jpg)
 
-## Choosing between a fixed rate, variable or tracker mortgage
+## Choosing between a fixed rate, variable, or tracker mortgage
 It’s very difficult to predict which type of mortgage will be cheaper over time, as this depends on your individual circumstances and the deals you’re offered as well as the broader financial environment. 
 
 If you expect interest rates to go up in the near future, a fixed rate mortgage may be more appealing, while a variable rate mortgage may look like a better option if you expect rates to stay low or fall. However, it’s impossible to know exactly how the markets will move in the future. 
