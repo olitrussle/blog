@@ -46,8 +46,6 @@ You’ll speak to one of our friendly advisers so they can learn more about your
 **5. Keep track of your progress from your Trussle Timeline**  
 When you complete your Trussle Profile, you’ll be able to see your progress from your Trussle Timeline. Access your Timeline anywhere, at any time, to see your answers, keep track of your application, and edit your answers if something changes.
 
-![timeline]({{site.baseurl}}/images/post_images/timeline.png)
-
 **6. Find out if your application has been approved**  
 Waiting to hear whether your application has been approved can take between one day to two weeks. This varies from lender to lender, and as each case is different, it’s impossible to give a concrete timeframe. As soon as we hear from the lender, we’ll be in touch by email to share the news!  
 
