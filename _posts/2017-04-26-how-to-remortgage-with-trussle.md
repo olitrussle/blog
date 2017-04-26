@@ -46,7 +46,7 @@ We’ll send you a few examples to look over based on the details you’ve provi
 
 You’ll speak to one of our friendly advisers so they can learn more about your preferences. They’ll then be able to give you a personalised mortgage recommendation. 
 
-![recommendationemail]({{site.baseurl}}/images/post_images/recommendation_email (1).png)
+![RecommendEmail]({{site.baseurl}}/images/post_images/recommendation_email%20(1).png)
 
 
 **- Keep track of your progress from your Trussle Timeline**
