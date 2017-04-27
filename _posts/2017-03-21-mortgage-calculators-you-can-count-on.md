@@ -14,9 +14,9 @@ The internet is full of mortgage calculators. Banks have them, comparison sites 
 Our calculators weren’t much better than what already existed, up until recently. We spoke with many of you about this, and it turned out that despite our best efforts, our calculators were still just too complicated and asked for too much information. With your comments noted, we set about building the most straightforward calculators possible.
 
 After extensive development and testing we’re pleased to announce the following three new calculators:
-- **A quick affordability calculator** for first time buyers looking to see how much they could afford.
-- **A borrowing calculator** for customers looking to see if they can afford a property that they’ve already found.
-- **A quick remortgage calculator** to tell you whether it's a good time to switch.
+- **[A quick affordability calculator](#ffordability-calculator)** for first time buyers looking to see how much they could afford.
+- **[A borrowing calculator](#borrowing-calculator)** for customers looking to see if they can afford a property that they’ve already found.
+- **[A quick remortgage calculator](#switching-calculator)** to tell you whether it's a good time to switch.
 
 # What’s new?
 
