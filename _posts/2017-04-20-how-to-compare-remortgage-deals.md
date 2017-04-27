@@ -24,7 +24,7 @@ Here are some of the key things you’ll want to consider:
 
 
 ### Do you want a fixed, tracker, or variable interest rate? 
-A fixed rate mortgage guarantees a certain interest rate for an agreed period, making your payments consistent. A variable rate goes up and down according to a benchmark set by the lender. A tracker mortgage is a type of variable rate mortgage, but it tracks the movements of the Bank of England’s base rate. Most often the rate will be set above the rate it tracks, and some lenders will set a ‘collar rate’, which means that your rate can’t go below a certain level.
+A [fixed rate](https://trussle.com/blog/fixed-tracker-and-variable-rates-explained#fixed-rate-mortgage) mortgage guarantees a certain interest rate for an agreed period, making your payments consistent. A [variable rate](https://trussle.com/blog/fixed-tracker-and-variable-rates-explained#variable-rate-mortgage) goes up and down according to a benchmark set by the lender. A [tracker mortgage](https://trussle.com/blog/fixed-tracker-and-variable-rates-explained#tracker) is a type of variable rate mortgage, but it tracks the movements of the Bank of England’s base rate. Most often the rate will be set above the rate it tracks, and some lenders will set a ‘collar rate’, which means that your rate can’t go below a certain level.
 
 When you’re comparing remortgage deals, the fixed rates you see may be higher than the initial rates for the variable deals, but remember that repayments on a variable rate are less predictable and you’ll need to ensure you can afford to pay more per month should the rate increase.
 
@@ -60,7 +60,7 @@ This is the percentage of the property that’s being borrowed from the  lender.
 
 
 ### Your credit rating
-Lenders use this to estimate how reliable you’re likely to be as a borrower. Usually, if you have a good credit rating you’ll have a greater choice of remortgage deals, and you may be offered lower rates.
+Lenders use your [credit rating](https://trussle.com/blog/getting-a-mortgage-with-bad-credit) to estimate how reliable you’re likely to be as a borrower. Usually, if you have a good credit rating you’ll have a greater choice of remortgage deals, and you may be offered lower rates.
 
 ## Comparing remortgage deals 
 Once you’ve made these decisions and you’re comparing remortgage deals, take into account the following:
@@ -81,4 +81,4 @@ The lender will usually charge an arrangement or product fee, which is a one-off
 Some remortgage deals will come with special incentives. The lender may offer to pay for the valuation and/or the legal fees, for example.
 
 ## Using Trussle to compare your options
-As you can see, there’s a lot to weigh up when you’re comparing remortgage deals. [Trussle](https://apply.trussle.com/remortgage-quick-check) can help you bypass the hassle of doing all the work yourself. Simply answer a few questions using our online form and we’ll scan the market to find a suitable deal that looks good for you. A qualified mortgage adviser will then get in touch to talk it through, and will explain why it’s the most suitable option for you. We’ll show you all the important details like the initial rate, the Standard Variable Rate, and any product fees.
+As you can see, there’s a lot to weigh up when you’re comparing remortgage deals. [Trussle](https://apply.trussle.com/remortgage-quick-check) can help you bypass the hassle of doing all the work yourself. Simply answer a few questions using our online form and we’ll scan the market to find a suitable deal that looks good for you. A qualified mortgage adviser will then get in touch to talk it through, and will explain why it’s the most suitable option for you. We’ll show you all the important details like the initial rate, the Standard Variable Rate, and any product fees. To see how this works before you get started, read [How To Remortgage With Trussle](https://trussle.com/blog/how-to-remortgage-with-trussle).
