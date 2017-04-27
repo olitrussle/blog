@@ -21,16 +21,11 @@ Whilst a variable rate may look particularly attractive while interest rates are
 
 This guide explains fixed rate and variable rate mortgages (including trackers and SVRs), and considers some of the advantages and disadvantages of each: 
  
-[Fixed rate mortgage](#fixed-rate-mortgage)
-
-[Variable rate mortgage](#variable-rate-mortgage)
-
-[Tracker](#tracker)
-
-[Standard Variable Rate (SVR)](#standard-variable-rate-(svr))
-
-[Discounted Variable Rate](#discounted-variable-rate)
-
+[Fixed rate mortgage](#fixed-rate-mortgage)  
+[Variable rate mortgage](#variable-rate-mortgage)  
+[Tracker](#tracker)  
+[Standard Variable Rate (SVR)](#standard-variable-rate-(svr))  
+[Discounted Variable Rate](#discounted-variable-rate)  
 [Choosing between a fixed rate, tracker, or variable mortgage](#choosing-between-a-fixed-rate,-variable,-or-tracker-mortgage)
 
 ## Fixed rate mortgage
