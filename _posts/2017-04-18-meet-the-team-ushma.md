@@ -41,3 +41,5 @@ Dubai. I’ve been 4 times and I’m still not bored - everything is so luxuriou
 
 ## What’s your favourite thing about your job at Trussle?
 I never stop talking and my family and friends always come to me for advice, so talking and advising for a living suits me perfectly!
+
+_**Inspired by Ushma's story? We're hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle) - we'd love to hear from you.**_
