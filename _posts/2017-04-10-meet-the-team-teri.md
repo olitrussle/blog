@@ -36,3 +36,5 @@ People who walk really slowly - although I feel that may be a London-wide sentim
 
 ## What’s the best thing about your job?
 Having the opportunity to make a real impact to overall customer experience, making life easier for customers as well as the team. I love having the freedom and flexibility to make a positive change in a short amount of time - it’s really exciting.
+
+_**Inspired by Teri's story? We're hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle) - we'd love to hear from you.**_
