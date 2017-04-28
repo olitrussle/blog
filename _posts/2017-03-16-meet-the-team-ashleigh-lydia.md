@@ -64,3 +64,5 @@ Woman's Hour. I’m not normally a Radio 4 kind of person but they cover so much
 
 ## Best book you’ve read recently? 
 We Are All Completely Beside Ourselves by Karen Joy Fowler was gripping.
+
+_**Inspired by Ashleigh and Lydia's story? We're hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle) - we'd love to hear from you.**_
