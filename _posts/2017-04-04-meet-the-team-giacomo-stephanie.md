@@ -66,3 +66,5 @@ Mexico. I loved seeing the Mayan ruins.
 
 **What’s the best thing about being a Case Manager?**
 Buying a house is a big deal for most people and it’s exciting to see it come together. It’s nice to be involved in that process as someone who can actually make a difference to their experience.
+
+_**Inspired by Giacomo and Stephanie's story? We're hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle) - we'd love to hear from you.**_
