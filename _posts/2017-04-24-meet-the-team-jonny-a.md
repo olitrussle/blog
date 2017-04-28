@@ -37,3 +37,5 @@ I’m a radio presenter on a little internet station called The Mix Radio. I got
 Mobile phones have done crazy things for the world. Who’d have thought that we’d all be carrying computers in our pockets - now you can release something, and everyone has a version of it immediately, wherever they are. 
 
 Looking towards the future of technology, I love everything that Elon Musk (owner of Tesla) does, especially with SpaceX (basically a let’s-go-to-space-on-the-cheap mission). He’s an inspirational person with mad ideas and the money to execute them, and his company is actually trying to improve humanity. It’s really exciting to watch whatever comes out of his brain.
+
+_**Inspired by Jonny's story? We're hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle) - we'd love to hear from you.**_
