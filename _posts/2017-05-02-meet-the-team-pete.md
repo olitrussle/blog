@@ -42,4 +42,3 @@ It’s evolving so rapidly and it’s exciting to see what’s coming down the l
 Then there’s all the stuff around automating intelligence. We’ve got self-driving cars already - eventually I think everything will be automated. How we deal with it will be the interesting part, as it becomes more of a moral question. Development in the 90s centered around basic web development, but companies like Squarespace have taken that market. It just shows how quickly we’re moving. 
 
 _**Inspired by Jonny’s story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle) - we’d love to hear from you.**_
-****
