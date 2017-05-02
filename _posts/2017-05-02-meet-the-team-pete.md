@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 excerpt: >-
   Meet Pete: Trussle's Head of Engineering and golf enthusiast. Pete's so
