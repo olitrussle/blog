@@ -24,7 +24,7 @@ This guide explains fixed rate and variable rate mortgages (including trackers a
 [Fixed rate mortgage](#fixed-rate-mortgage)  
 [Variable rate mortgage](#variable-rate-mortgage)  
 [Tracker](#tracker)  
-[Standard Variable Rate (SVR)](#standard-variable-rate-svr) 
+[Standard Variable Rate (SVR)](#standard-variable-rate-svr)  
 [Discounted Variable Rate](#discounted-variable-rate)  
 [Choosing between a fixed rate, variable, or tracker mortgage](#choosing-between-a-fixed-rate-variable-or-tracker-mortgage)
 
