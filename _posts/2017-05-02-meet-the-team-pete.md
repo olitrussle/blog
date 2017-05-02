@@ -4,11 +4,12 @@ layout: post
 excerpt: >-
   Meet Pete: Trussle's Head of Engineering and golf enthusiast. Pete's so
   dedicated to fitness he even swapped his desk chair for an exercise ball... 
-thumbnail_filename: documentsmortgagesquare.jpg
+thumbnail_filename: MeetPeteSquare.jpg
 author: Lydia Bower
 date: '2017-05-02 T00:00:00.000Z'
 title: 'Meet The Team: Pete'
 ---
+![Pete]({{site.baseurl}}/images/post_images/MeetPete.jpg)
 
 Trussle’s Head of Engineering Pete hails from Dublin and joined Trussle back when we were a three man band! An avid golfer, we’re lucky that Pete decided against pursuing golf as a career - he’s been with us from the start, building the Trussle we know today. 
 
