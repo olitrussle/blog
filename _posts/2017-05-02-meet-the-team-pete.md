@@ -34,6 +34,13 @@ It might sound cliche but watching the company grow is really cool. It started o
 I do a lot of exercise - I run and go to the gym most days. I’m really competitive so I like playing all the sport I can. I also read a fair bit - recently I’ve been looking more into meditation. 
 
 ## How would you compare Dublin to London?
-The most obvious difference is the size. London is so much bigger than Dublin, and it feels it. There’s a slightly different culture too, which is think is true of a lot of cities compared to London. London’s very fast paced and people look inward a lot, whereas in Dublin, if I’m at the supermarket and someone’s packing a bag for me, I’m getting their whole life story whilst they’re doing it.
+The most obvious difference is the size. London is so much bigger than Dublin, and it feels it. There’s a slightly different culture too, which is think is true of a lot of cities compared to London. London’s very fast paced and people look inward a lot, whereas in Dublin, a taxi driver will manage to tell you his life story even if you’re only in the car for five minutes. Unsurprisingly, the Guinness is also way better back home.
+
+## What excites you most about technology?
+I’m interested in the areas around automating intelligence. We’re essentially in the alpha test phase of self-driving cars - if the current trends and advancements continue, I think eventually almost everything will be automated, or at the very least extremely deskilled. It’s happening already - 10 years ago being a London taxi driver was a hugely skilled job as drivers needed to know their way around every street in the city. Sat navs have now taken away the need for that local knowledge.  
+
+Development has been affected too - basic HTML and javascript skills were a big deal in the 90s, but companies like Squarespace have taken that market. How we deal with increasing automation will be the interesting part, as it becomes more of a moral question.
+
+Memphis Meats are doing some really exciting work - they’re looking at producing meat without the animal by culturing it in the lab with animal cells. It’s kind of doable now, but a burger sets you back around $15,000. Once they manage to scale it, it’ll be world-changing.
 
 _**Inspired by Pete’s story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle) - we’d love to hear from you.**_
