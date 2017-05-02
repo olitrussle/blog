@@ -36,9 +36,4 @@ I do a lot of exercise - I run and go to the gym most days. I’m really competi
 ## How would you compare Dublin to London?
 The most obvious difference is the size. London is so much bigger than Dublin, and it feels it. There’s a slightly different culture too, which is think is true of a lot of cities compared to London. London’s very fast paced and people look inward a lot, whereas in Dublin, if I’m at the supermarket and someone’s packing a bag for me, I’m getting their whole life story whilst they’re doing it.
 
-## What excites you most about technology?
-It’s evolving so rapidly and it’s exciting to see what’s coming down the line. One of the big things that will affect the tech world in my eyes is producing meat without the animal. It’s doable now, but a burger sets you back around $15000. Once they manage to scale it, it’ll be huge. 
-
-Then there’s all the stuff around automating intelligence. We’ve got self-driving cars already - eventually I think everything will be automated. How we deal with it will be the interesting part, as it becomes more of a moral question. Development in the 90s centered around basic web development, but companies like Squarespace have taken that market. It just shows how quickly we’re moving. 
-
 _**Inspired by Pete’s story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle) - we’d love to hear from you.**_
