@@ -2,8 +2,8 @@
 published: false
 layout: post
 excerpt: >-
-  We’ve created a complete list of all the documents you’ll need to apply for a
-  mortgage to help you speed up your application.
+  Meet Pete: Trussle's Head of Engineering and golf enthusiast. Pete's so
+  dedicated to fitness he even swapped his desk chair for an exercise ball... 
 thumbnail_filename: documentsmortgagesquare.jpg
 author: Lydia Bower
 date: '2017-05-02 T00:00:00.000Z'
