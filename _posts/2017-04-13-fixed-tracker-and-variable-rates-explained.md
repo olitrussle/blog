@@ -26,7 +26,7 @@ This guide explains fixed rate and variable rate mortgages (including trackers a
 [Tracker](#tracker)  
 [Standard Variable Rate (SVR)](#standard-variable-rate-(svr))  
 [Discounted Variable Rate](#discounted-variable-rate)  
-[Choosing between a fixed rate, tracker, or variable mortgage](#choosing-between-a-fixed-rate,-variable,-or-tracker-mortgage)
+[Choosing between a fixed rate, variable, or tracker mortgage](#choosing-between-a-fixed-rate,-variable,-or-tracker-mortgage)
 
 ## Fixed rate mortgage
 As you’d expect, a fixed rate mortgage gives you a fixed interest rate for an agreed period. No matter what happens to market rates during this time, you’ll keep paying back your loan at your set rate.
