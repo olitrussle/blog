@@ -86,4 +86,4 @@ We understand how important it is to know that your personal information is in s
 In addition, we’re approved by the Financial Conduct Authority who are the UK’s independent financial regulatory body. They exist to make sure you’re protected and treated fairly.
 
 ### Find out if you could save in 60 seconds
-See how simple remortgaging can be with Trussle. Use our [remortgage calculator](https://apply.trussle.com/remortgage-quick-check?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503) to see if you could save.
+See how hassle-free remortgaging can be with Trussle. Use our [remortgage calculator](https://apply.trussle.com/remortgage-quick-check?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503) to see if you could save.
