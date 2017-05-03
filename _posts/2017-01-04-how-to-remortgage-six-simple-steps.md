@@ -74,7 +74,5 @@ If the lender is satisfied with the valuation report, they will then carry out a
 
 Once everyone’s happy and all the fees have been paid, your new provider will transfer the money you’ve borrowed over to your existing provider to pay off your old mortgage. You’ve now remortgaged, and you will start making payments to your new provider.
 
-<br/>
-**You may have to pay an early repayment charge to your existing lender if you remortgage.**
-
-**Your home may be repossessed if you don't keep up repayments on your mortgage.**
+### Find out if you could save in 60 seconds
+See how hassle-free remortgaging can be with Trussle. Use our [remortgage calculator](https://apply.trussle.com/remortgage-quick-check?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503) to see if you could save.
