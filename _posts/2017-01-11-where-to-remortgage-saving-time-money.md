@@ -63,7 +63,5 @@ If you’re likely to be staying in your home for a while, you may choose a long
 ### Fees and restrictions 
 Remember that when you’re choosing a mortgage deal, it’s important to look at other aspects of the products as well as the rates. For example, look at the fees charged by the lender and the mortgage’s rules and restrictions.
 
-<br/>
-**You may have to pay an early repayment charge to your existing lender if you remortgage.**
-
-**Your home may be repossessed if you don't keep up repayments on your mortgage.**
+### Find out if you could save in 60 seconds
+See how hassle-free remortgaging can be with Trussle. Use our [remortgage calculator](https://apply.trussle.com/remortgage-quick-check?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503) to see if you could save.
