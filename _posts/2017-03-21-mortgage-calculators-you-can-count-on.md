@@ -30,7 +30,7 @@ This calculator provides a very quick way of getting an initial sense of how muc
 
 For this, simply spend a few more minutes telling us about your income, outgoings, and a few details about your preferences, and we’ll provide you with a downloadable Mortgage in Principle. This will provide the most accurate sense of how much you could borrow with no impact on your credit report. You can also use it to prove to estate agents that you’re a serious buyer.
 
-__Try the new [affordability calculator](https://apply.trussle.com/affordability-calculator)__
+__Try the new [affordability calculator](https://apply.trussle.com/affordability-calculator?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503)__
 
 ## Borrowing calculator
 
@@ -40,7 +40,7 @@ The affordability calculator is great if you’re just starting your search, but
 
 Our new borrowing calculator will give you an idea of whether you can afford the home in less than a minute. Simply enter your income, savings, and the property cost.
 
-__Try the new [borrowing calculator](https://apply.trussle.com/affordability-calculator-offer-accepted)__
+__Try the new [borrowing calculator](https://apply.trussle.com/affordability-calculator-offer-accepted?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503)__
 
 ## Switching calculator
 
@@ -50,7 +50,7 @@ One of the most common questions we’re asked is “Should I switch my mortgage
 
 You can also get a more accurate idea of which rates are available by answering a few more questions about your mortgage. We’ll show you the cheapest equivalent deal available, so you can compare for yourself.
 
-__Try the new [switching calculator](https://apply.trussle.com/remortgage-quick-check)__
+__Try the new [switching calculator](https://apply.trussle.com/remortgage-quick-check?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503)__
 
 # Other improvements
 
