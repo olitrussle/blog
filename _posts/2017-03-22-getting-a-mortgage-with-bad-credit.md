@@ -93,3 +93,6 @@ Using different phone numbers and different job titles across credit application
 **8. Wait it out** 
 
 Serious financial issues like CCJs and loan defaults will stay on your report for six years. If you’re nearing the end of that period, it’s probably best to wait before applying for a mortgage. If you had a good reason for defaulting on a loan - for example you were seriously ill or lost your job - you can ask the credit agency to add a note to your file.
+
+### Find out how much you could afford in 60 seconds
+See how much you could afford to spend on a home with our clear and simple [affordability calculator](https://apply.trussle.com/affordability-calculator?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
