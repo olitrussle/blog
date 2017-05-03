@@ -16,14 +16,10 @@ _Remortgaging is the process of switching from one mortgage to another. There’
 
 We've outlined some of the key things you'll want to consider:
 
-[What is remortgaging?](#what-is-remortgaging)
-
-[Why remortgage?](#why-remortgage)
-
-[When should I remortgage?](#when-should-i-remortgage)
-
-[How do I remortgage?](#how-do-i-remortgage)
-
+[What is remortgaging?](#what-is-remortgaging)  
+[Why remortgage?](#why-remortgage)  
+[When should I remortgage?](#when-should-i-remortgage)  
+[How do I remortgage?](#how-do-i-remortgage)  
 [Where do I remortgage?](#where-do-i-remortgage)
 
 ## What is remortgaging?
@@ -32,7 +28,7 @@ Remortgaging is the process of switching from one mortgage to another, and often
 Once your new mortgage has been agreed, your lender will pay off the money owing on your previous mortgage and take on the new loan. You’ll then make mortgage repayments to the new lender at the new rate that was agreed.
 
 ## Why remortgage?
-The most common reason to remortgage is to save money. When you first take out a mortgage you’ll be offered an introductory rate for a limited period. Once this period ends (usually after two to five years) you’ll be switched to your lender’s Standard Variable Rate (SVR), which tends to be much higher.
+The most common reason to remortgage is to save money. When you first take out a mortgage you’ll be offered an introductory rate for a limited period. Once this period ends (usually after two to five years) you’ll be switched to your lender’s [Standard Variable Rate (SVR)](https://trussle.com/blog/fixed-tracker-and-variable-rates-explained#standard-variable-rate-svr), which tends to be much higher.
 
 Remortgaging at the end of your mortgage’s initial term means you avoid paying the SVR, which could reduce your payments by thousands of pounds a year. Research carried out by [Trussle](https://trussle.com/) and YouGov revealed that switching from an SVR of 4.63% to an initial rate of 1.39% could save £3,500 per year during the new initial period (based on a mortgage amount of £173,400 repayable over 25 years).
 
@@ -55,7 +51,7 @@ A [free mortgage monitoring service](https://trussle.com/remortgage) from Trussl
 ## How do I remortgage?
 You’ll need to look at the paperwork for your current mortgage so that you’re clear about when your initial term ends and what fees may be incurred by switching early.
 
-The next step is to think about the kind of mortgage you want; including the product type (fixed, tracker, or variable), whether you want to pay an interest-only or repayment mortgage, and how long you want the total mortgage term to last.
+The next step is to think about the kind of mortgage you want; including the product type ([fixed, tracker, or variable](https://trussle.com/blog/fixed-tracker-and-variable-rates-explained)), whether you want to pay an interest-only or repayment mortgage, and how long you want the total mortgage term to last.
 
 You’ll then need to research which remortgage deals are available by speaking to a broker, talking to your lender, or using a remortgage comparison site. You'll find more details of how to find the right mortgage provider for you in the section on where to remortgage below.
 
