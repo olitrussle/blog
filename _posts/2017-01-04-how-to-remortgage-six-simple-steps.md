@@ -26,7 +26,7 @@ It’s now easier than ever to remortgage, thanks to new hassle-free services li
 Here’s how the remortgaging process works.
 
 ## Step 1: Checking your current mortgage arrangement
-First, dig out the paperwork for your current mortgage and make sure you understand the key details, including when the initial term ends and the rate that you’ll start paying if you haven’t moved your mortgage by this date (this is called the Standard Variable Rate).
+First, dig out the paperwork for your current mortgage and make sure you understand the key details, including when the initial term ends and the rate that you’ll start paying if you haven’t moved your mortgage by this date (this is called the [Standard Variable Rate](https://trussle.com/blog/fixed-tracker-and-variable-rates-explained#standard-variable-rate-svr)).
 
 ## Step 2: Understanding any fees
 If you’re remortgaging before your initial term ends, check the Early Repayment Charge. This fee tends to be a percentage of your outstanding loan (3% for example), so it can be expensive.
@@ -41,7 +41,7 @@ When you’re comparing mortgages, consider the upfront fees, the interest rates
 You’ll also need to make certain decisions about what kind of mortgage you want. This will be based on a number of factors including any expected changes in your circumstances. We recommend speaking with a mortgage adviser before deciding on your preference, but here are a few things to consider:
 
 ### Fixed, tracker or variable
-You’ll need to decide whether you want a fixed rate, a tracker, or a variable mortgage.
+You’ll need to decide whether you want a [fixed rate, a tracker, or a variable mortgage](https://trussle.com/blog/fixed-tracker-and-variable-rates-explained).
 
 * A fixed rate mortgage guarantees your interest rate stays the same for a certain period
 * A tracker mortgage’s interest rate moves up or down according to the Bank of England’s base rate
