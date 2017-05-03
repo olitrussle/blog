@@ -49,3 +49,6 @@ Now the mortgage has been secured, Ryan and her husband are set to move into the
 > “We didn’t have the simplest of applications, but Trussle were really responsive and kept us updated the whole way through. We couldn’t recommend them more.”
 
 **Many customers of Trussle have left their own reviews. [Read them here](https://uk.trustpilot.com/review/trussle.com).**
+
+### Find out how much you could afford in 60 seconds
+See how much you could afford to spend on a home with our clear and simple [affordability calculator](https://apply.trussle.com/affordability-calculator?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
