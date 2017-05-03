@@ -19,7 +19,7 @@ _Your initial mortgage rate will typically last a few years, and it’s sensible
 
 When you first take out your mortgage, the lender will usually provide an initial rate that lasts between two and five years.
 
-When you reach the end of your initial rate, most lenders will move you onto their Standard Variable Rate (SVR), which tends to be higher than both your initial rate and other competitive deals currently available on the market.
+When you reach the end of your initial rate, most lenders will move you onto their [Standard Variable Rate (SVR)](https://trussle.com/blog/fixed-tracker-and-variable-rates-explained#standard-variable-rate-svr), which tends to be higher than both your initial rate and other competitive deals currently available on the market.
 
 **Example:** A lender may offer you a fixed rate of 1% for the first two years of your mortgage, and then transfer you to a Standard Variable Rate of 4% for the remaining term. The SVR will depend on the lender, but it’s often set at a few percentage points above the Bank of England’s base rate, so it can go up and down.
 
