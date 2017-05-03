@@ -5,7 +5,7 @@ title: 'Trussle Stories: The NHS Manager'
 excerpt: >-
   In this Trussle Story, we hear from Ella - an NHS Manager who decided to
   remortgage whilst on maternity leave. 
-thumbnail_filename: EllaNHSsquare.jpg
+thumbnail_filename: EllaNHSsquare.JPG
 author: Lydia Bower
 date: '2017-05-03 T00:00:00.000Z'
 ---
