@@ -5,8 +5,8 @@ title: 'Trussle Stories: The Teacher'
 excerpt: >-
   In this story, we hear from Jeni, a first time buyer who was nervous about
   getting a mortgage. Luckily, Trussle was there to help.
-thumbnail_filename: 'Jeni trussle square.JPG'
-author: 'Lydia Bower'
+thumbnail_filename: Jeni trussle square.JPG
+author: Lydia Bower
 date: '2017-04-19T00:00:00.000Z'
 ---
 ![Jeni Trussle teacher]({{site.baseurl}}/images/post_images/Jeni Trussle.JPG)
@@ -69,5 +69,7 @@ Now that her mortgage is secured, Jeni’s ready and waiting to move into her ne
 > _"I’d recommend Trussle to anyone. My experience was so much better than with the traditional broker I turned to first - I was kept informed the whole way. As a first time buyer, with something as important as your mortgage, that’s all you want."_ 
 
 
-Pleased we could help you, Jeni! Many other Trussle customers have left their own reviews [here](https://uk.trustpilot.com/review/trussle.com "Trustpilot"). 
+Pleased we could help you, Jeni! Many other Trussle customers have left their own reviews [here](https://uk.trustpilot.com/review/trussle.com "Trustpilot").
 
+### Find out how much you could afford in 60 seconds
+See how much you could afford to spend on a home with our clear and simple [affordability calculator](https://apply.trussle.com/affordability-calculator?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
