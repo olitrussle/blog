@@ -3,12 +3,15 @@ published: false
 layout: post
 title: How To Get A Mortgage With Trussle
 excerpt: >-
-  In this Trussle Story, we hear from Ella - an NHS Manager who decided to
-  remortgage whilst on maternity leave. 
-thumbnail_filename: EllaNHSsquare.JPG
+  Trussle takes the hassle out of finding a mortgage - what used to be hard work
+  is now a straightforward process. It’s quick to get started, and we can make
+  sure you find a deal that’s right for you.  
+thumbnail_filename: woman-hand-smartphone-laptopsquare.jpg
 author: Lydia Bower
 date: '2017-05-04 T00:00:00.000Z'
 ---
+
+![howtogetamortgage]({{site.baseurl}}/images/post_images/woman-hand-smartphone-laptop.jpg)
 
 ### Great news - you’ve found a home. 
 No doubt finding the right mortgage will be the next thing on your mind. Trussle takes the hassle out of finding a mortgage, so you can focus on one of the most exciting times of your life. It’s quick to get started, and as we search thousands of deals from more than 90 lenders, we can make sure you find a deal that’s right for you.  
@@ -89,13 +92,3 @@ It’s easy to get in touch with us if there’s anything you’re unsure about 
 Looking for a hassle-free mortgage experience?
 
 Get a quick, honest, and fee-free mortgage service from Trussle. Get started [here](https://trussle.com/).
-
-
-
-
-
-
-
-
-
-
