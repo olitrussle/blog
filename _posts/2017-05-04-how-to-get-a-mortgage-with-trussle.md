@@ -74,11 +74,11 @@ We’ll ask which type of mortgage you’d like, but if you’re not sure yet, d
 
 Trussle mortgage adviser, Deeksha, thinks getting mortgage advice is vital before making a decision.  
 
-{% include image/left.html filename="deeksha2.png" caption="Deeksha" alt="Image of Deeksha Shah" %}
+{% include image/left.html filename="deeksha2.png" alt="Image of Deeksha Shah" %}
 
-> "With so many different mortgages to choose from, it can be hard to know which is right for you. Variable rates look appealing at the moment because the base rate is so low, but it’s only wise to choose a variable rate if you could afford to pay more should the interest rate rise.”
+*'With so many different mortgages to choose from, it can be hard to know which is right for you. Variable rates look appealing at the moment because the base rate is so low, but it’s only wise to choose a variable rate if you could afford to pay more should the interest rate rise.'*
 
-> “Make sure you understand the mortgage deals available as well as the costs associated before making a decision. Getting advice from a mortgage adviser like Trussle is important, as they’ll look at your personal circumstances to help you decide which to go for.” 	
+*'Make sure you understand the mortgage deals available as well as the costs associated before making a decision. Getting advice from a mortgage adviser like Trussle is important, as they’ll look at your personal circumstances to help you decide which to go for.'*
 
 ## Get your mortgage without the hassle
 
