@@ -22,7 +22,7 @@ Whatever your position, we’re here to make it a smooth journey. If you’ve ha
 ### 1. Complete your Trussle Profile in ten minutes
 We’ll ask you a few questions about your employment, any current mortgages, and personal details. The information you provide will help create what we call your Trussle Profile - this helps us establish what you’re looking for in a mortgage, so we can recommend the right deal for you.
 
-![Income profile]({{site.baseurl}}/images/post_images/income_profile (1).gif)
+![Income profile]({{site.baseurl}}/images/post_images/income_profile.gif)
 
 ### 2. Receive your personalised mortgage examples
 We’ll send you a few examples of the types of mortgages that might be most suitable for you based on the details you’ve provided. Simply let us know if you’d like to move forward once you’ve reviewed them. 
@@ -30,7 +30,7 @@ We’ll send you a few examples of the types of mortgages that might be most sui
 ### 3. Receive your personalised recommendation
 You’ll speak to one of our friendly advisers so they can learn more about your mortgage preferences. They’ll then be able to provide you with a personalised mortgage recommendation. 
 
-![recommendationemail]({{site.baseurl}}/images/post_images/recommendation_email%20(1).png)
+![recommendationemail]({{site.baseurl}}/images/post_images/recommendation_email.png)
 
 ### 4. Keep track of your progress from your Trussle Timeline
 When you complete your Trussle Profile, you’ll be able to see your progress from your Trussle Timeline. Access your Timeline anywhere, at any time, to keep track of your application and edit your details if anything changes. 
@@ -52,7 +52,7 @@ A completion date will be agreed between all parties involved. Upon completion, 
 You’ll probably be able to answer the questions without needing anything to hand. However, if you have a mortgage already and aren’t sure of the details (we’ll ask you the start date, length and type of mortgage), you’ll have to dig out your documents. 
 
 ### Uploading your documents
-You’ll need to upload a few documents for the lender to verify once you’re ready to send your application. Find out [which documents you need to apply for a mortgage](https://trussle.com/blog/what-documents-do-you-need-for-a-mortgage "DocumentsMortgage"). 
+You’ll need to upload a few documents for the lender to verify once you’re ready to send your application. Find out [which documents you need to apply for a mortgage](https://trussle.com/blog/what-documents-do-you-need-for-a-mortgage). 
 
 ### Your Trussle Timeline
 Your Trussle Timeline shows the status of your application, making it easy to keep up-to-date with any progress.  
@@ -72,9 +72,11 @@ We’ll ask which type of mortgage you’d like, but if you’re not sure yet, d
 
 ## Advice from the expert
 
-![deeksha]({{site.baseurl}}/images/post_images/deeksha (2).png)
+Trussle mortgage adviser, Deeksha, thinks getting mortgage advice is vital before making a decision.  
 
-Trussle mortgage adviser, Deeksha, thinks getting mortgage advice is vital before making a decision.  > "With so many different mortgages to choose from, it can be hard to know which is right for you. Variable rates look appealing at the moment because the base rate is so low, but it’s only wise to choose a variable rate if you could afford to pay more should the interest rate rise.”
+{% include image/left.html filename="deeksha2.png" caption="Deeksha" alt="Image of Deeksha Shah" %}
+
+> "With so many different mortgages to choose from, it can be hard to know which is right for you. Variable rates look appealing at the moment because the base rate is so low, but it’s only wise to choose a variable rate if you could afford to pay more should the interest rate rise.”
 
 > “Make sure you understand the mortgage deals available as well as the costs associated before making a decision. Getting advice from a mortgage adviser like Trussle is important, as they’ll look at your personal circumstances to help you decide which to go for.” 	
 
