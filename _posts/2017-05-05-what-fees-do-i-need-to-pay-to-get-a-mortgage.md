@@ -12,6 +12,12 @@ date: '2017-05-05 T00:00:00.000Z'
 ---
 _When you take out a mortgage, the fees you have to pay to your mortgage lender may include a booking fee, an arrangement fee and a property valuation fee. You might have to pay other fees once your mortgage is in place, including an early repayment charge if you repay before your initial deal is over._
 
+[What fees will I pay to take out a mortgage?](#what-fees-will-i-pay-to-take-out-a-mortgage)  
+[What other fees are involved in buying a home?](#what-other-fees-are-involved-in-buying-a-home)  
+[What fees will I have to pay once the mortgage is in place?](#what-fees-will-i-have-to-pay-once-the-mortgage-is-in-place)  
+[Summary of mortgage fees](#summary-of-mortgage-fees)  
+[Using Trussle to find a mortgage](#using-trussle-to-find-a-mortgage)  
+
 ## What fees will I pay to take out a mortgage? 
 It’s important to take mortgage fees into account when you’re calculating the cost of buying a property. The fees you’ll have to pay and the amounts charged will vary depending on the lender and the mortgage deal, but these are some of the fees you’re likely to come across. 
 
