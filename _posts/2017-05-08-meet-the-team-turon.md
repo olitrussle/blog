@@ -3,17 +3,17 @@ published: false
 layout: post
 title: 'Meet The Team: Turon'
 excerpt: >-
-  In this Trussle Story, we hear from Ella - an NHS Manager who decided to
-  remortgage whilst on maternity leave. 
+  Turon joins Trussle as our newest mortgage adviser, bringing with him a wealth
+  of experience and a love of football. 
 thumbnail_filename: TuronTrussleSquare.jpg
 author: Lydia Bower
 date: '2017-05-08 T00:00:00.000Z'
 ---
 ![Turon]({{site.baseurl}}/images/post_images/TuronTrussle.jpg)
 
-### Role at Trussle: Mortgage Adviser
-
 Turon joins Trussle as our newest mortgage adviser after almost 15 years in the mortgage and property industry. There’s nothing Turon loves more than escaping to Thailand when he can, and spending his weekends throwing shapes on the dancefloor when he can’t.  
+
+### Role at Trussle: Mortgage Adviser
 
 ## How do you think your friends would describe you?
 Charming, chatty, well-dressed, sophisticated, funny
