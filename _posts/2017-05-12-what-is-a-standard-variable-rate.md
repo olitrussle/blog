@@ -8,7 +8,7 @@ excerpt: >-
   sure you find a deal that’s right for you.  
 thumbnail_filename: woman-hand-smartphone-laptopsquare.jpg
 author: Lydia Bower
-date: '2017-05-012 T00:00:00.000Z'
+date: '2017-05-12 T00:00:00.000Z'
 ---
 ## A New Post
 
