@@ -45,14 +45,9 @@ Also, be careful about your accountant minimising your taxable income. Accountan
 
 If you’re a director of a limited company, you may keep some of your profits in the business rather than taking them as salary and dividends. If this is the case, you might need to find a lender who’ll take these ‘retained earnings’ into account when making calculations. 
 
-How can I get a mortgage when I’m self-employed?  
+## How can I get a mortgage when I’m self-employed?  
 It can be a bit trickier to get a mortgage when you’re self-employed, so using a [mortgage broker](https://trussle.com/) is a good idea and will help you avoid any doubt. At Trussle, we search through over 11,000 mortgage products from more than 90 lenders. We can find the right mortgage for you without the usual hassle - we don’t require lengthy face-to-face meetings and won’t ask you to fill in reams of paperwork. We’ve been able to help many self-employed people find the right mortgage, like [freelance designer James](https://trussle.com/blog/trussle-stories-the-freelancer). 
 
 As long as you have at least one year of self-employed accounts, we can look for a mortgage for you. When you apply, enter your pre-tax income as it’s shown on your tax return. This can be a combination of your dividends and salary if you run a limited company, and your profits if you’re a sole trader. 
 
-[Start your mortgage application](https://trussle.com/) at trussle.com. 
-
-
-
-
-
+[Start your mortgage application](https://trussle.com/) at trussle.com.
