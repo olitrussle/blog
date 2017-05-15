@@ -3,14 +3,17 @@ published: false
 layout: post
 title: Is It Hard To Get A Mortgage If You're Self-Employed?
 excerpt: >-
-  A Standard Variable Rate (SVR) is a mortgage lender’s default interest rate,
-  which you’ll usually be moved onto once your initial mortgage deal has
-  ended.   
-thumbnail_filename: WhatIsAnSVRsquare.jpg
+  Some lenders are cautious about lending to you if you're self-employed, but
+  with a decent deposit, a good credit rating, and at least two years of
+  self-employed accounts, there’s no reason why you shouldn’t be able to get a
+  mortgage.   
+thumbnail_filename: SelfEmployedMortgageSquare.jpg
 author: Lydia Bower
 date: '2017-05-15 T00:00:00.000Z'
 ---
 _Getting a mortgage can be more difficult if you’re self-employed, but it’s usually possible. Some lenders are cautious about lending to people with a ‘non-standard’ income, but with a decent deposit, a good credit rating, and at least two years of self-employed accounts, there’s no reason why you shouldn’t be able to get a mortgage._
+
+![SelfEmployed]({{site.baseurl}}/images/post_images/SelfEmployedMortgage.jpg)
 
 ## Can I get a mortgage when I’m self-employed?  
 The short answer is ‘yes’ - as long as you meet the bank’s lending criteria. In theory, self-employed people - including contractors, freelancers, and small-business owners - should have access to the same mortgage products and interest rates as employed people. Proving your income can be a little more complicated though, and you may find yourself jumping through more hoops than someone who’s in full time employment. 
