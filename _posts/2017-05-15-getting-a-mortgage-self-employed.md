@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Is It Hard To Get A Mortgage If You're Self-Employed?
 excerpt: >-
