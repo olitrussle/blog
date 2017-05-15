@@ -72,7 +72,7 @@ If you’ve chosen a fixed mortgage, this is the interest rate you’ll initiall
 This is the length of time you’ll pay the initial rate for, which is often somewhere between two to five years. You’ll usually have to pay an early repayment charge (ERC) if you remortgage during this initial period.
 
 ### The Standard Variable Rate (SVR)
-Once the initial period is over, your lender will move you onto their higher Standard Variable Rate (SVR), which can increase your monthly payments. This rate may not matter too much if you’re planning to remortgage again once your initial rate has finished. If you use Trussle, we’ll keep an eye on the mortgage market for you and let you know when it makes sense to switch. 
+Once the initial period is over, your lender will move you onto their higher [Standard Variable Rate (SVR)](https://trussle.com/blog/what-is-a-standard-variable-rate), which can increase your monthly payments. This rate may not matter too much if you’re planning to remortgage again once your initial rate has finished. If you use Trussle, we’ll keep an eye on the mortgage market for you and let you know when it makes sense to switch. 
 
 ### Arrangement fees 
 The lender will usually charge an arrangement or product fee, which is a one-off amount you pay when you take out your mortgage. You may be able to get a more competitive rate if you choose a mortgage with a higher fee, but the overall cost may not be lower.
