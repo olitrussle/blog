@@ -51,6 +51,9 @@ I’m from Kingsbury in London but have only worked centrally for the last two y
 ## How would you describe working for Trussle?
 Exciting, challenging, and fun. It’s a young team - everyone seems driven but up for a good time on the way. 
 
+Inspired by Prakash’s story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle) - we’d love to hear from you.
+
+
 
 
 
