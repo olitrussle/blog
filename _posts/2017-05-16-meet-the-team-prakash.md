@@ -4,9 +4,8 @@ layout: post
 title: 'Meet The Team: Prakash'
 excerpt: >-
   Prakash joined Trussle after spending two years working for a traditional
-  mortgage broker. Wanting a change from the world of traditional mortgage
-  broking, Prakash saw the light and joined Trussle to help change the mortgage
-  industry for the better. 
+  mortgage broker. He saw the light and joined Trussle to help change the
+  mortgage industry for the better. 
 thumbnail_filename: MeetTheTeamPrakashSquare.jpg
 author: Lydia Bower
 date: '2017-05-16 T00:00:00.000Z'
