@@ -46,7 +46,7 @@ I’m off to Marrakech for a stag in August, there’s 13 of us in a villa… So
 I loved Thailand, Cambodia and Hong Kong.
 
 ## What’s the best thing about working in London?
-I’m from Kingsbury in London but have only worked centrally for the last two years. The social side of it was great - I didn’t love the commute but I liked the atmosphere, especially on Friday’s. The one upside of being jammed onto a crowded tube was not having to drive home, so it's easy for everyone to go for a drink. Before then, I was working in Watford. Driving to work in the comfort of my car was a dream but the social aspect was nowhere near as good.
+I’m from Kingsbury in London but have only worked centrally for the last two years. The social side of it was great - I didn’t love the commute but I liked the atmosphere, especially on Fridays. The one upside of being jammed onto a crowded tube was not having to drive home, so it's easy for everyone to go for a drink. Before then, I was working in Watford. Driving to work in the comfort of my car was a dream but the social aspect was nowhere near as good.
 
 ## How would you describe working for Trussle?
 Exciting, challenging, and fun. It’s a young team - everyone seems driven but up for a good time on the way. 
