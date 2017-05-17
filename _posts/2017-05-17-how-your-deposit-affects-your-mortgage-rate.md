@@ -34,7 +34,7 @@ Trussle mortgage adviser Ushma explains how it works in practice.
 
 Having a larger deposit means that you need to borrow less money, but the fact that it could also give you access to lower interest rates means that it can make a big difference to both your monthly repayments and the overall cost of your loan. As a result, it might be a good idea to wait until you’ve saved a bigger deposit before taking out a mortgage.
 
-![ltv_02 (1).jpg]({{site.baseurl}}/images/post_images/ltv_02 (1).jpg)
+![ltv_02 (1).jpg]({{site.baseurl}}/images/post_images/ltv_02 (1)
 
 ### £200,000 total property price, mortgage term of 25 years
 ![Screen Shot 2017-05-16 at 11.54.18.png]({{site.baseurl}}/images/post_images/Screen Shot 2017-05-16 at 11.54.18.png)
