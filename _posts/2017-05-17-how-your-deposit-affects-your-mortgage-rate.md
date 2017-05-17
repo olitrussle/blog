@@ -12,6 +12,8 @@ title: How Your Deposit Affects Your Mortgage Rate
 ---
 _Typically, having a larger deposit relative to the total purchase price gives you access to mortgage deals with lower interest rates. However, there are several other factors that determine the amount of money you can borrow and the rates you’re offered._
 
+
+
 ## The loan-to-value ratio 
 When you’re buying a home, the size of your deposit relative to the purchase price is important. It can affect whether lenders agree to lend to you as well as the initial interest rates you’re offered. 
 
@@ -24,11 +26,18 @@ If you have a larger deposit and therefore a lower LTV, you’ll have access to 
 
 Trussle mortgage adviser Ushma explains how it works in practice. 
 
+{% include image/left.html filename="Ushma.png" alt="Image of Ushma" %}
+
 > “If you were buying a home worth £200,000 and you had a deposit of 5% (meaning an LTV of 95%), you may be offered initial rates of around 3.5%. A deposit of 10%, meanwhile, may mean initial rates starting at under 2%. A deposit of 20% could mean you’re offered initial rates as low as 1.33%.”
 
 > “If you can, saving for a larger deposit can be a real benefit - by doing so, you could achieve a lower rate of interest. This means less interest to pay over the term of the loan, potentially saving you thousands.”
 
 Having a larger deposit means that you need to borrow less money, but the fact that it could also give you access to lower interest rates means that it can make a big difference to both your monthly repayments and the overall cost of your loan. As a result, it might be a good idea to wait until you’ve saved a bigger deposit before taking out a mortgage.
+
+![ltv_02 (1).jpg]({{site.baseurl}}/images/post_images/ltv_02 (1).jpg)
+
+### £200,000 total property price, mortgage term of 25 years
+![Screen Shot 2017-05-16 at 11.54.18.png]({{site.baseurl}}/images/post_images/Screen Shot 2017-05-16 at 11.54.18.png)
 
 ## Deposit size only impacts initial rates
 However, it’s important to understand that although you may be offered lower initial mortgage rates if you have a larger deposit, this initial deal will typically only last a few years. 
