@@ -5,13 +5,15 @@ excerpt: >-
   Prakash joined Trussle after spending two years working for a traditional
   mortgage broker. He saw the light and joined Trussle to help change the
   mortgage industry for the better. 
-thumbnail_filename: MeetTheTeamPrakashSquare.jpg
+thumbnail_filename: DepositArticleSquare.jpg
 author: Lydia Bower
 date: '2017-05-17 T00:00:00.000Z'
 title: How Your Deposit Affects Your Mortgage Rate
 ---
 _Typically, having a larger deposit relative to the total purchase price gives you access to mortgage deals with lower interest rates. However, there are several other factors that determine the amount of money you can borrow and the rates you’re offered._
 
+![DepositArticle]({{site.baseurl}}/images/post_images/DepositArticle.jpg)
+![DepositArticleSquare.jpg]({{site.baseurl}}/images/post_images/DepositArticleSquare.jpg)
 
 
 ## The loan-to-value ratio 
