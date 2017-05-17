@@ -28,7 +28,6 @@ If you have a larger deposit and therefore a lower LTV, you’ll have access to 
 Trussle mortgage adviser Ushma explains how it works in practice. 
 
 {% include image/left.html filename="Ushma.png" alt="Image of Ushma" %}
-
 > “If you were buying a home worth £200,000 and you had a deposit of 5% (meaning an LTV of 95%), you may be offered initial rates of around 3.5%. A deposit of 10%, meanwhile, may mean initial rates starting at under 2%. A deposit of 20% could mean you’re offered initial rates as low as 1.33%.”
 
 > “If you can, saving for a larger deposit can be a real benefit - by doing so, you could achieve a lower rate of interest. This means less interest to pay over the term of the loan, potentially saving you thousands.”
