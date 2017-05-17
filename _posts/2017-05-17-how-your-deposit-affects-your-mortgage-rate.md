@@ -38,7 +38,8 @@ Having a larger deposit means that you need to borrow less money, but the fact t
 ![LTVMortgages]({{site.baseurl}}/images/post_images/ltvMortgagePayments.jpg)
 
 ### £200,000 total property price, mortgage term of 25 years
-![Screen Shot 2017-05-16 at 11.54.18.png]({{site.baseurl}}/images/post_images/Screen Shot 2017-05-16 at 11.54.18.png)
+![LTV]({{site.baseurl}}/images/post_images/LTVTable.png)
+
 
 ## Deposit size only impacts initial rates
 However, it’s important to understand that although you may be offered lower initial mortgage rates if you have a larger deposit, this initial deal will typically only last a few years. 
