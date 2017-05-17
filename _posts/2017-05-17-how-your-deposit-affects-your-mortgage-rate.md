@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 excerpt: >-
   Typically, having a larger deposit relative to the total purchase price gives
