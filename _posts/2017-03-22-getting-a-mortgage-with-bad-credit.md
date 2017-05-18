@@ -18,9 +18,9 @@ Mortgage lenders and other finance providers use information from your credit fi
  
 There are several credit reference agencies and each one has its own way of calculating credit scores.
 
-- Callcredit
-- Equifax
-- Experian
+- [Callcredit](http://www.callcredit.co.uk/)
+- [Equifax](https://www.equifax.co.uk/)
+- [Experian](http://www.experian.co.uk/)
  
 Having bad credit doesn’t necessarily mean that you won’t be able to get a mortgage or remortgage, but it can make it more difficult.  
  
