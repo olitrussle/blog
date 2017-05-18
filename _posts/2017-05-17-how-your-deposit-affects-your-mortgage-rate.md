@@ -52,15 +52,8 @@ To avoid this, you could [remortgage](https://trussle.com/blog/the-straightforwa
 - A bigger deposit relative to the value of your property means that you have a lower LTV.
 - A lower LTV usually means access to more mortgage deals and better initial interest rates.  
 - A lower interest rate can save you a lot of money on your mortgage. 
-- Once your initial rate period is over, you’ll usually be switched to your lender’s [Standard Variable Rate](https://trussle.com/blog/what-is-a-standard-variable-rate). You’ll want to consider switching to a more suitable deal to avoid paying this higher rate. 
+- Once your initial rate period is over, you’ll usually be switched to your lender’s [Standard Variable Rate](https://trussle.com/blog/what-is-a-standard-variable-rate). You’ll want to consider switching to a more suitable deal to avoid paying this higher rate.
 
- 
+## Looking for a hassle-free mortgage experience?
 
-
-
-
-
-
-
-
-
+Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
