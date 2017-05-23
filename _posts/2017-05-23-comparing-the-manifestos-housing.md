@@ -46,6 +46,8 @@ Jeremy Corbyn’s policies focus on creating ‘housing for the many, not invest
 
 _‘I'm currently renting and hope to buy one day. My main concern is that it's difficult to save for a deposit when so much of my income is spent on rent. I just renewed my tenancy and the rent went up for the second year in a row, so the three-year tenancy plan would hopefully help me save for a deposit more quickly.’_ - Caitlin, 24, London
 
+![Caitlin.jpg]({{site.baseurl}}/images/post_images/Caitlin.jpg)
+
 Labour’s pledges have the power to make a difference in helping first-time buyers get on the ladder. Like the Conservatives, there’s a focus on improving the quality of housing and making homes more energy efficient. There’s potentially some good news for renters, too - three year tenancies might offer more security, although not all renters will welcome the idea of being locked into a three year contract. 
 
 ## Lib Dems
