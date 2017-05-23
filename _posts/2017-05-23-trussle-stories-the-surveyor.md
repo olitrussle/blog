@@ -57,6 +57,6 @@ John’s mortgage is now finalised, and the family are excited to move into thei
 
 We love hearing about how we’ve helped our customers find a mortgage that’s right for them. You can read more about our customers’ experiences on [Trustpilot](https://www.trustpilot.com/review/trussle.com).
 
-Looking for a hassle-free mortgage experience?
+**Looking for a hassle-free mortgage experience?**
 
 Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/).
