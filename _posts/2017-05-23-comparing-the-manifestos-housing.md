@@ -63,6 +63,8 @@ Private renters and those saving for deposits might welcome the Lib Dem proposal
 
 _‘It seems like no matter how many houses we build, we’re still so short that even building 300,000 a year won’t make a difference. I don’t like the idea of discriminating against people because they’re not British, so giving British people first refusal on homes isn’t appealing to me. I feel like it’s only a big problem in London where prices are so high that no working British people can afford to buy anyway - the new developments are only in reach of wealthy, often foreign, investors.’_ Sam, 35, London 
 
+{% include image/right.html filename="SamSquare.jpg" alt="Image of SamSquare" %}
+
 # How the other parties stack up
 
 ### The SNP 
