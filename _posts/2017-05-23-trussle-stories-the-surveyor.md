@@ -6,7 +6,7 @@ excerpt: >-
   In this story, we hear from John - a Construction Surveyor from
   Leicestershire. Wanting to upsize and move closer to the village centre, John
   turned to Trussle to secure a mortgage for his new family home.  
-thumbnail_filename: TheSurveyorSquare.jpg
+thumbnail_filename: TheSurveyorSquare.JPG
 author: Lydia Bower
 date: '2017-05-23 T00:00:00.000Z'
 ---
