@@ -29,7 +29,7 @@ We’ve heard it many times before: the Conservatives led by Theresa May will pr
 
 _‘I’m all for building more homes, but the focus should be on affordability rather than just numbers. The new homes we’ve seen built in our area aren’t affordable, so just building more of them isn’t solving the problem of helping first-time buyers get on the ladder. The Help to Buy scheme is great in principle, but in reality it doesn’t apply to everyone - the maximum amount you can purchase is £250,000, and the average home price where we live is more than that.’_ Lauren - 25, Hale, Cheshire
 
-![laurenResized.jpg]({{site.baseurl}}/images/post_images/laurenResized.jpg)
+{% include image/right.html filename="laurenResized.jpg" alt="Image of laurenResized" %}
 
 May’s social care plan is causing the biggest stir. Although it’s the older generations that will be affected the most heavily by the plan - which makes those with assets over £100,000, including property, liable to pay for their own care - the younger generations could find themselves affected too. Pensioners won’t have to take the money out of their property whilst they’re alive; instead, the money will be deducted from their estate when they die. As a result, those in line to receive inheritance - perhaps for a deposit of their own - may have those hopes dashed. 
 
