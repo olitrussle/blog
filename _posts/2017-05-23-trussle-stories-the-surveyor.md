@@ -1,12 +1,12 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Trussle Stories: The Surveyor'
 excerpt: >-
-  It's nearly election time, and we’ve rounded up what each party is offering so
-  you know exactly who’s promising what, how they’re planning on tackling the
-  housing crisis, and whether you think it’s likely to make a difference. 
-thumbnail_filename: DepositArticleSquare.jpg
+  In this story, we hear from John - a Construction Surveyor from
+  Leicestershire. Wanting to upsize and move closer to the village centre, John
+  turned to Trussle to secure a mortgage for his new family home.  
+thumbnail_filename: TheSurveyorSquare.jpg
 author: Lydia Bower
 date: '2017-05-23 T00:00:00.000Z'
 ---
