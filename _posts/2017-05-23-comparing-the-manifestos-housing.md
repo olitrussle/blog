@@ -6,10 +6,12 @@ excerpt: >-
   It's nearly election time, and we’ve rounded up what each party is offering so
   you know exactly who’s promising what, how they’re planning on tackling the
   housing crisis, and whether you think it’s likely to make a difference. 
-thumbnail_filename: DepositArticleSquare.jpg
+thumbnail_filename: ElectionHousingSquare.png
 author: Lydia Bower
 date: '2017-05-23 T00:00:00.000Z'
 ---
+![shutterstock_268679729--blog.png]({{site.baseurl}}/images/post_images/shutterstock_268679729--blog.png)
+
 It’s crunch time. The snap election might have come as a surprise, but now the manifestos have been published, the campaigning can really begin. We’ve been watching it all unfold with interest, keeping a close eye on each party’s position on one of the major challenges of our time - housing.
 
 Whether you’re a first-time buyer, a homeowner, a renter, or a buy-to-let landlord, the next government has the power to determine the future of your housing market.
@@ -59,7 +61,7 @@ Labour’s pledges have the power to make a difference in helping first-time buy
 
 Private renters and those saving for deposits might welcome the Lib Dem proposals. The Rent to Own idea could go down well, cutting out the need for deposits altogether as families pay rent in lieu of mortgage payments for the first 30 years. Those on the scheme would need to meet typical mortgage requirements, and The Telegraph reported how [the scheme could cut out the need for the ‘Bank of Mum and Dad’](http://www.telegraph.co.uk/news/2017/05/16/lib-dems-plan-rent-policy-get-young-people-property-ladder/).
 
-_‘It seems like no matter how many houses we build, we’re still so short that even building 300,000 a year won’t touch the sides. I don’t like the idea of discriminating against people because they’re not British, so giving British people first refusal on homes isn’t appealing to me. I feel like it’s only a big problem in London where prices are so high that no working British people can afford to buy anyway - the new developments are only in reach of wealthy, often foreign, investors.’_ Tim, 29, London 
+_‘It seems like no matter how many houses we build, we’re still so short that even building 300,000 a year won’t make a difference. I don’t like the idea of discriminating against people because they’re not British, so giving British people first refusal on homes isn’t appealing to me. I feel like it’s only a big problem in London where prices are so high that no working British people can afford to buy anyway - the new developments are only in reach of wealthy, often foreign, investors.’_ Sam, 35, London 
 
 # How the other parties stack up
 
