@@ -16,7 +16,7 @@ We’ve learnt that there’s no such thing as the average Trussle customer. We 
 
 In this story, we hear from John - a Construction Surveyor from Barrow upon Soar in Leicestershire. Wanting to upsize and move closer to the village centre, John turned to Trussle to secure a mortgage for his new family home. 
 
-![TrussleStoryTheSurveyor.JPG]({{site.baseurl}}/images/post_images/TrussleStoryTheSurveyor.JPG)
+![TheSurveyor.JPG]({{site.baseurl}}/images/post_images/TheSurveyor.JPG)
 
 ## Access to town
 John and his wife wanted to move closer to the village centre so their two children could be more independent. As their old home was nearly two miles from the town centre along country lanes, the children couldn’t walk to school or meet their friends easily. Giving the children the freedom to walk to town quickly was important to John - even more so as the children got older. 
