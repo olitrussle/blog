@@ -4,11 +4,11 @@ layout: post
 title: Which Party Will Solve The Housing Crisis? Comparing The Manifestos
 excerpt: >-
   It's nearly election time, and we’ve rounded up what each party is offering so
-  you know exactly who’s promising what, how they’re planning on tackling the
-  housing crisis, and whether you think it’s likely to make a difference. 
+  you know exactly who’s promising what and how they’re planning on tackling the
+  housing crisis. 
 thumbnail_filename: ElectionHousingSquare.png
 author: Lydia Bower
-date: '2017-05-23 T00:00:00.000Z'
+date: '2017-05-24 T00:00:00.000Z'
 ---
 ![shutterstock_268679729--blog.png]({{site.baseurl}}/images/post_images/shutterstock_268679729--blog.png)
 
