@@ -29,9 +29,10 @@ We’ve heard it many times before: the Conservatives led by Theresa May will pr
 - **Build better homes** with better insulation and improve the energy efficiency of existing homes,  especially for the least well off.
 - **Deliver the policies set out in the [Housing White Paper](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/590464/Fixing_our_broken_housing_market_-_print_ready_version.pdf)**, including shaking up leasehold reform and continuing the Build to Rent scheme. Leasehold reform will give ‘transparency and fairness’ to leaseholders, but there’s no detail about what this will look like. The homes built under the Build to Rent scheme are purpose-built and will have three year tenancies as standard.
 
+{% include image/right.html filename="laurenResized.jpg" alt="Image of laurenResized" %}
+
 _‘I’m all for building more homes, but the focus should be on affordability rather than just numbers. The new homes we’ve seen built in our area aren’t affordable, so just building more of them isn’t solving the problem of helping first-time buyers get on the ladder. The Help to Buy scheme is great in principle, but in reality it doesn’t apply to everyone - the maximum amount you can purchase is £250,000, and the average home price where we live is more than that.’_ Lauren - 25, Hale, Cheshire
 
-{% include image/right.html filename="laurenResized.jpg" alt="Image of laurenResized" %}
 
 May’s social care plan is causing the biggest stir. Although it’s the older generations that will be affected the most heavily by the plan - which makes those with assets over £100,000, including property, liable to pay for their own care - the younger generations could find themselves affected too. Pensioners won’t have to take the money out of their property whilst they’re alive; instead, the money will be deducted from their estate when they die. As a result, those in line to receive inheritance - perhaps for a deposit of their own - may have those hopes dashed. 
 
@@ -46,9 +47,9 @@ Jeremy Corbyn’s policies focus on creating ‘housing for the many, not invest
 - **Abolish the bedroom tax**. 
 - **Suspend Right To Buy** of council homes until councils can prove they’ll build more homes to replace those sold.  
 
+{% include image/left.html filename="Caitlin.jpg" alt="Image of Caitlin" %}
 _‘I'm currently renting and hope to buy one day. My main concern is that it's difficult to save for a deposit when so much of my income is spent on rent. I just renewed my tenancy and the rent went up for the second year in a row, so the three-year tenancy plan would hopefully help me save for a deposit more quickly.’_ - Caitlin, 24, London
 
-{% include image/right.html filename="Caitlin.jpg" alt="Image of Caitlin" %}
 
 Labour’s pledges have the power to make a difference in helping first-time buyers get on the ladder. Like the Conservatives, there’s a focus on improving the quality of housing and making homes more energy efficient. There’s potentially some good news for renters, too - three year tenancies might offer more security, although not all renters will welcome the idea of being locked into a three year contract. 
 
@@ -61,9 +62,9 @@ Labour’s pledges have the power to make a difference in helping first-time buy
 
 Private renters and those saving for deposits might welcome the Lib Dem proposals. The Rent to Own idea could go down well, cutting out the need for deposits altogether as families pay rent in lieu of mortgage payments for the first 30 years. Those on the scheme would need to meet typical mortgage requirements, and The Telegraph reported how [the scheme could cut out the need for the ‘Bank of Mum and Dad’](http://www.telegraph.co.uk/news/2017/05/16/lib-dems-plan-rent-policy-get-young-people-property-ladder/).
 
+{% include image/right.html filename="SamSquare.jpg" alt="Image of SamSquare" %}
 _‘It seems like no matter how many houses we build, we’re still so short that even building 300,000 a year won’t make a difference. I don’t like the idea of discriminating against people because they’re not British, so giving British people first refusal on homes isn’t appealing to me. I feel like it’s only a big problem in London where prices are so high that no working British people can afford to buy anyway - the new developments are only in reach of wealthy, often foreign, investors.’_ Sam, 35, London 
 
-{% include image/right.html filename="SamSquare.jpg" alt="Image of SamSquare" %}
 
 # How the other parties stack up
 
