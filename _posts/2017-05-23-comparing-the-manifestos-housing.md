@@ -60,7 +60,8 @@ Labour’s pledges have the power to make a difference in helping first-time buy
 - **Three year tenancies for renters** to give greater long term security and limit rent hikes. 
 - **Rent to Own scheme introduced**, where rent payments will give tenants an increasing stake in the property, which becomes theirs after 30 years. 
 
-{% include image/right.html filename="SamSquare.jpg" alt="Image of SamSquare" %}
+{% include image/right.html filename="AlexImage.jpg" alt="Image of AlexImage" %}
+
 _‘It seems like no matter how many houses we build, we’re still so short that even building 300,000 a year won’t make a difference. I don’t like the idea of discriminating against people because they’re not British, so giving British people first refusal on homes isn’t appealing to me. I feel like it’s only a big problem in London where prices are so high that no working British people can afford to buy anyway - the new developments are only in reach of wealthy, often foreign, investors.’_ Sam, 35, London
 
 Private renters and those saving for deposits might welcome the Lib Dem proposals. The Rent to Own idea could go down well, cutting out the need for deposits altogether as families pay rent in lieu of mortgage payments for the first 30 years. Those on the scheme would need to meet typical mortgage requirements, and The Telegraph reported how [the scheme could cut out the need for the ‘Bank of Mum and Dad’](http://www.telegraph.co.uk/news/2017/05/16/lib-dems-plan-rent-policy-get-young-people-property-ladder/).
@@ -68,13 +69,13 @@ Private renters and those saving for deposits might welcome the Lib Dem proposal
 # How do the other parties stack up?
 
 ### The SNP 
-have said they’ll invest over £3 billion over the next parliament to build at least 50,000 new affordable homes in Scotland, with 35,000 of these for social rent. They’ve also said they’ll continue to invest in the Help to Buy and [Shared Equity](https://www.gov.uk/affordable-home-ownership-schemes/help-to-buy-equity-loan) schemes to help first-time buyers get on the housing ladder. 
+haven’t published their manifesto yet, but they’ve said in this parliament they’ll invest over £3 billion to build at least 50,000 new affordable homes in Scotland, with 35,000 of these for social rent. They’ve also said they’ll continue to invest in the Help to Buy  and [Shared Equity](https://www.gov.uk/affordable-home-ownership-schemes/help-to-buy-equity-loan) schemes to help first-time buyers get on the housing ladder. Read the [SNP housing policy in full](https://www.snp.org/pb_housing).   
 
 ### The Green Party 
-has pledged to abolish the bedroom tax, has committed to building 500,000 more social rented homes by 2020, and has said they'll put empty homes to use. They’ll also introduce capped rent and longer tenancies for renters. 
+has pledged to abolish the bedroom tax, has committed to building 100,000 affordable, zero-carbon homes (including social rented homes) a year by 2020, and has said they will put empty homes to use. They’ll also introduce rent controls and longer tenancies for renters, as well as supporting the development of renters’ unions. Read the [Green Party manifesto in full](https://www.greenparty.org.uk/green-guarantee/). 
 
 ### UKIP
-has made a pledge to end Right to Buy for foreign nationals, alongside the introduction of leasehold reform to make it easier for leaseholders to extend their leases and challenge unreasonable service charges. They’ve also said they’ll protect the green belt, making it more appealing for developers to build on brownfield sites.  
+hasn’t published a manifesto yet, but made pledges in the local manifesto to end Right to Buy for foreign nationals, alongside the introduction of leasehold reform to make it easier for leaseholders to extend their leases and challenge unreasonable service charges. They’ve also said they’ll protect the green belt, making it more appealing for developers to build on brownfield sites. Read the [UKIP local manifesto in full](https://d3n8a8pro7vhmx.cloudfront.net/ukipdev/pages/3485/attachments/original/1489398291/UKIPLocalManifesto2017opt.pdf?1489398291).   
 
 
 # What’s missing from the manifestos?
