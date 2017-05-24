@@ -53,8 +53,8 @@ _"I'm currently renting and hope to buy one day. My main concern is that it's di
 
 Labour’s pledges have the power to make a difference in helping first-time buyers get on the ladder. Like the Conservatives, there’s a focus on improving the quality of housing and making homes more energy efficient. There’s potentially some good news for renters, too - three year tenancies might offer more security, although not all renters will welcome the idea of being locked into a three year contract. 
 
-## Lib Dems
-The Lib Dems have gone the furthest with their homebuilding targets, focusing on getting people onto the property ladder. Read the [full Lib Dem manifesto](http://www.libdems.org.uk/manifesto). 
+## Liberal Democrats
+The Lib Dems have gone the furthest with their homebuilding targets, focusing on getting people onto the property ladder. Read the [full Liberal Democrat manifesto](http://www.libdems.org.uk/manifesto). 
 
 - **Build 300,000 homes a year** by the end of the next parliament.
 - **Give local councils more power** - they’ll be able to charge absentee landlords up to 200% council tax on empty homes. 
