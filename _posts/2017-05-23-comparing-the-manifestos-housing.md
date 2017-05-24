@@ -31,7 +31,7 @@ We’ve heard it many times before: the Conservatives led by Theresa May will pr
 
 {% include image/right.html filename="laurenResized.jpg" alt="Image of laurenResized" %}
 
-_‘I’m all for building more homes, but the focus should be on affordability rather than just numbers. The new homes we’ve seen built in our area aren’t affordable, so just building more of them isn’t solving the problem of helping first-time buyers get on the ladder. The Help to Buy scheme is great in principle, but in reality it doesn’t apply to everyone - the maximum amount you can purchase is £250,000, and the average home price where we live is more than that.’_ Lauren - 25, Hale, Cheshire
+_"I’m all for building more homes, but the focus should be on affordability rather than just numbers. The new homes we’ve seen built in our area aren’t affordable, so just building more of them isn’t solving the problem of helping first-time buyers get on the ladder. The Help to Buy scheme is great in principle, but in reality it doesn’t apply to everyone - the maximum amount you can purchase is £250,000, and the average home price where we live is more than that."_ Lauren - 25, Hale, Cheshire
 
 
 May’s social care plan is causing the biggest stir. Although it’s the older generations that will be affected the most heavily by the plan - which makes those with assets over £100,000, including property, liable to pay for their own care - the younger generations could find themselves affected too. Pensioners won’t have to take the money out of their property whilst they’re alive; instead, the money will be deducted from their estate when they die. As a result, those in line to receive inheritance - perhaps for a deposit of their own - may have those hopes dashed. 
@@ -48,7 +48,7 @@ Jeremy Corbyn’s policies focus on creating ‘housing for the many, not invest
 - **Suspend Right To Buy** of council homes until councils can prove they’ll build more homes to replace those sold.  
 
 {% include image/left.html filename="Caitlin.jpg" alt="Image of Caitlin" %}
-_‘I'm currently renting and hope to buy one day. My main concern is that it's difficult to save for a deposit when so much of my income is spent on rent. I just renewed my tenancy and the rent went up for the second year in a row, so the three-year tenancy plan would hopefully help me save for a deposit more quickly.’_ - Caitlin - 24, London
+_"I'm currently renting and hope to buy one day. My main concern is that it's difficult to save for a deposit when so much of my income is spent on rent. I just renewed my tenancy and the rent went up for the second year in a row, so the three-year tenancy plan would hopefully help me save for a deposit more quickly."_ Caitlin - 24, London
 
 
 Labour’s pledges have the power to make a difference in helping first-time buyers get on the ladder. Like the Conservatives, there’s a focus on improving the quality of housing and making homes more energy efficient. There’s potentially some good news for renters, too - three year tenancies might offer more security, although not all renters will welcome the idea of being locked into a three year contract. 
@@ -63,7 +63,7 @@ The Lib Dems have gone the furthest with their homebuilding targets, focusing on
 - **Rent to Own scheme introduced**, where rent payments will give tenants an increasing stake in the property, which becomes theirs after 30 years. 
 
 {% include image/right.html filename="AlexImage.jpg" alt="Image of AlexImage" %}
-_Governments always seem to set ambitious targets, but the last time 300,000 new homes were delivered was in the 70’s. Realistically, I don't think a Lib Dem government would manage to reverse this trend. These policies sound appealing but I’d worry in practice they’d only make the housing crisis worse. The Rent to Own scheme is reminiscent of Thatcher’s Right to Buy scheme, which ended up with lots of social homes being rented privately, taking them away from those in need. We need tougher housing policies to make sure that housing is about creating homes - not just assets to buy and sell.'_ Alex - 26, London
+_"Governments always seem to set ambitious targets, but the last time 300,000 new homes were delivered was in the 70’s. Realistically, I don't think a Lib Dem government would manage to reverse this trend. These policies sound appealing but I’d worry in practice they’d only make the housing crisis worse. The Rent to Own scheme is reminiscent of Thatcher’s Right to Buy scheme, which ended up with lots of social homes being rented privately, taking them away from those in need. We need tougher housing policies to make sure that housing is about creating homes - not just assets to buy and sell."_ Alex - 26, London
 
 Private renters and those saving for deposits might welcome the Lib Dem proposals. The Rent to Own idea could go down well, cutting out the need for deposits altogether as families pay rent in lieu of mortgage payments for the first 30 years. Those on the scheme would need to meet typical mortgage requirements, and The Telegraph reported how [the scheme could cut out the need for the ‘Bank of Mum and Dad’](http://www.telegraph.co.uk/news/2017/05/16/lib-dems-plan-rent-policy-get-young-people-property-ladder/).
 
