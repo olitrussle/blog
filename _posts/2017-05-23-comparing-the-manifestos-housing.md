@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Which Party Will Solve The Housing Crisis? Comparing The Manifestos
 excerpt: >-
