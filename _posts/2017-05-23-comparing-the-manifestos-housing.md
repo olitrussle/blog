@@ -12,11 +12,11 @@ date: '2017-05-23 T00:00:00.000Z'
 ---
 ![shutterstock_268679729--blog.png]({{site.baseurl}}/images/post_images/shutterstock_268679729--blog.png)
 
-It’s crunch time. The snap election might have come as a surprise, but now the manifestos have been published, the campaigning can really begin. We’ve been watching it all unfold with interest, keeping a close eye on each party’s position on one of the major challenges of our time - housing.
+It’s crunch time. The [snap election](http://www.bbc.co.uk/news/live/election-2017-39979839) might have come as a surprise, but now the manifestos have been published, the campaigning can really begin. We’ve been watching it all unfold with interest, keeping a close eye on each party’s position on one of the major challenges of our time - housing.
 
 Whether you’re a first-time buyer, a homeowner, a renter, or a buy-to-let landlord, the next government has the power to determine the future of your housing market.
 
-We’ve rounded up what each party is offering so you know exactly who’s promising what, how they’re planning on tackling the housing crisis, and whether you think it’s likely to make a difference. 
+We’ve rounded up what each party's offering so you know exactly who’s promising what, how they’re planning on tackling the housing crisis, and whether you think it’s likely to make a difference. 
 
 # What are the parties saying? 
 
@@ -27,7 +27,7 @@ We’ve heard it many times before: the Conservatives led by Theresa May will pr
 - **Build more council homes**, along with a new [Right to Buy](https://righttobuy.gov.uk/) scheme. 
 - **Build 1.5 million homes by 2022**, adding to their 2015 commitment of 1 million homes by 2020. 
 - **Build better homes** with better insulation and improve the energy efficiency of existing homes,  especially for the least well off.
-- **Deliver the policies set out in the [Housing White Paper](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/590464/Fixing_our_broken_housing_market_-_print_ready_version.pdf)**, including shaking up leasehold reform and continuing the Build to Rent scheme. Leasehold reform will give ‘transparency and fairness’ to leaseholders, but there’s no detail about what this will look like. The homes built under the Build to Rent scheme are purpose-built and will have three year tenancies as standard.
+- **Deliver the policies set out in the [Housing White Paper](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/590464/Fixing_our_broken_housing_market_-_print_ready_version.pdf)**, including shaking up leasehold reform and continuing the [Build to Rent](https://www.gov.uk/government/collections/build-to-rent-guidance-and-allocations) scheme. Leasehold reform will give ‘transparency and fairness’ to leaseholders, but there’s no detail about what this will look like. The homes built under the Build to Rent scheme are purpose-built and will have three year tenancies as standard.
 
 {% include image/right.html filename="laurenResized.jpg" alt="Image of laurenResized" %}
 
@@ -60,19 +60,18 @@ Labour’s pledges have the power to make a difference in helping first-time buy
 - **Three year tenancies for renters** to give greater long term security and limit rent hikes. 
 - **Rent to Own scheme introduced**, where rent payments will give tenants an increasing stake in the property, which becomes theirs after 30 years. 
 
+{% include image/right.html filename="SamSquare.jpg" alt="Image of SamSquare" %}
+_‘It seems like no matter how many houses we build, we’re still so short that even building 300,000 a year won’t make a difference. I don’t like the idea of discriminating against people because they’re not British, so giving British people first refusal on homes isn’t appealing to me. I feel like it’s only a big problem in London where prices are so high that no working British people can afford to buy anyway - the new developments are only in reach of wealthy, often foreign, investors.’_ Sam, 35, London
+
 Private renters and those saving for deposits might welcome the Lib Dem proposals. The Rent to Own idea could go down well, cutting out the need for deposits altogether as families pay rent in lieu of mortgage payments for the first 30 years. Those on the scheme would need to meet typical mortgage requirements, and The Telegraph reported how [the scheme could cut out the need for the ‘Bank of Mum and Dad’](http://www.telegraph.co.uk/news/2017/05/16/lib-dems-plan-rent-policy-get-young-people-property-ladder/).
 
-{% include image/right.html filename="SamSquare.jpg" alt="Image of SamSquare" %}
-_‘It seems like no matter how many houses we build, we’re still so short that even building 300,000 a year won’t make a difference. I don’t like the idea of discriminating against people because they’re not British, so giving British people first refusal on homes isn’t appealing to me. I feel like it’s only a big problem in London where prices are so high that no working British people can afford to buy anyway - the new developments are only in reach of wealthy, often foreign, investors.’_ Sam, 35, London 
-
-
-# How the other parties stack up
+# How do the other parties stack up?
 
 ### The SNP 
-have said they’ll invest over £3 billion over the next parliament to build at least 50,000 new affordable homes in Scotland, with 35,000 of these for social rent. They’ve also said they’ll continue to invest in the Help to Buy and Shared Equity schemes to help first-time buyers get on the housing ladder. 
+have said they’ll invest over £3 billion over the next parliament to build at least 50,000 new affordable homes in Scotland, with 35,000 of these for social rent. They’ve also said they’ll continue to invest in the Help to Buy and [Shared Equity](https://www.gov.uk/affordable-home-ownership-schemes/help-to-buy-equity-loan) schemes to help first-time buyers get on the housing ladder. 
 
 ### The Green Party 
-has pledged to abolish the bedroom tax, has committed to building 500,000 more social rented homes by 2020, and has said they will put empty homes to use. They’ll also introduce capped rent and longer tenancies for renters. 
+has pledged to abolish the bedroom tax, has committed to building 500,000 more social rented homes by 2020, and has said they'll put empty homes to use. They’ll also introduce capped rent and longer tenancies for renters. 
 
 ### UKIP
 has made a pledge to end Right to Buy for foreign nationals, alongside the introduction of leasehold reform to make it easier for leaseholders to extend their leases and challenge unreasonable service charges. They’ve also said they’ll protect the green belt, making it more appealing for developers to build on brownfield sites.  
@@ -81,11 +80,15 @@ has made a pledge to end Right to Buy for foreign nationals, alongside the intro
 # What’s missing from the manifestos?
 
 ## Affordable homes
-Although all parties have said they’ll build between 100,000 to 300,000 homes a year, Labour has guaranteed the 1 million homes they’ll build will be for ‘genuinely affordable rent or sale’. The Tories and Labour agree on what ‘affordable’ means - according to [The Guardian](https://www.theguardian.com/commentisfree/2017/may/22/social-housing-labour-tories-manifestos-homes), affordable in Labour’s terms means 80% of local market rent, whilst the Tories state affordable rent is 20% below the market rate.
+Although all parties have said they’ll build between 100,000 to 300,000 homes a year, Labour has guaranteed the 1 million homes they’ll build will be for ‘genuinely affordable rent or sale’. Fortunately, the Tories and Labour do agree on what ‘affordable’ means - [according to The Guardian](https://www.theguardian.com/commentisfree/2017/may/22/social-housing-labour-tories-manifestos-homes), this is 80% of local market rent.
 
 
 ## Mortgage protection
-Standard Variable Rates are higher mortgage rates that over 3 million people are paying, and they’re paying more than they need to. We know that many people find the initial experience of applying for a mortgage stressful and complicated so avoid having to go through it again. Many more don’t understand mortgage jargon and terminology and are unaware that they could be saving a fortune by switching, whilst others aren’t receiving enough support from brokers and lenders. This could have been another opportunity for a party to step up and address the challenge with suitable policies. Encouraging the mortgage industry to take notice of these issues could put hundreds of pounds back in people’s pockets every year.
+Over 3 million UK homeowners currently have a [Standard Variable Rate](https://trussle.com/blog/what-is-a-standard-variable-rate) mortgage, paying an average of £3,500 per year more than they'd be if they switched to a market leading rate.
+
+From our own research, we know that many people find the initial experience of applying for a mortgage stressful and complicated and avoid going through it again. Many more don’t understand mortgage jargon and terminology, or are unaware that they could be saving a fortune by switching. Others aren’t receiving enough support from their broker or lender.
+
+This could have been another opportunity for a party to step up and address the challenge with suitable policies. Encouraging the mortgage industry to take notice of these issues could put thousands of pounds back in people’s pockets every year.
 
 # Your questions answered
 
@@ -100,8 +103,3 @@ Both the Conservatives and Labour have said they’ll protect people who own lea
 
 ## I own my home but I’m concerned it won’t be left for my children. Is this likely to be the case?
 Under the Conservative plans for social care reform, anyone with assets worth more than £100,000 will have to pay for their own care, which for the first time includes care at home. However, if you’re over the threshold, there’s a £100,000 baseline beyond which your assets would be protected. May has stressed the policy is about creating ‘fairness across the generations’, which might ring true for some people - others less so. The Conservatives have announced there’ll be a cap on the amount to be paid, although there’s no details on numbers just yet.
-
-
-
-
-
