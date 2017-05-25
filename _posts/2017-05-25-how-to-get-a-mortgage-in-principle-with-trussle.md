@@ -3,16 +3,16 @@ published: false
 layout: post
 title: How To Get A Mortgage In Principle With Trussle
 excerpt: >-
-  In this story, we hear from John - a Construction Surveyor from
-  Leicestershire. John turned to Trussle when moving closer to town to secure a
-  mortgage for his new family home.  
-thumbnail_filename: TheSurveyorSquare.JPG
+  A Mortgage in Principle tells you roughly how much you'll be able to borrow
+  when looking to buy a home. Getting one with Trussle takes just five
+  minutes.   
+thumbnail_filename: HowToGetAMiPSquare.jpg
 author: Lydia Bower
 date: '2017-05-25 T00:00:00.000Z'
 ---
+![HowToGetAMiP]({{site.baseurl}}/images/post_images/HowToGetAMiP.jpg)
 
 Before you start looking for your dream home, it’s a good idea to get a Mortgage in Principle. A Mortgage in Principle tells you roughly how much you’ll be able to borrow, so you can start viewing and making offers on properties that are realistically within your budget. 
-
 
 ## What is a Mortgage in Principle?
 A Mortgage in Principle (sometimes called a Decision in Principle or Agreement in Principle) shows estate agents and sellers that you’re serious about buying a home. Having one ready-to-go before you make an offer casts you in a positive light - it shows that in principle, you’ve got the means to buy the property, so you’re less likely to hold up the process further down the line. Having a Mortgage in Principle essentially makes you a more attractive buyer. It’s quick and free to obtain, so it makes sense to get one.     
