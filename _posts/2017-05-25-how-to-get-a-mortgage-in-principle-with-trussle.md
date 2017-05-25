@@ -26,21 +26,20 @@ If you’re looking for a home, Trussle can provide you with a Mortgage in Princ
 
 ![mip.png]({{site.baseurl}}/images/post_images/mip.png)
 
-## How to apply for a Mortgage in Principle in 3 steps
+## How to apply for a Mortgage in Principle 
 
 **1. Answer a few simple questions**  
 It takes just five minutes to [get a Mortgage in Principle from Trussle](https://apply.trussle.com/affordability-calculator?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503 "Mortgage in Principle"). We’ll ask you a few questions to estimate how much you could borrow and afford to pay back to a lender, but we don’t need as much information as we would for a full mortgage application. 
 
-![IncomeProfile]({{site.baseurl}}/images/post_images/income_profile (3).gif)
+![IncomeProfile]({{site.baseurl}}/images/post_images/income_profile3.gif)
 
 **2. Receive your Mortgage in Principle**  
 We’ll calculate the amount you could afford to borrow and will email you your personalised Mortgage in Principle. You can also download and print it out.
 
-
 **3. Stay up to date from your Trussle Timeline**  
 Once you’ve got your Mortgage in Principle you’ll immediately gain access to your Trussle Timeline, which will keep you updated on where you are in the mortgage process. Once you’ve had an offer accepted you can return here to add the details of your new home so that we can get started finding the right mortgage for you.  
 
-![PropertyDetails]({{site.baseurl}}/images/post_images/AddPropertyDetails.png)
+![AddPropertyDetails]({{site.baseurl}}/images/post_images/WelcomeBackPage.png)
 
 ## Common questions
 
@@ -53,7 +52,7 @@ No. Applying for a Mortgage in Principle doesn’t tie you to any lender or any 
 ### Is my Mortgage in Principle a legal document?  
 No - a Mortgage in Principle doesn’t guarantee you’ll be able to borrow the amount stated. It’s an indication of how much you’re likely to be able to borrow, but the amount isn’t guaranteed until the lender has approved your application. The sum you’re able to borrow ultimately depends on the lender, who will have their own lending criteria, and who will perform a credit check before coming to a decision. Your Trussle adviser will help you make sense of this.   
 
-![CreditReport]({{site.baseurl}}/images/post_images/Screen Shot 2017-05-24 at 12.12.56.png)
+![CreditHistory]({{site.baseurl}}/images/post_images/MoreAboutCreditHistory.png)
 
 ## Does having a Mortgage in Principle mean I’m guaranteed to get a mortgage?  
 No, however it does give you a good idea of the amount you could be able to borrow. When you come to apply for a mortgage, we’ll ask for more details about your personal and financial situation, and lenders will run a credit check before accepting your application. These factors will determine whether your mortgage application is accepted.
@@ -68,15 +67,15 @@ You can make offers on homes, and once you’ve had an offer accepted, simply lo
 
 **Trussle Mortgage Adviser Deepak** thinks getting a Mortgage in Principle is the best way to show estate agents and sellers you’re serious about buying.
 
+{% include image/right.html filename="Deepak2.png" alt="Image of Deepak2" %}
+
 > ‘You wouldn’t go to buy a car without knowing what you could spend - it’s the same with property. A Mortgage in Principle gives you an indication of how much you could borrow, then once you have a budget, you can browse and starting refining your search. Estate agents won’t take you seriously without a Mortgage in Principle - to them, it shows that you can actually afford what you say you can, and any offers you make are backed up with proof. For first time buyers, it’s especially important. I’d go as far as to say that having a Mortgage in Principle is the number one thing first time buyers should have sorted when looking to buy. At Trussle, we can give you an indication of how much you can afford each month, too, so you’re fully prepared.’
 
-![Deepak]({{site.baseurl}}/image/post_images/Deepak (2).png)
 
 ### We’re here to help  
 It’s easy to get in touch with us if there’s anything you’re unsure about - simply drop us a message using the livechat box in the bottom right hand side of both your Trussle Timeline and this page. We’re most responsive during the day and you can expect an answer within minutes, but you can message us anytime - we’ll always get back to you within 24 hours. 
 
-![Livechat]({{site.baseurl}}/images/post_images/livechat%20(2).gif)![livechat (2).gif]({{site.baseurl}}/images/post_images/livechat (2).gif)
-
+![LiveChat]({{site.baseurl}}/images/post_images/livechat2.gif)
 
 ### Can I get a Mortgage in Principle now?  
 Absolutely. Get your [free online Mortgage in Principle](https://apply.trussle.com/affordability-calculator "Mortgage in Principle"), and it’ll be ready to print out in minutes.
