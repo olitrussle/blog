@@ -52,13 +52,13 @@ No. Applying for a Mortgage in Principle doesn’t tie you to any lender or any 
 ### Is my Mortgage in Principle a legal document?  
 No - a Mortgage in Principle doesn’t guarantee you’ll be able to borrow the amount stated. It’s an indication of how much you’re likely to be able to borrow, but the amount isn’t guaranteed until the lender has approved your application. The sum you’re able to borrow ultimately depends on the lender, who will have their own lending criteria, and who will perform a credit check before coming to a decision. Your Trussle adviser will help you make sense of this.   
 
-![CreditHistory]({{site.baseurl}}/images/post_images/MoreAboutCreditHistory.png)
-
 ## Does having a Mortgage in Principle mean I’m guaranteed to get a mortgage?  
 No, however it does give you a good idea of the amount you could be able to borrow. When you come to apply for a mortgage, we’ll ask for more details about your personal and financial situation, and lenders will run a credit check before accepting your application. These factors will determine whether your mortgage application is accepted.
 
 ## Do I need a credit report to get a Mortgage in Principle?  
 Not usually, unless you have a history of [bad credit](https://trussle.com/blog/getting-a-mortgage-with-bad-credit). We’ll let you know if we need to see your credit score once you’ve answered the questions. 
+
+![CreditHistory]({{site.baseurl}}/images/post_images/MoreAboutCreditHistory2.png)
 
 ## Your property search with a Mortgage in Principle
 
