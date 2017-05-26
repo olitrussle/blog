@@ -50,7 +50,7 @@ You’ll need to pay legal fees to the solicitor who is managing the property pu
 It’s a good idea to get a survey, which involves an inspection of the structure of the property and a report that should indicate any major problems with the building. The cost of a survey depends on the value of your property and the type of survey you choose, but they can cost anything between a few hundred pounds to over £1,000.  
 
 ## Tax
-You’ll also need to pay property tax called Stamp Duty Land Tax (SDLT) if you’re buying a property worth more than £125,000. SDLT is charged on a sliding scale according to the value of the property. Find out more on the [government’s website](https://www.gov.uk/stamp-duty-land-tax/residential-property-rates).
+You’ll also need to pay property tax called Stamp Duty Land Tax (SDLT) if you’re buying a property worth more than £125,000. SDLT is charged on a sliding scale according to the value of the property. Find out more on the [government website](https://www.gov.uk/stamp-duty-land-tax/residential-property-rates).
 
 ## What fees will I have to pay once the mortgage is in place? 
 Once your property purchase has completed, there are a few other mortgage fees that you might need to pay in certain circumstances. 
