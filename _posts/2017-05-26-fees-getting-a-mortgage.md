@@ -3,14 +3,16 @@ published: false
 layout: post
 title: What Fees Do I Need To Pay To Get A Mortgage?
 excerpt: >-
-  In this story, we hear from John - a Construction Surveyor from
-  Leicestershire. John turned to Trussle when moving closer to town to secure a
-  mortgage for his new family home.  
-thumbnail_filename: TheSurveyorSquare.JPG
+  When you're getting a mortgage, you'll have to pay some fees, although these
+  will vary depending on the lender and the mortgage deal. We've rounded up some
+  of the fees you’re likely to come across.  
+thumbnail_filename: FeesSquare.jpg
 author: Lydia Bower
 date: '2017-05-26 T00:00:00.000Z'
 ---
 _When you take out a mortgage, the fees you have to pay to your mortgage lender may include a booking fee, an arrangement fee and a property valuation fee. You might have to pay other fees once your mortgage is in place, including an early repayment charge if you repay before your initial deal is over._
+
+![Fees]({{site.baseurl}}/images/post_images/FeesArticle.jpg)
 
 ## What fees will I pay to take out a mortgage? 
 It’s important to take mortgage fees into account when you’re calculating the cost of buying a property. The fees you’ll have to pay and the amounts charged will vary depending on the lender and the mortgage deal, but these are some of the fees you’re likely to come across. 
