@@ -73,10 +73,9 @@ Even once your initial period is over, when you close your mortgage account beca
 ![Table]({{site.baseurl}}/images/post_images/table2.png)
 
 ## Using Trussle to find a mortgage 
-When you use Trussle to find a mortgage, we’ll look for a product based on your needs, and make a recommendation based on the overall cost during the initial term. We’ll take into account additional mortgage fees that can offset the savings of a lower interest rate, to make sure you’re getting the most suitable deal available. We’ll be clear about the fees you’ll need to pay your lender, and we won’t charge you a penny for using our services. 
+When you use Trussle to find a mortgage, we’ll look for a product based on your needs, and make a recommendation based on the overall cost during the initial term. We’ll take into account additional mortgage fees that can offset the savings of a lower interest rate, to make sure you’re getting the most suitable deal available. We’ll be clear about the fees you’ll need to pay your lender, and we won’t charge you a penny for using our services.  
 
-[Use Trussle to find a mortgage](https://trussle.com/).  
-
-
+**Looking for a hassle-free mortgage experience?**
+Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/).
 
 
