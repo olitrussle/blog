@@ -69,7 +69,7 @@ You can make offers on homes, and once you’ve had an offer accepted, simply lo
 
 {% include image/right.html filename="Deepak2.png" alt="Image of Deepak2" %}
 
-> ‘You wouldn’t go to buy a car without knowing what you could spend - it’s the same with property. A Mortgage in Principle gives you an indication of how much you could borrow, then once you have a budget, you can browse and starting refining your search. Estate agents won’t take you seriously without a Mortgage in Principle - to them, it shows that you can actually afford what you say you can, and any offers you make are backed up with proof. For first time buyers, it’s especially important. I’d go as far as to say that having a Mortgage in Principle is the number one thing first time buyers should have sorted when looking to buy. At Trussle, we can give you an indication of how much you can afford each month, too, so you’re fully prepared.’
+*‘You wouldn’t go to buy a car without knowing what you could spend - it’s the same with property. A Mortgage in Principle gives you an indication of how much you could borrow, then once you have a budget, you can browse and starting refining your search. Estate agents won’t take you seriously without a Mortgage in Principle - to them, it shows that you can actually afford what you say you can, and any offers you make are backed up with proof. For first time buyers, it’s especially important. I’d go as far as to say that having a Mortgage in Principle is the number one thing first time buyers should have sorted when looking to buy. At Trussle, we can give you an indication of how much you can afford each month, too, so you’re fully prepared.’*
 
 
 ### We’re here to help  
