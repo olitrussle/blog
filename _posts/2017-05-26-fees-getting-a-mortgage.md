@@ -14,11 +14,11 @@ _When you take out a mortgage, the fees you have to pay to your mortgage lender 
 
 ![Fees]({{site.baseurl}}/images/post_images/FeesArticle.jpg)
 
-[What fees will I pay to take out a mortgage?](#what-fees-will-i-pay-to-take-out-a-mortgage)
-[What other fees are involved in buying a home?](#what-other-fees-are-involved-in-buying-a-home)
-[What fees will I have to pay once the mortgage is in place?](#what-fees-will-i-have-to-pay-once-the-mortgage-is-in-place)
-[Summary of mortgage fees](#summary-of-mortgage-fees)
-[Using Trussle to find a mortgage](#using-trussle-to-find-a-mortgage)
+[What fees will I pay to take out a mortgage?](#what-fees-will-i-pay-to-take-out-a-mortgage)  
+[What other fees are involved in buying a home?](#what-other-fees-are-involved-in-buying-a-home)  
+[What fees will I have to pay once the mortgage is in place?](#what-fees-will-i-have-to-pay-once-the-mortgage-is-in-place)  
+[Summary of mortgage fees](#summary-of-mortgage-fees)  
+[Using Trussle to find a mortgage](#using-trussle-to-find-a-mortgage)  
 
 ## What fees will I pay to take out a mortgage? 
 It’s important to take mortgage fees into account when you’re calculating the cost of buying a property. The fees you’ll have to pay and the amounts charged will vary depending on the lender and the mortgage deal, but these are some of the fees you’re likely to come across. 
