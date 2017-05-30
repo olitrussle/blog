@@ -59,7 +59,7 @@ Another way of reducing the amount of interest you pay is to [remortgage](https:
 
 {% include image/right.html filename="2ron1.png" alt="Image of 2ron1" %}
 
-> When you’re thinking about the length of your mortgage term, it’s always important to make sure you can afford the monthly repayments, even if interest rates go up. A longer mortgage term could be worth considering despite the higher overall cost, especially if you’re unable to afford the repayments for a mortgage with a shorter term.
+* When you’re thinking about the length of your mortgage term, it’s always important to make sure you can afford the monthly repayments, even if interest rates go up. A longer mortgage term could be worth considering despite the higher overall cost, especially if you’re unable to afford the repayments for a mortgage with a shorter term. *
 
 As well as considering the monthly repayment amounts and the overall cost of your loan, you need to think about how old you’ll be at the end of the mortgage term. Most mortgage lenders set a maximum age, which is usually around 70 or 75. This means that the mortgage needs to be paid off by the time you reach this age. If you’re 40 years old now, you may only be able to take out a mortgage with a term of up to 30 years, for example.  
 
