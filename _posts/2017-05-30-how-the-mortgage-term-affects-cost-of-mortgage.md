@@ -40,9 +40,7 @@ Although a longer mortgage term means paying less each month, it also means payi
 
 In the example we’ve just used, a 25 year mortgage term could mean paying total interest of £73,918 (assuming your interest rate stayed the same), while a 35 year mortgage term could mean paying total interest of £107,800 over the lifetime of the loan. 
 
-However, if you have a mortgage that allows overpayments, you can reduce this total amount by making overpayments as and when you can afford to, which shortens the total length of the mortgage. 
-
-[Table showing monthly repayment amounts and total interest paid - [MSE calculator](http://www.moneysavingexpert.com/mortgages/mortgage-rate-calculator) used for calculations] :-
+However, if you have a mortgage that allows overpayments, you can reduce this total amount by making overpayments as and when you can afford to, which shortens the total length of the mortgage.
 
 
 **£175,000 mortgage, interest rate of 3%**
@@ -59,7 +57,7 @@ Another way of reducing the amount of interest you pay is to [remortgage](https:
 
 {% include image/right.html filename="2ron1.png" alt="Image of 2ron1" %}
 
-*‘When you’re thinking about the length of your mortgage term, it’s always important to make sure you can afford the monthly repayments, even if interest rates go up. A longer mortgage term could be worth considering despite the higher overall cost, especially if you’re unable to afford the repayments for a mortgage with a shorter term.‘*
+*‘When you’re thinking about the length of your mortgage term, it’s always important to make sure you can afford the monthly repayments, even if interest rates go up. A longer mortgage term could be worth considering despite the higher overall cost, especially if you’re unable to afford the repayments for a mortgage with a shorter term.’*
 
 As well as considering the monthly repayment amounts and the overall cost of your loan, you need to think about how old you’ll be at the end of the mortgage term. Most mortgage lenders set a maximum age, which is usually around 70 or 75. This means that the mortgage needs to be paid off by the time you reach this age. If you’re 40 years old now, you may only be able to take out a mortgage with a term of up to 30 years, for example.  
 
