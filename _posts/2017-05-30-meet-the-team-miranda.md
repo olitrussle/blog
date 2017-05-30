@@ -11,7 +11,7 @@ date: '2017-05-30 T00:00:00.000Z'
 ---
 ![Miranda]({{site.baseurl}}/images/post_images/Miranda.jpg)
 
-Fresh out of uni (and by fresh, we mean starting work a week after finishing!), Miranda joins Trussle as a member of our Customer Success team, working to give everyone who uses Trussle the best possible experience. Miranda might be the youngest person in the office, but she’s probably the most cultured - no one else in the office knows the London gallery scene as well as she does. 
+Fresh out of uni (and by fresh, we mean starting work a week after finishing!), Miranda joins Trussle as a member of our Customer Success team, working to give everyone who uses Trussle the best possible experience. Miranda might be the youngest person at Trussle, but she’s probably the most cultured - no one else in the office knows the London gallery scene as well as she does. 
 
 ## What were you doing before joining Trussle?
 I was working part-time at another tech company in customer success, and going to uni the rest of the time. I finished uni on a Friday and started here the next Monday, so it’s been a bit of a shock to the system, although in a good way… I’m just really tired!  
