@@ -11,6 +11,11 @@ date: '2017-05-30 T00:00:00.000Z'
 ---
 _In general, making your mortgage term longer means lowering your monthly repayments, as repayments are spread over a longer period. However, a longer mortgage term means you’ll take more time to pay off your loan, so you’ll pay more interest overall._
 
+[Mortgage terms](#mortgage-terms)  
+[How your mortgage term affects your repayments](#how-your-mortgage-term-affects-your-repayments)  
+[How your mortgage term affects the overall loan cost](#how-your-mortgage-term-affects-the-overall-loan-cost)  
+[Remortgaging to pay less interest](#remortgaging-to-pay-less-interest)  
+[Choosing your mortgage term](#choosing-your-mortgage-term)  
 
 ## Mortgage terms
 If you have a repayment mortgage, you pay off a portion of the debt as well as interest when you make repayments. The mortgage term is the amount of time you have to pay off your loan, so if you make all your repayments, you’ll fully own your home by the end of the mortgage term. 
@@ -18,7 +23,7 @@ If you have a repayment mortgage, you pay off a portion of the debt as well as i
 Traditionally, a standard mortgage term is 25 years. A mortgage term of 20 years or fewer is seen as a short-term mortgage and a mortgage term of 30 years or more is seen as a long-term mortgage. However, mortgages with longer terms are becoming more common. In 2015, [a quarter of first-time buyers took out mortgages with terms of 35 years](http://www.thisismoney.co.uk/money/mortgageshome/article-3397746/The-rise-35-year-mortgage.html "ThisIsMoney"), compared to 16% in 2007. 
 
 ## How your mortgage term affects your repayments
-Increasing the term of your mortgage can lower your monthly repayments. For example, if you were buying a £250,000 property with a £75,000 deposit and a £175,000 mortgage, a term of 25 years could mean monthly repayments of £830. If you borrowed the same amount with a mortgage term of 35 years, you could expect monthly repayments of around £673. *This means that lengthening your mortgage term can help you meet the lender’s affordability criteria. 
+Increasing the term of your mortgage can lower your monthly repayments. For example, if you were buying a £250,000 property with a £75,000 deposit and a £175,000 mortgage, a term of 25 years could mean monthly repayments of £830. If you borrowed the same amount with a mortgage term of 35 years, you could expect monthly repayments of around £673. _*This means that lengthening your mortgage term can help you meet the lender’s affordability criteria._ 
 
 ## How your mortgage term affects the overall loan cost
 Although a longer mortgage term means paying less each month, it also means paying more over the lifetime of the loan. This is because you’re paying interest over a longer period. 
