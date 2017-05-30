@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: How The Mortgage Term Affects The Cost Of Your Mortgage
 excerpt: >-
