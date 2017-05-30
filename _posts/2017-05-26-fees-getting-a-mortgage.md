@@ -34,7 +34,7 @@ Mortgage arrangement fees can be £2,000 or more, but the average is around £1,
 ### Mortgage account fee 
 Your lender may also charge a mortgage account fee, which is an administration fee for creating and managing your mortgage account. Paying a mortgage account fee usually means you won’t pay an exit fee when you close your mortgage account, although you’d probably still be liable to pay an early repayment charge if you left the deal early. 
 
-Mortgage valuation fee 
+### Mortgage valuation fee 
 Before approving your mortgage, the lender will want to check the value of your property to make sure it’s worth the amount you’re paying. They do this by getting a valuation survey, which you’ll usually have to pay for. The amount varies, but often valuation fees are in the region of £250 to £400, with higher fees often charged for more expensive properties. Sometimes the lender will offer a free valuation as part of the mortgage deal. 
 
 ### Transfer fee  
