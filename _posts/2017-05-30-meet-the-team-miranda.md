@@ -38,4 +38,6 @@ When I was at uni I did a lot of photography, and I love all things arty. Most o
 White cube gallery in Bermondsey. It’s very small but has some really cool exhibitions that change quite regularly, plus it’s on a really fun street with lots of restaurants and pubs.
 
 ## What was your dream job when you were little?
-I really wanted to be a pop star. Secretly I’d still love to have a one hit wonder - no one ever remembers or recognizes you but they know your song. Ideal!  
+I really wanted to be a pop star. Secretly I’d still love to have a one hit wonder - no one ever remembers or recognizes you but they know your song. Ideal!
+
+Inspired by Miranda’s story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle) - we’d love to hear from you.
