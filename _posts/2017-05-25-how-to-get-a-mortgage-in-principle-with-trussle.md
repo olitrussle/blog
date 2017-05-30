@@ -39,7 +39,7 @@ We’ll calculate the amount you could afford to borrow and will email you your 
 **3. Stay up to date from your Trussle Timeline**  
 Once you’ve got your Mortgage in Principle you’ll immediately gain access to your Trussle Timeline, which will keep you updated on where you are in the mortgage process. Once you’ve had an offer accepted you can return here to add the details of your new home so that we can get started finding the right mortgage for you.  
 
-![AddPropertyDetails]({{site.baseurl}}/images/post_images/WelcomeBackPage.png)
+![WelcomeBack]({{site.baseurl}}/images/post_images/welcome_back.png)
 
 ## Common questions
 
@@ -58,7 +58,7 @@ No, however it does give you a good idea of the amount you could be able to borr
 ## Do I need a credit report to get a Mortgage in Principle?  
 Not usually, unless you have a history of [bad credit](https://trussle.com/blog/getting-a-mortgage-with-bad-credit). We’ll let you know if we need to see your credit score once you’ve answered the questions. 
 
-![CreditHistory]({{site.baseurl}}/images/post_images/MoreAboutCreditHistory2.png)
+![AdverseCredit]({{site.baseurl}}/images/post_images/doc_upload.png)
 
 ## Your property search with a Mortgage in Principle
 
