@@ -48,6 +48,8 @@ However, if you have a mortgage that allows overpayments, you can reduce this to
 
 ![Table]({{site.baseurl}}/images/post_images/table1.png)
 
+<br />
+
 ## Remortgaging to pay less interest
 
 Another way of reducing the amount of interest you pay is to [remortgage](https://trussle.com/blog/the-straightforward-guide-to-remortgaging "remortgage") each time your initial mortgage deal ends. Most lenders offer an initial discounted interest rate, but will switch you onto their more expensive Standard Variable Rate (SVR) when the initial period has finished. If you remortgage at this point, you can benefit from another initial deal, which can keep your interest rate relatively low. 
