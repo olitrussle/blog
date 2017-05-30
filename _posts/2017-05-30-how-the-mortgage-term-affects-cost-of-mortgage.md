@@ -43,7 +43,7 @@ In the example we’ve just used, a 25 year mortgage term could mean paying tota
 However, if you have a mortgage that allows overpayments, you can reduce this total amount by making overpayments as and when you can afford to, which shortens the total length of the mortgage.
 
 
-<h1 style="text-align: center;">£175,000 mortgage, interest rate of 3% </h1>
+<h2 style="text-align: center;">£175,000 mortgage, interest rate of 3% </h2>
 
 ![Table]({{site.baseurl}}/images/post_images/table1.png)
 
