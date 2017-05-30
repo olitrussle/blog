@@ -15,6 +15,11 @@ _In general, making your mortgage term longer means lowering your monthly repaym
 
 ![MortgageTerm]({{site.baseurl}}/images/post_images/MortgageTerm.jpg)
 
+**In brief...**
+- With a longer term mortgage, your repayments are spread over a longer term. This means a lower cost per month but a higher cost overall. 
+- With a shorter term mortgage, you’ll pay your mortgage off more quickly. This means a higher cost per month but a lower cost overall. 
+- If your mortgage allows it, you can shorten your mortgage term (and reduce the total amount of interest you pay) by making overpayments. Be aware - some mortgage deals charge you for making overpayments. 
+
 [Mortgage terms](#mortgage-terms)  
 [How your mortgage term affects your repayments](#how-your-mortgage-term-affects-your-repayments)  
 [How your mortgage term affects the overall loan cost](#how-your-mortgage-term-affects-the-overall-loan-cost)  
@@ -43,13 +48,6 @@ However, if you have a mortgage that allows overpayments, you can reduce this to
 **£175,000 mortgage, interest rate of 3%**
 
 ![Table]({{site.baseurl}}/images/post_images/table1.png)
-
-
-To summarise: 
-
-- With a longer term mortgage, your repayments are spread over a longer term. This means a lower cost per month but a higher cost overall. 
-- With a shorter term mortgage, you’ll pay your mortgage off more quickly. This means a higher cost per month but a lower cost overall. 
-- If your mortgage allows it, you can shorten your mortgage term (and reduce the total amount of interest you pay) by making overpayments. Be aware - some mortgage deals charge you for making overpayments. 
 
 ## Remortgaging to pay less interest
 
