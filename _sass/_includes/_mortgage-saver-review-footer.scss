@@ -1,0 +1,19 @@
+
+.msr-signature {
+  margin-bottom: $tsl-space-large;
+}
+
+.msr-download {
+  margin-bottom: 80px;
+
+  .download-details {
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 10px;
+
+    p {
+      color: $tsl-mid-grey;
+      margin: 0;
+    }
+  }
+}
