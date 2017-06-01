@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: How Does My Salary Affect My Mortgage Amount?
 excerpt: >-
@@ -25,7 +25,7 @@ Multiplying your salary may still be used to calculate a maximum mortgage amount
 
 If you’re applying for a mortgage based on two people’s salaries, the calculation may be based on a lower multiple. You may find you’re offered a maximum of three times your joint income, for example. So while one person earning £50,000 a year may be able to borrow a maximum of £200,000, a couple earning £30,000 and £20,000 may be able to borrow a maximum of £150,000. However, this is a very rough guide - each lender has different criteria and makes different calculations.  
 
-Bear in mind that your lender will ask for proof of your salary, so you’ll need to provide [payslips and other documents](https://trussle.com/blog/what-documents-do-you-need-for-a-mortgage). If you’re s[elf-employed](https://trussle.com/blog/getting-a-mortgage-self-employed), you’ll usually need to show your company accounts or tax returns. 
+Bear in mind that your lender will ask for proof of your salary, so you’ll need to provide [payslips and other documents](https://trussle.com/blog/what-documents-do-you-need-for-a-mortgage). If you’re [self-employed](https://trussle.com/blog/getting-a-mortgage-self-employed "getting a mortgage if self-employed"), you’ll usually need to show your company accounts or tax returns. 
 
 ### Affordability calculations
 When you’re applying for a mortgage, the lender will need to understand your income and outgoings. They’ll want to know whether your salary is consistent, and whether you have any additional income (from bonuses or overtime, for example). 
