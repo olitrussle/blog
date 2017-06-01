@@ -45,7 +45,7 @@ To quickly get an idea of what you could afford to borrow based on your deposit 
 
 For a more accurate figure, fill in a few details about your income and outgoings. We’ll crunch the numbers and can provide you with a downloadable Mortgage in Principle in just five minutes. 
 
-**Looking for a hassle-free mortgage experience?**
+**Looking for a hassle-free mortgage experience?**  
 Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170601).
 
 
