@@ -3,8 +3,9 @@ published: false
 layout: post
 title: How Does My Salary Affect My Mortgage Amount?
 excerpt: >-
-  Fresh out of uni (and by fresh, we mean starting work a week after
-  finishing!), Miranda joins Trussle as a member of our Customer Success team.  
+  Mortgage lenders will look at your salary when they’re deciding how much
+  they’re willing to lend you. However, they’ll also make affordability checks,
+  taking into account your spending patterns as well as your income.  
 thumbnail_filename: HowSalaryAffectsMortgageSquare.jpg
 author: Lydia Bower
 date: '2017-06-01 T00:00:00.000Z'
