@@ -16,7 +16,7 @@ _There are a number of different types of mortgage to suit the many types of pro
 
 When you’re looking for a mortgage, you’ll see there’s options available to suit your circumstances - whether you’re self-employed or buying an investment property, for example. It’s a good idea to know how each type of mortgage works and which might be best for you before going ahead.
 
-While you’ll want to [compare rates](https://trussle.com/blog/how-to-compare-remortgage-deals), there are other factors to take into account, such as what you’ll be using the property for, how much you have saved towards a deposit, and the amount you can afford to pay back each month. 
+Whilst you’ll want to [compare rates](https://trussle.com/blog/how-to-compare-remortgage-deals), there are other factors to take into account, such as what you’ll be using the property for, how much you have saved towards a deposit, and the amount you can afford to pay back each month. 
 
 Before you get started, we’ve outlined below what the different mortgage types are, along with whether or not you can find them through Trussle. 
 
