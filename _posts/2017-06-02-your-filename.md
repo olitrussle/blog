@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: What Are The Different Types Of Mortgages?
 excerpt: >-
@@ -34,7 +34,7 @@ If, by the end of the mortgage term, you can’t pay back the loan amount, you m
 ## Rate types
 
 ### Fixed, tracker and variable rate mortgages
-Repayment mortgages are either [fixed, tracker, or variable rate mortgages](https://trussle.com/blog/fixed-tracker-and-variable-rates-explained). When you’re deciding which is right for you, the decision comes down to whether you want the stability of knowing how much you’ll be repaying each month, or whether you want the flexibility and can afford to take the risk (and a potentially lower rate) with a tracker mortgage. Two million homeowners in the UK are on their lender’s [Standard Variable Rate (SVR)](https://trussle.com/blog/what-is-a-standard-variable-rate) and are paying an average of £4,900 more a year than necessary. 
+Repayment mortgages are either [fixed, tracker, or variable rate mortgages](https://trussle.com/blog/fixed-tracker-and-variable-rates-explained). When you’re deciding which is right for you, the decision comes down to whether you want the stability of knowing how much you’ll be repaying each month, or whether you want the flexibility and can afford to take the risk (and a potentially lower rate) with a tracker mortgage. Two million homeowners in the UK are on their lender’s [Standard Variable Rate (SVR)](https://trussle.com/blog/what-is-a-standard-variable-rate) and paying more than necessary. 
 
 #### Capped rate mortgages
 
@@ -72,7 +72,7 @@ If you’ve had bad credit in the past, there’s a good chance you’ll still b
 
 
 ## Remortgaging
-There’s no such thing as a ‘remortgage mortgage’ - instead, remortgaging is the process of switching your mortgage to take advantage of a more competitive rate, especially if you’re paying your lender’s [Standard Variable Rate (SVR)](https://trussle.com/blog/what-is-a-standard-variable-rate). Over 3 million UK homeowners currently have a SVR mortgage, paying an average of £4,900 per year more than they’d be if they switched to a market leading rate.
+There’s no such thing as a ‘remortgage mortgage’ - instead, remortgaging is the process of switching your mortgage to take advantage of a more competitive rate, especially if you’re paying your lender’s [Standard Variable Rate (SVR)](https://trussle.com/blog/what-is-a-standard-variable-rate). Over 3 million UK homeowners currently have a SVR mortgage, paying more per year than they’d be if they switched to a market leading rate.
 
 
 ## What kinds of mortgage can I get through Trussle?
