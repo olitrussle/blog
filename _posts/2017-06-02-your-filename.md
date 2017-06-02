@@ -76,19 +76,15 @@ There’s no such thing as a ‘remortgage mortgage’ - instead, remortgaging i
 
 
 ## What kinds of mortgage can I get through Trussle?
-**Payment types**  
-Repayment
-Interest-only
-
-**Mortgage rates**  
-Fixed, tracker and variable rates
-Capped rate mortgages
-Flexible mortgages
-
-**Mortgages for different circumstances**  
-First-time buyer mortgages
-Buy-to-let mortgages
-Mortgages if you have bad credit
+  
+- Repayment
+- Interest-only 
+- Fixed, tracker and variable rates
+- Capped rate mortgages
+- Flexible mortgages 
+- First-time buyer mortgages
+- Buy-to-let mortgages
+- Mortgages if you have bad credit
 
 **Commercial mortgages**  
 We don’t help with commercial mortgages directly, but you can still apply for one through us. Our partner will then manage your application.
@@ -98,12 +94,4 @@ We can tell you if you’re eligible to switch to a more suitable deal, and if y
 
 
 **Looking for a hassle-free mortgage experience?**  
-Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503). 
-
-
-
-
-
-
-
-
+Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
