@@ -6,13 +6,14 @@ excerpt: >-
   When you’re looking for a mortgage, you’ll see there’s options available to
   suit your circumstances. It’s a good idea to know how each type of mortgage
   works and which might be best for you before going ahead.  
-thumbnail_filename: MirandaSquare.jpg
+thumbnail_filename: TypesOfMortgageSquare.jpg
 author: Lydia Bower
 date: '2017-06-02 T00:00:00.000Z'
 ---
 _There are a number of different types of mortgage to suit the many types of property. Mortgages fall into three categories: repayment, interest only, or a mix of the two, but these categories can be broken down into more types of mortgage._
 
 ![TypesOfMortgage]({{site.baseurl}}/images/post_images/TypesOfMortgage.jpg)
+![TypesOfMortgage]({{site.baseurl}}/images/post_images/TypesOfMortgageSquare.jpg)
 
 When you’re looking for a mortgage, you’ll see there’s options available to suit your circumstances - whether you’re self-employed or buying an investment property, for example. It’s a good idea to know how each type of mortgage works and which might be best for you before going ahead.
 
