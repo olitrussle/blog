@@ -72,7 +72,7 @@ If you’ve had bad credit in the past, there’s a good chance you’ll still b
 
 
 ## Remortgaging
-There’s no such thing as a ‘remortgage mortgage’ - instead, remortgaging is the process of switching your mortgage to take advantage of a more competitive rate, especially if you’re paying your lender’s [Standard Variable Rate (SVR)](https://trussle.com/blog/what-is-a-standard-variable-rate). Over 3 million UK homeowners currently have a SVR mortgage, paying an average of £3,500 per year more than they’d be if they switched to a market leading rate.
+There’s no such thing as a ‘remortgage mortgage’ - instead, remortgaging is the process of switching your mortgage to take advantage of a more competitive rate, especially if you’re paying your lender’s [Standard Variable Rate (SVR)](https://trussle.com/blog/what-is-a-standard-variable-rate). Over 3 million UK homeowners currently have a SVR mortgage, paying an average of £4,900 per year more than they’d be if they switched to a market leading rate.
 
 
 ## What kinds of mortgage can I get through Trussle?
