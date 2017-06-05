@@ -5,10 +5,12 @@ title: 'Meet The Team: Nursel'
 excerpt: >-
   We recently welcomed Nursel to the team as our Digital Acquisition Manager,
   and we're delighted to have her on board.  
-thumbnail_filename: HowSalaryAffectsMortgageSquare.jpg
+thumbnail_filename: MeetTheTeamNurselSquare.jpg
 author: Lydia Bower
 date: '2017-06-05 T00:00:00.000Z'
 ---
+![MeetTheTeamNursel]({{site.baseurl}}/images/post_images/MeetTheTeamNursel.jpg)
+
 ### Job title: Senior Digital Acquisition Manager
 
 Nursel joins Trussle after working in a number of startups over the past few years. Born in Turkey and growing up in Germany, Nursel speaks the most languages out of anyone in the office. 
