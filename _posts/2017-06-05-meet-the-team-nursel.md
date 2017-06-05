@@ -42,6 +42,7 @@ I like the product, which I know is boring to say but it’s important and I can
 ### Favourite TV show?
 I’m really looking forward to Game of Thrones starting again. 
 
+Inspired by Nursel's story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle vacancies") - we’d love to hear from you.
 
 
 
