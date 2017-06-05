@@ -20,6 +20,12 @@ Whilst you’ll want to [compare rates](https://trussle.com/blog/how-to-compare-
 
 Before you get started, we’ve outlined below what the different mortgage types are, along with whether or not you can find them through Trussle. 
 
+[Payment types](#payment-types)  
+[Rate types](#rate-types)  
+[Buyer position](#buyer-position)  
+[Remortgaging](#remortgaging)  
+[What kinds of mortgage can I get through Trussle?](#what-kinds-of-mortgage-can-i-get-through-trussle)
+
 ## Payment types
 ### Repayment mortgages
 The majority of mortgages in the UK are repayment mortgages. With a repayment mortgage, you’ll pay back a portion of the money you borrowed to buy the property, plus interest. You’ll have paid back the entire amount borrowed and you’ll own your home outright by the end of your mortgage term. There are lots of types of repayment mortgages - [fixed, tracker, variable, and discounted variable](https://trussle.com/blog/fixed-tracker-and-variable-rates-explained) all come under the repayment mortgage umbrella. 
