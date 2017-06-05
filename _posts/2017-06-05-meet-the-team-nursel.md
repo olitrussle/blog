@@ -19,7 +19,7 @@ Nursel joins Trussle after working in a number of startups over the past few yea
 My job is centered around driving paid traffic to our website. The ultimate aim is to find people who are looking to buy a home or save money on their mortgage and convince them to use our service.  
 
 ### Talk us through a day in the life of your job?
-Generally, I’ll check the performance of our paid acquisition channels - this includes Google, Bing and Facebook. Then I’ll analyse data, make improvements, and optimise based on the findings. I’ll also write ad copy and test the ad copy for all channels to improve performance. The aim is always to get the lowest CPA (cost per acquisition) for each channel. It’s also important to be on top of the latest tools and features for paid acquisition channels. 
+Generally, I’ll check the performance of our paid acquisition channels - this includes Google, Bing and Facebook. Then I’ll analyse data, make improvements, and optimise based on the findings. Writing ad copy and testing the ad copy for all channels to improve performance is another part of my day. The aim is always to get the lowest CPA (cost per acquisition) for each channel. It’s also important to be on top of the latest tools and features for paid acquisition channels. 
 
 ### What were you doing before joining Trussle?
 I’ve been working in digital for over ten years in permanent and contracting roles including different startups. 
