@@ -32,7 +32,7 @@ Weekends are usually centered around our daughter (she’s nearly five) and acti
 It’s surprising that two well-off countries could be so different, especially because we’re technically similar in a lot of ways. When I moved to the UK I wasn’t expecting to see much difference in people compared to Germany, but it wasn’t the case at all. The pace of life here is much faster (at least in London anyway), and I don’t think Germans and Brits share the same sense of humour!
 
 ### How would you describe Germans?
-They’re very direct! You rarely come across a reserved German. They really like to talk about things - even things that we’d find uncomfortable here. Germans also like to speak on the phone and don’t seem to understand that sometimes a message will do, especially when we’re all busy! But their attitude has it’s benefits - they like to talk and sort out issues face to face, and I think they’re more open than we are. 
+They’re very direct! You rarely come across a reserved German. They really like to talk about things - even things that we’d find uncomfortable here. Everyone learns English at school and they love to practice it when they come across an English native speaker. Since I moved away from Germany I've felt a bit disconnected with their humour - I'm definitely more British in that sense!
 
 ### What do you like about Trussle?
 I like the product, which I know is boring to say but it’s important and I can relate to it. The fact the company is still at an early stage means I can have a lot of impact, which is exciting. It also means that I can learn a lot about the business, and make the most of the opportunities that come with it. 
