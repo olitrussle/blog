@@ -47,7 +47,7 @@ You own the property and the land for the length of the lease when you own your 
  
 While you own the property for the length of the lease, the communal areas and the ground it stands on are owned by the freeholder. You’re liable to pay ground rent and a service charge to the freeholder for the maintenance and upkeep of the communal areas of the building. 
  
-Ownership transfers back to the freeholder once the lease comes to an end. In reality, it rarely gets to this point, as there’s a number of things leaseholders can do to avoid this happening. 
+Ownership transfers back to the freeholder once the lease comes to an end. In reality, it rarely gets to this point, as there’s a number of things leaseholders can do to avoid this happening, such as buying the freehold or extending the lease.  
  
 Once your lease dips below the 80 year mark it can be harder to sell because the buyer will need to take into account the cost of extending the lease (which can get expensive with legal fees, not to mention the cost of the lease itself). A shorter lease can also limit the number of lenders who are willing to offer a mortgage on the property, so it’s important to think about extending your lease or buying the freehold before your lease reaches this point.
 
