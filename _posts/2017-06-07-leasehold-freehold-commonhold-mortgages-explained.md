@@ -14,6 +14,12 @@ _Looking at whether a property is freehold, leasehold, or commonhold is importan
 
 ![FreeholdLeaseholdMortgages]({{site.baseurl}}/images/post_images/FreeholdLeaseholdMortgages.jpg)
 
+[Where do freeholds and leaseholds come from?](#where-do-freeholds-and-leaseholds-come-from)  
+[What is a freehold?](#what-is-a-freehold)  
+[What is a leasehold?](#what-is-a-leasehold)  
+[What is a commonhold?](#what-is-a-commonhold)
+
+
 ## Where do freeholds and leaseholds come from?
 Historically, freeholds and leaseholds date back to the 11th century, when wealthy landowners wanted to keep hold of their power whilst maximising their earnings. Leaseholds meant tenants could work the land to earn money but the freeholder (the landlord) still owned the land (the freehold), taking rent as payment. 
  
