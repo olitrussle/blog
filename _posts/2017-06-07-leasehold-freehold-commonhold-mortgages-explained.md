@@ -3,8 +3,9 @@ published: false
 layout: post
 title: 'Leasehold, Freehold, And Commonhold Mortgages Explained'
 excerpt: >-
-  We recently welcomed Nursel to the team as our Digital Acquisition Manager,
-  and we're delighted to have her on board.  
+  Looking at whether a property is freehold, leasehold, or commonhold is
+  important before you decide to buy, as each type of ownership has an impact on
+  the type of mortgage you’ll be eligible for.  
 thumbnail_filename: FreeholdLeaseholdMortgagesSquare.jpg
 author: Lydia Bower
 date: '2017-06-07 T00:00:00.000Z'
