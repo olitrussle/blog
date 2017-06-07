@@ -53,9 +53,11 @@ Once your lease dips below the 80 year mark it can be harder to sell because the
 
  
 ### Can I get a mortgage on a leasehold flat?
-Getting a mortgage on a leasehold flat is entirely dependent on how long the lease is. With a lease of more than 70 years at the time of application you’re likely to be able to get a mortgage. If you let the lease drop much less than this, lenders will be wary that the value of the property falls significantly upon reaching this point. 
+Getting a mortgage on a leasehold flat is entirely dependent on how long the lease is. With a lease of more than 70 years at the time of application you’re likely to be able to get a mortgage. 
+
+If you let the lease drop much less than this, lenders will be wary that the value of the property falls significantly upon reaching this point. 
  
-However, fewer lenders will be willing to lend to you with less than 70 years left on the lease, but there are still options available. Halifax are happy with 70 years left at the time of application, while Santander and Nationwide accept 55 years left at the time of application.
+Fewer lenders will be willing to lend to you with less than 70 years left on the lease, but there are still options available. Halifax are happy with 70 years left at the time of application, while Santander and Nationwide accept 55 years left at the time of application.
  
 Often lenders will have a lower loan to value (LTV) ratio for leasehold flats, meaning lenders aren’t willing to lend you as much. If you’re buying a freehold house, you might be able to get a LTV of 90%, or sometimes even 95%, meaning you could have a deposit of 10% or 5%. With a leasehold flat, you’re more likely to be able to get around 85% LTV, so a deposit of 15%, although 90% LTV is still very attainable. Halifax, Nationwide, and Natwest all accept 90% LTV on second home leaseholds, but a higher deposit is required for new builds. 
  
