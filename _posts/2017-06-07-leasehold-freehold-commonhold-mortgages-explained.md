@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Leasehold, Freehold, And Commonhold Mortgages Explained'
 excerpt: >-
