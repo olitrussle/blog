@@ -5,16 +5,18 @@ title: 'Leasehold, Freehold, And Commonhold Mortgages Explained'
 excerpt: >-
   We recently welcomed Nursel to the team as our Digital Acquisition Manager,
   and we're delighted to have her on board.  
-thumbnail_filename: MeetTheTeamNurselSquare.jpg
+thumbnail_filename: FreeholdLeaseholdMortgagesSquare.jpg
 author: Lydia Bower
 date: '2017-06-07 T00:00:00.000Z'
 ---
 _Looking at whether a property is freehold, leasehold, or commonhold is important before you decide to buy. Each type of ownership has an impact on the type of mortgage you’ll be eligible for. If you’re a leaseholder, the length of the lease could have a big effect on whether or not you’ll be able to get a mortgage, especially as the lease nears expiry. Getting a mortgage on a freehold house is very common, but getting a mortgage on a freehold flat is more difficult._
 
+![FreeholdLeaseholdMortgages]({{site.baseurl}}/images/post_images/FreeholdLeaseholdMortgages.jpg)
+
 ## Where do freeholds and leaseholds come from?
 Historically, freeholds and leaseholds date back to the 11th century, when wealthy landowners wanted to keep hold of their power whilst maximising their earnings. Leaseholds meant tenants could work the land to earn money but the freeholder (the landlord) still owned the land (the freehold), and took rent as payment. 
  
-Fast forward a few hundred years and rather than farming the land, leaseholders own property on the land belonging to the freeholder. Legislation has given leaseholders more rights, such as protection against eviction and the power for a group of leaseholders to club together and buy the freehold through a process known as collective enfranchisement. However, once a lease has expired, ownership transfers back to the freeholder. 
+Fast forward a few hundred years and rather than farming the land, leaseholders own property on the land belonging to the freeholder. Legislation has given leaseholders more rights, such as protection against eviction and the power for a group of leaseholders to club together and buy the freehold through a process known as [collective enfranchisement](http://www.lease-advice.org/advice-guide/collective-enfranchisement-getting-started/). However, once a lease has expired, ownership transfers back to the freeholder. 
  
 ## What is a freehold?
 Owning the freehold means owning the property outright, as well as the land it stands on. Most houses are freehold but some flats can be freehold too, although this is less common. 
