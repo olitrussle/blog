@@ -6,12 +6,14 @@ excerpt: >-
   Legally, you’re under no obligation to use the mortgage broker your estate
   agent recommends when buying a property, even if they try to pressure you into
   it.   
-thumbnail_filename: FreeholdLeaseholdMortgagesSquare.jpg
+thumbnail_filename: EstateAgentInhouseBrokerSquare.jpg
 author: Lydia Bower
 date: '2017-06-08 T00:00:00.000Z'
 ---
 _Legally you’re under no obligation to use the mortgage broker your estate agent recommends when buying a property. They might try to pressure you into using their in-house broker, but you’re always free to do your own research and use an independent broker you trust to find you the right deal._
- 
+
+![UsingInHouseBroker]({{site.baseurl}}/images/post_image/EstateAgentInhouseBroker.jpg)
+
 [Why do estate agents recommend using their in-house mortgage broker?](#why-do-estate-agents-say-you-need-to-use-their-in-house-mortgage-broker)  
 [Should I use my estate agent’s mortgage broker?](#should-i-use-my-estate-agent’s-broker)  
 [Other ways to get a mortgage](#other-ways-to-get-a-mortgage)
