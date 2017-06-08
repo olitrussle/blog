@@ -3,9 +3,9 @@ published: false
 layout: post
 title: Do I Need To Use My Estate Agent's In-House Mortgage Broker?
 excerpt: >-
-  Looking at whether a property is freehold, leasehold, or commonhold is
-  important before you decide to buy, as each type of ownership has an impact on
-  the type of mortgage you’ll be eligible for.  
+  Legally, you’re under no obligation to use the mortgage broker your estate
+  agent recommends when buying a property, even if they try to pressure you into
+  it.   
 thumbnail_filename: FreeholdLeaseholdMortgagesSquare.jpg
 author: Lydia Bower
 date: '2017-06-08 T00:00:00.000Z'
@@ -16,7 +16,9 @@ _Legally you’re under no obligation to use the mortgage broker your estate age
 [Should I use my estate agent’s mortgage broker?](#should-i-use-my-estate-agent’s-broker)  
 [Other ways to get a mortgage](#other-ways-to-get-a-mortgage)
  
-If you’re buying a home, you might find the estate agent you’re dealing with stating you have to use their in-house mortgage broker to find your mortgage. They may even threaten that you’ll miss out on the property unless you use their broker of choice. However, this isn’t true.
+If you’re buying a home, you might find the estate agent you’re dealing with stating you have to use their in-house mortgage broker to find your mortgage. They may even threaten that you’ll miss out on the property unless you use their broker of choice. 
+
+However, this isn’t true.
  
 Estate agents have no control over which mortgage broker you use, but they may attempt to pressure you into using their in-house broker because it could be beneficial for them.
  
