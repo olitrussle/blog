@@ -47,7 +47,7 @@ Lenders can still charge missed payment fees even if you’ve overpaid in the pa
 ### Check your overpayments are reducing your mortgage, not just your interest
 Overpaying just the interest on your mortgage won’t reduce the mortgage term. To reduce the term, you have to overpay the mortgage amount.
  
-If you’re on an interest-only mortgage, overpaying will only affect the interest, so you’ll need to talk to your lender about how to make it worthwhile.
+If you’re on an interest-only mortgage, you’ll need to talk to your lender about how to make overpaying worthwhile.
  
 ### Check the interest on your savings
 If you meet all the above criteria, don’t forget to check the interest on your savings before overpaying. If the interest on your savings (after tax) is higher than the interest on your mortgage rate, you’ll save more money by keeping the extra in savings. 
