@@ -11,8 +11,12 @@ date: '2017-06-09 T00:00:00.000Z'
 ---
 _Overpaying your mortgage can reduce the total amount you pay for your home and help you become mortgage-free faster. However, not all mortgages allow overpayments. Before you overpay, it’s important to check whether your lender allows overpayments, as charges for doing so can be expensive. It’s also important to work out whether your mortgage rate is higher than your savings rate. Overpaying only makes financial sense if this is the case._
 
+![OverpayMortgage.jpg]({{site.baseurl}}/images/post_images/OverpayMortgage.jpg)
+
 [What are the benefits of overpaying my mortgage? ](#what-are-the-benefits-of-overpaying-my-mortgage-)  
 [In what circumstances should I overpay? ](#in-what-circumstances-should-i-overpay-)  
+[Overpaying to get a better remortgage deal](#overpaying-to-get-a-better-remortgage-deal)  
+[Which kind of mortgage is best if I want to overpay?](#which-kind-of-mortgage-is-best-if-i-want-to-overpay)
 
 
 ## What are the benefits of overpaying my mortgage? 
