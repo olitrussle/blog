@@ -6,11 +6,13 @@ excerpt: >-
   Overpaying your mortgage can reduce the total amount you pay for your home and
   help you become mortgage-free faster. However, overpaying only makes financial
   sense if your mortgage rate is higher than your savings rate. 
-thumbnail_filename: OverpayMortgageSquare.jpg
+thumbnail_filename: ShouldIOverpayMyMortgageSquare.jpg
 author: Lydia Bower
 date: '2017-06-12 T00:00:00.000Z'
 ---
 _Overpaying your mortgage can reduce the total amount you pay for your home and help you become mortgage-free faster. However, not all mortgages allow overpayments. Before you overpay, it’s important to check whether your lender allows overpayments, as charges for doing so can be expensive. It’s also important to work out whether your mortgage rate is higher than your savings rate. Overpaying only makes financial sense if this is the case._
+
+![ShouldIOverpayMyMortgage]({{site.baseurl}}/images/post_images/ShouldIOverpayMyMortgage.jpg)
 
 [What are the benefits of overpaying my mortgage? ](#what-are-the-benefits-of-overpaying-my-mortgage-)  
 [In what circumstances should I overpay? ](#in-what-circumstances-should-i-overpay-)  
