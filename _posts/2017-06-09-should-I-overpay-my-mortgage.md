@@ -5,9 +5,9 @@ title: Should I Overpay My Mortgage?
 excerpt: >-
   We recently welcomed Nursel to the team as our Digital Acquisition Manager,
   and we're delighted to have her on board.  
-thumbnail_filename: MeetTheTeamNurselSquare.jpg
+thumbnail_filename: OverpayMortgageSquare.jpg
 author: Lydia Bower
-date: '2017-06-09 T00:00:00.000Z'
+date: '2017-06-12 T00:00:00.000Z'
 ---
 _Overpaying your mortgage can reduce the total amount you pay for your home and help you become mortgage-free faster. However, not all mortgages allow overpayments. Before you overpay, it’s important to check whether your lender allows overpayments, as charges for doing so can be expensive. It’s also important to work out whether your mortgage rate is higher than your savings rate. Overpaying only makes financial sense if this is the case._
 
