@@ -34,31 +34,27 @@ You might start to feel the pressure more if the property they’re selling is i
  
 However, none of these reasons mean you’re obliged to use their in-house broker. 
 
-## Do you like them?
+### Do you like them?
 You’re likely to be in contact with your mortgage adviser a fair amount. It’s therefore important you trust them to find you the right deal, and if you like and trust the adviser recommended by the estate agent, it could be a good option.
  
-## Have you looked around at mortgage deals?
+### Have you looked around at mortgage deals?
 Before you commit to using your estate agent’s in-house mortgage broker, it’s a good idea to have a look around to familiarise yourself with the deals available.
  
 It’s also important to consider that some brokers are tied to a few lenders, which means they can’t search the whole market. A broker who looks at the whole market is likely to find you the most suitable deal. 
  
-## Do they charge a fee?
+### Do they charge a fee?
 If the in-house broker charges a fee, look elsewhere. Many mortgage brokers are fee-free, and instead receive a small percentage of the mortgage amount from the lender rather than charging the customer.  
  
-## Is their service good?
+### Is their service good?
 Sometimes you could find that an independent broker gives you a better service than the broker your estate agent recommends. This isn’t true in all cases, but as independent brokers rely on word of mouth for recommendations, it’s in their interests to deliver on service. If the in-house broker is getting constant business from an estate agent regardless of your recommendation, you might be viewed more as a means to an end. 
  
 Reading online reviews will give you an unbiased indication of the type of service you can expect - [Trustpilot](https://uk.trustpilot.com/) is a good place to start.   
  
-## Are they looking after your best interests?
+### Are they looking after your best interests?
 Remember that as the estate agent is working in the interests of the seller, there could be a conflict of interest. A mortgage broker should have your best interests at heart, so if you feel like you’re being pressured into a deal to move things forward quickly and keep the seller happy, look elsewhere. 
  
 The most important things to consider when choosing your mortgage broker are their fees, whether they search the whole of the market to find you the most suitable deal, and your personal preferences. You’ll be in regular contact with your adviser, so it’s worth choosing someone you get on with.  
  
-### Are they looking after your best interests?
-Remember that as the estate agent is working in the interests of the seller, there could be a conflict of interest. A mortgage broker should have your best interests at heart, so if you feel like you’re being pressured into a deal to move things forward quickly and keep the seller happy, look elsewhere. 
- 
-The most important things to consider when choosing your mortgage broker are their fees, whether they search the whole of the market to find you the best deal, and your personal preferences. You’ll be in regular contact with your adviser, so it’s worth choosing someone you get on with. 
  
 ## Other ways to get a mortgage
 
