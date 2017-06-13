@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: What Are The Different Types Of Mortgages?
+title: What Are The Different Types Of Mortgage?
 excerpt: >-
   When you’re looking for a mortgage, you’ll see there’s options available to
   suit your circumstances. It’s a good idea to know how each type of mortgage
