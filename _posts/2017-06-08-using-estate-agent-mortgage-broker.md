@@ -15,7 +15,7 @@ _Legally you’re under no obligation to use the mortgage broker your estate age
 ![UsingInHouseBroker]({{site.baseurl}}/images/post_image/EstateAgentInhouseBroker.jpg)
 
 [Why do estate agents recommend using their in-house mortgage broker?](#why-do-estate-agents-say-you-need-to-use-their-in-house-mortgage-broker)  
-[Should I use my estate agent’s mortgage broker?](#should-i-use-my-estate-agents-broker)  
+[Should I use my estate agent’s broker?](#should-i-use-my-estate-agent’s-broker)  
 [Other ways to get a mortgage](#other-ways-to-get-a-mortgage)
  
 If you’re buying a home, you might find the estate agent you’re dealing with stating you have to use their in-house mortgage broker to find your mortgage. They may even threaten that you’ll miss out on the property unless you use their broker of choice. However, this isn’t true.
@@ -33,6 +33,9 @@ Generally, it’s because they have a commercial deal whereby they’re paid a f
 You might start to feel the pressure more if the property they’re selling is in demand, as a pool of buyers to choose from means they’ll pick whoever’s going to make them money.
  
 However, none of these reasons mean you’re obliged to use their in-house broker. 
+
+## Should I use my estate agent’s broker?
+There’s no right or wrong answer, but it’s important to remember that it’s completely up to you which broker you use. 
 
 ### Do you like them?
 You’re likely to be in contact with your mortgage adviser a fair amount. It’s therefore important you trust them to find you the right deal, and if you like and trust the adviser recommended by the estate agent, it could be a good option.
