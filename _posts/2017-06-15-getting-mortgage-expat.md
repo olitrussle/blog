@@ -14,7 +14,6 @@ _Getting a mortgage if you’re an expat is possible, but like getting a mortgag
 ![GettingMortgageExpat]({{site.baseurl}}/images/post_images/GettingMortgageExpat.jpg)
 
 [Why buy in the UK?](#why-buy-in-the-uk)
-
 [Type of mortgage](#type-of-mortgage)  
 [Before you apply for a mortgage](#before-you-apply-for-a-mortgage)  
 [Getting a mortgage as an expat](#getting-a-mortgage-as-an-expat)  
