@@ -48,7 +48,7 @@ Offshore mortgages are suitable for expats unable to get a mortgage onshore, and
  
 ## Before you apply for a mortgage
 ### Check your credit score
-Before you apply for a mortgage, it’s a good idea to check your credit score and send it to your mortgage broker. They’ll be able to flag any issues and advise you of the most suitable deals for your circumstances. You can check your score online at [Experia](http://www.experian.co.uk/)n, [Equifax](https://www.equifax.co.uk/), or [Callcredit](http://www.callcredit.co.uk/). 
+Before you apply for a mortgage, it’s a good idea to check your credit score and send it to your mortgage broker. They’ll be able to flag any issues and advise you of the most suitable deals for your circumstances. You can check your score online at [Experian](http://www.experian.co.uk/), [Equifax](https://www.equifax.co.uk/), or [Callcredit](http://www.callcredit.co.uk/). 
  
 If you don’t have a UK credit history, you can still run an Experian or Equifax report as it’s likely you’ll still have details from the past, although this depends on how long you’ve been away. 
  
