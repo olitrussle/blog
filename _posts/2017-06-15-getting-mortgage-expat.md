@@ -69,4 +69,4 @@ Paying your mortgage in the currency you’re paid in helps protect you from sud
 ## Where can I get an expat mortgage?
 Many UK based lenders don’t offer mortgages for non-UK residents, and those that do each offer a range of different deals. A mortgage broker will compare the market and help you find a suitable lender and the most suitable deal. 
  
-Looking for a hassle-free mortgage experience? Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
+**Looking for a hassle-free mortgage experience?** Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
