@@ -14,8 +14,8 @@ _Overpaying your mortgage can reduce the total amount you pay for your home and 
 
 ![ShouldIOverpayMyMortgage]({{site.baseurl}}/images/post_images/ShouldIOverpayMyMortgage.jpg)
 
-[What are the benefits of overpaying my mortgage? ](#what-are-the-benefits-of-overpaying-my-mortgage-)  
-[In what circumstances should I overpay? ](#in-what-circumstances-should-i-overpay-)  
+[What are the benefits of overpaying my mortgage? ](#what-are-the-benefits-of-overpaying-my-mortgage)  
+[In what circumstances should I overpay? ](#in-what-circumstances-should-i-overpay)  
 [Overpaying to get a better remortgage deal](#overpaying-to-get-a-better-remortgage-deal)  
 [Which kind of mortgage is best if I want to overpay?](#which-kind-of-mortgage-is-best-if-i-want-to-overpay)
 
@@ -81,6 +81,3 @@ If you’re on your lender’s [SVR](https://trussle.com/blog/what-is-a-standard
  
 **Looking for a hassle-free mortgage experience?**  
 Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
- 
- 
- 
