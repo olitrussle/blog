@@ -12,7 +12,8 @@ date: '2017-06-15 T00:00:00.000Z'
 ---
 _Getting a mortgage if you’re an expat is possible, but like getting a mortgage in the UK, there are a few conditions you need to meet. Having a UK credit history is helpful, but it’s not compulsory. Whatever your position, using a mortgage broker is a good idea as some situations can be tricky and it’s important to make sure you’re paying what you should be._ 
  
-
+![GettingMortgageExpat]({{site.baseurl}}/images/post_images/GettingMortgageExpat.jpg)
+![ExpatGettingMortgage]({{site.baseurl}}/images/post_images/GettingMortgageExpatSquare.jpg)
 
 Some lenders have mortgages available for those who have either never lived in the UK, or haven’t lived there for a number of years, so getting a mortgage if you’re an expat is a possibility. Often, these lenders aren’t based in the UK, but some UK banks offer mortgages for expats too. 
  
