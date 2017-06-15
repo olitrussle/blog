@@ -7,7 +7,7 @@ excerpt: >-
 author: Lydia Bower
 thumbnail_filename: paintbox.png
 file_location: 'https://trus.sl/MSR-May17'
-file_size: 2.5
+file_size: 3.1
 date: '2017-05-31 T00:00:00.000Z'
 ---
 
