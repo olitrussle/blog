@@ -8,7 +8,7 @@ excerpt: >-
   themes, the names of their departments have varied a lot!
 thumbnail_filename: The-Trussle-Customer-Success-Team-Square.jpg
 author: Oli West
-date: '2017-06-15 T00:00:00.000Z'
+date: '2017-06-16 T00:00:00.000Z'
 ---
 ![The Trussle Customer Success Team]({{site.baseurl}}/images/posts_images/The-Trussle-Customer-Success-Team.jpg)
 
