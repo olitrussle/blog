@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Team Talk: Naming Our Customer Success Team'
 excerpt: >-
