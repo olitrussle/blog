@@ -6,11 +6,11 @@ excerpt: >-
   I’ve had the privilege of working with many different customer teams in a
   variety of industries throughout my career. While they've shared some common
   themes, the names of their departments have varied a lot!
-thumbnail_filename: GettingMortgageExpatSquare.jpg
+thumbnail_filename: The-Trussle-Customer-Success-Team.jpg
 author: Oli West
 date: '2017-06-15 T00:00:00.000Z'
 ---
-![GettingMortgageExpat]({{site.baseurl}}/images/post_images/GettingMortgageExpat.jpg)
+![The Trussle Customer Success Team]({{site.baseurl}}/_posts/The-Trussle-Customer-Success-Team.jpg)
 
 I’ve had the privilege of working with many different customer teams in a variety of industries throughout my career. While they've shared some common themes, the names of their departments have varied a lot!
  
