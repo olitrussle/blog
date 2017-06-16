@@ -12,6 +12,8 @@ date: '2017-06-16 T00:00:00.000Z'
 ---
 ![The Trussle Customer Success Team]({{site.baseurl}}/images/posts_images/The-Trussle-Customer-Success-Team.jpg)
 
+_In this first edition of Team Talk we hear from Teri, Trussle's Head of Customer Success, about the subtle but crucial differences between Customer Support/Service and Customer Success/Experience._
+
 I’ve had the privilege of working with many different customer teams in a variety of industries throughout my career. While they've shared some common themes, the names of their departments have varied a lot!
  
 [When I joined Trussle back in April](https://trussle.com/blog/meet-the-team-teri), I became part of the then-named Case Management team. Our team’s responsible for the wellbeing of our customers, as well as assisting our Adviser team in liaising with lenders and solicitors.
