@@ -45,7 +45,7 @@ We wanted to move away from the Case Management name at Trussle because we found
  
 While we track several metrics at a high level, Net Promoter Score and [TrustPilot reviews](https://trus.sl/ourclientfeedback) remain our primary focus and we love hearing our customers speak of their experiences, especially when we deliver above and beyond their expectations:
  
-> We’d previously spoken to a standard mortgage broker and a bank. It was very tedious, but with Trussle you feel as if you matter as a customer.
+> "We’d previously spoken to a standard mortgage broker and a bank. It was very tedious, but with Trussle you feel as if you matter as a customer." - Tom, a Trussle customer
  
 On any given day, Trussle’s Customer Success team is available on a variety of contact channels for both quick enquiries and longer-term guidance throughout the mortgage application process.
  
