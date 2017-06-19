@@ -37,4 +37,4 @@ No! I always liked computers, especially building them, so when I was about 19 I
 ## Best way to spend a sunny day?
 Sitting in the park reading a book. At uni in Brighton I used to go to the beach and read or revise quite a bit. The park’s the next best place. 
 
-_Inspired by Dilpreet’s story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle) - we’d love to hear from you._
+_Inspired by Dan’s story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle) - we’d love to hear from you._
