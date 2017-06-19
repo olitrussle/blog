@@ -4,7 +4,7 @@ layout: post
 title: 'Meet The Team: Dan'
 excerpt: >-
   Dan joins Trussle as our first QA (Quality Assurance) Engineer, making sure
-  everything we release is perfect. 
+  everything we produce - in terms of our website and our product - is perfect. 
 thumbnail_filename: DanMeetTheTeamSquare.jpg
 author: Lydia Bower
 date: '2017-06-19 T00:00:00.000Z'
