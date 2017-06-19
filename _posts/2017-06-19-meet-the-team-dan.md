@@ -9,15 +9,15 @@ thumbnail_filename: DanMeetTheTeamSquare.jpg
 author: Lydia Bower
 date: '2017-06-19 T00:00:00.000Z'
 ---
-Dan joins Trussle as our first QA (Quality Assurance) Engineer, making sure everything we release is perfect. Dan worked in fintech before joining Trussle, but was so interested in our proposition he knew he had to get on board. We don’t blame him....
+Dan joins Trussle as our first QA (Quality Assurance) Engineer, making sure everything we produce in terms of our website and our product is perfect. Dan worked in FinTech before joining Trussle, but was so interested in our proposition he knew he had to get onboard. We don’t blame him....
 
 ![DanMeetTheTeam]({{site.baseurl}}/images/post_images/DanMeetTheTeam.jpg)
 
 ## What made you want to join Trussle?
-It’s a slightly roundabout story. I was working at a fintech startup and thinking about my next move, I thought I wanted to do something different, working somewhere that wasn’t a startup and wasn’t in fintech. Then I came across Trussle, and scrapped all that. [Jonny](https://trussle.com/blog/meet-the-team-jonny-a) got in touch with me asking if I wanted to come and lead QA at Trussle, and I thought it was a great opportunity.  I was drawn to both the role itself and the company - Trussle is doing something that’s helping people, and I wanted to be involved.
+It’s a slightly roundabout story. I was working at a fintech startup and thinking about my next move, I thought I wanted to do something different, working somewhere that wasn’t a startup and wasn’t in fintech. Then I came across Trussle, and decided against doing that. [Jonny](https://trussle.com/blog/meet-the-team-jonny-a) got in touch with me asking if I wanted to come and lead QA at Trussle, and I thought it was a great opportunity.  I was drawn to both the role itself and the company - Trussle is doing something that’s helping people, and I wanted to be involved.
  
 ## For the non-techies amongst us, what do you do as a QA Engineer?
-In traditional QA, the developers would make a feature and the QA engineer would test it. Any bugs found would then go back to the developer, and so on and so on if bugs were found the next time around. In an agile environment this is counter productive - it doesn’t make sense to have something going backwards and forwards. A modern QA role puts much more responsibility on the developers for testing, and is about making sure devs find testing as easy and interesting as a feature development. I think in the future you’ll see less people with a QS job title - we’ll all be more generalist, with more developers being adept at QA themselves.   
+In traditional QA, the developers would make a feature and the QA engineer would test it. Any bugs found would then go back to the developer, and so on and so on if bugs were found the next time around. In an [agile environment](https://en.wikipedia.org/wiki/Agile_software_development) this is counter productive - it doesn’t make sense to have something going backwards and forwards. A modern QA role puts much more responsibility on the developers for testing, and is about making sure devs find testing as easy and interesting as a feature development. I think in the future you’ll see less people with a QA job title - we’ll all be more generalist, with more developers being adept at QA themselves.   
  
 ## What do you like most about working at Trussle?
 A lot of developers aren’t QA focused so I was a bit wary joining Trussle as the first member of the QA team. I shouldn’t have worried - it’s refreshing to come into a company where people are open to different opinions and different ways of working, and understand the importance of QA.
