@@ -48,7 +48,7 @@ Some variable rate mortgages, most commonly the [SVR](https://trussle.com/blog/w
 
 ### Flexible mortgages
 
-Flexible mortgages are often recommended when it’s likely you’ll be able to overpay some months, but not others. Instead of having a higher fixed rate that at time could be too high for your budget, flexible mortgages give you the option of overpaying when you have more to spend, and less when you don’t. 
+Flexible mortgages are often recommended when it’s likely you’ll be able to overpay some months, but not others. Instead of having a higher fixed rate that at times could be too high for your budget, flexible mortgages give you the option of overpaying when you have more to spend, and paying less when you don’t. 
 
 Often fixed and tracker rate mortgages will charge you if you want to make overpayments, but flexible mortgages make this a fee-free option. Flexible mortgages are suited to people with a salary likely to increase at times over the year - if you receive regular bonuses, for example. 
 
