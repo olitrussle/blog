@@ -63,6 +63,7 @@ When you’re buying a property, it’s important to get a homebuyer survey so t
  
 There are several different types of survey available, and the one that’s most suitable will depend on the property you’re buying and how thoroughly you want everything checked. 
  
-**Looking for a hassle-free mortgage experience?** Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
+## Looking for a hassle-free mortgage experience? 
+Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503).
  
  
