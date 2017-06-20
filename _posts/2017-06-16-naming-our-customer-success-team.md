@@ -50,3 +50,5 @@ While we track several metrics at a high level, Net Promoter Score and [TrustPil
 On any given day, Trussle’s Customer Success team is available on a variety of contact channels for both quick enquiries and longer-term guidance throughout the mortgage application process.
  
 Whether you’re a prospective customer or a customer-for-life, looking for a mortgage or just looking for an answer, we hope we help you find your success. And while a customer team by any other name may do the same, we’re happy to now have a title that so closely reflects our passion.
+
+_Psst, we’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle) - we’d love to hear from you._
