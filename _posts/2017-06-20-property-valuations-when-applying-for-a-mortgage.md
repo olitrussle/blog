@@ -3,15 +3,17 @@ published: false
 layout: post
 title: Property Valuations When You're Applying For A Mortgage
 excerpt: >-
-  I’ve had the privilege of working with many different customer teams in a
-  variety of industries throughout my career. While they've shared some common
-  themes, the names of their departments have varied a lot!
-thumbnail_filename: The-Trussle-Customer-Success-Team-Square.jpg
+  When you apply for a mortgage, the lender seeks an independent opinion on how
+  much the property is worth. This helps the lender decide whether they want to
+  go ahead with the mortgage. 
+thumbnail_filename: PropertyMortgageValuationSquare.jpg
 author: Oli West
 date: '2017-06-20 T00:00:00.000Z'
 ---
 _When you apply for a mortgage, the lender seeks an independent opinion on how much the property is worth. The property valuation generally involves a review of market values and a quick check of the property. This helps the lender decide whether they’re willing to go ahead with the mortgage._ 
- 
+
+![PropertyValuationsMortgage]({{site.baseurl}}/images/post_images/PropertyMortgageValuation.jpg)
+
 **Key points to remember:**  
 - When you’re applying for a mortgage, the lender will get a valuation to check the value of the property. 
 - You’ll generally need to pay for the valuation, so factor this in when you’re calculating costs. 
