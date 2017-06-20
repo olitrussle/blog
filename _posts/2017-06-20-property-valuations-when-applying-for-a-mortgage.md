@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Property Valuations When You're Applying For A Mortgage
 excerpt: >-
