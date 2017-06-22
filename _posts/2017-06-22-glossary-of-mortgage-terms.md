@@ -10,7 +10,7 @@ thumbnail_filename: MortgageGlossarySquare.jpg
 author: Lydia Bower
 date: '2017-06-22 T00:00:00.000Z'
 ---
-_With the seemingly endless list of mortgage jargon, it can seem like there’s a lot to take in! If you’re getting your first mortgage, or if it’s been a while since you last applied for a mortgage, the numerous terms can be confusing. We’ve written a complete list of all the mortgage jargon and what it means, so that you can apply for a mortgage with confidence._ 
+_With the seemingly endless list of mortgage jargon, it can appear like there’s a lot to take in! If you’re getting your first mortgage, or if it’s been a while since you last applied for a mortgage, the numerous terms can be confusing. We’ve written a complete list of all the mortgage jargon and what it means, so that you can apply for a mortgage with confidence._ 
 
 ![MortgageGlossary]({{site.baseurl}}/images/post_images/MortgageGlossary.jpg)
  
