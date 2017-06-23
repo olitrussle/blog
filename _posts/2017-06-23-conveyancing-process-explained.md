@@ -6,11 +6,13 @@ excerpt: >-
   Conveyancing is simply the legalities involved with buying or remortgaging
   your home, and refers to the legal transfer of ownership titles from one party
   to another.  
-thumbnail_filename: PropertyMortgageValuationSquare.jpg
+thumbnail_filename: ConveyancingSquare.jpg
 author: Lydia Bower
 date: '2017-06-23 T00:00:00.000Z'
 ---
 Conveyancing is simply the legalities involved with [buying](https://apply.trussle.com/affordability-calculator-offer-accepted) or [remortgaging](https://apply.trussle.com/remortgage-quick-check) your home, and refers to the legal transfer of ownership titles from one party to another. You can’t buy a home (or remortgage) without going through the legal process, so it’s important to understand what conveyancing involves and how to go about it. 
+
+![ConveyancingExplained]({{site.baseurl}}/images/post_images/Conveyancing.jpg)
 
 [Who carries out conveyancing and does it matter who I use?](#who-carries-out-conveyancing-and-does-it-matter-who-i-use)  
 [What happens once I’ve found a conveyancer?](#what-happens-once-ive-found-a-conveyancer)  
