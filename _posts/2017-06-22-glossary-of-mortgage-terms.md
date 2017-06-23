@@ -14,7 +14,7 @@ _With the seemingly endless list of mortgage jargon, it can appear like there’
 
 ![MortgageGlossary]({{site.baseurl}}/images/post_images/MortgageGlossary.jpg)
  
-[A-C](#annual-percentage-rate-apr)  
+[A-C](#agreement-in-principle)  
 [D-K](#deposit)   
 [L-O](#leasehold)  
 [P-Z](#standard-variable-rate-svr)
@@ -142,4 +142,4 @@ The majority of mortgages in the UK are [repayment mortgages](https://trussle.co
 When you apply for a mortgage, the lender seeks an independent opinion on how much the property is worth. The property valuation generally involves a review of market values and a quick check of the property. This helps the lender decide whether they’re willing to go ahead with the mortgage. 
  
 ### Variable rate mortgage
-A mortgage rate that changes depending on another rate, usually the Bank of England’s base rate. Tracker mortgages and the SVR are both types of [variable rate mortgage](https://trussle.com/blog/fixed-tracker-and-variable-rates-explained#variable-rate-mortgage). 
+A mortgage rate that changes depending on another rate, usually the Bank of England’s base rate. Tracker mortgages and the SVR are both types of [variable rate mortgage](https://trussle.com/blog/fixed-tracker-and-variable-rates-explained#variable-rate-mortgage).
