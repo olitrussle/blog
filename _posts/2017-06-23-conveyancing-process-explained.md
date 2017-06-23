@@ -11,6 +11,12 @@ author: Lydia Bower
 date: '2017-06-23 T00:00:00.000Z'
 ---
 Conveyancing is simply the legalities involved with [buying](https://apply.trussle.com/affordability-calculator-offer-accepted) or [remortgaging](https://apply.trussle.com/remortgage-quick-check) your home, and refers to the legal transfer of ownership titles from one party to another. You can’t buy a home (or remortgage) without going through the legal process, so it’s important to understand what conveyancing involves and how to go about it. 
+
+[Who carries out conveyancing and does it matter who I use?](#who-carries-out-conveyancing-and-does-it-matter-who-i-use)  
+[What happens once I’ve found a conveyancer?](#what-happens-once-ive-found-a-conveyancer)  
+[The conveyancing process: step by step](#the-conveyancing-process-step-by-step)  
+[How much does conveyancing cost?](#how-much-does-conveyancing-cost)  
+[Can I do the conveyancing myself?](#can-i-do-the-conveyancing-myself)  
  
 ## Who carries out conveyancing and does it matter who I use?
 Conveyancing is carried out by a solicitor, conveyancer, or property lawyer. However, even though all solicitors are qualified in property law, not all have experience in this area. Make sure you get the best service and expertise by choosing a solicitor who specialises in residential property. 
