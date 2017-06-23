@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Conveyancing Process Explained: What It Is And How To Go About It'
 excerpt: >-
