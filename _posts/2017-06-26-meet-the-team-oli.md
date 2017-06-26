@@ -47,4 +47,4 @@ I joined Ministry of Sound fresh from university. I started out as an intern, wo
 ## Favourite book?
 [Brave New World](http://www.goodreads.com/book/show/5129.Brave_New_World) by Aldous Huxley. 
 
-_Inspired by Dan’s story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle) - we’d love to hear from you._
+_Inspired by Oli’s story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle) - we’d love to hear from you._
