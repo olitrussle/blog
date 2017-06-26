@@ -6,7 +6,7 @@ excerpt: >-
   Oli joined Trussle in the early days, and has played a key role in
   transitioning Trussle’s public image from exciting startup to credible
   industry player. 
-thumbnail_filename: Oli-Brand-Content-Trussle-Square.jpg
+thumbnail_filename: Oli-Brand-Content-Trussle-Square.JPG
 author: Oli West
 date: '2017-06-26 T00:00:00.000Z'
 ---
