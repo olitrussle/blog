@@ -5,7 +5,9 @@ title: Advantages Of Using An Online Mortgage Broker To Get A Mortgage
 excerpt: >-
   The advantages include 24/7 availability, access to a qualified adviser, and a
   fast system that can scan thousands of mortgage products in minutes.  
-thumbnail_filename: 'Advantages Of Using An Online Mortgage Adviser To Get A Mortgage With Trussle Square.jpg'
+thumbnail_filename: >-
+  'Advantages Of Using An Online Mortgage Adviser To Get A Mortgage With Trussle
+  Square.jpg'
 author: Oli West
 date: '2017-06-27 T00:00:00.000Z'
 ---
@@ -25,7 +27,7 @@ When looking for a mortgage, you might decide to use an online comparison site, 
 An online mortgage broker compares products from many different lenders to find a mortgage that fits your personal circumstances and financial situation. Although the service  sounds similar to that offered by a traditional mortgage broker, online mortgage brokers use clever technology to make the whole process a lot quicker and more convenient.
 
 ## Benefits of using an online mortgage broker
-![Advantages Of Using An Online Mortgage Broker To Get A Mortgage]({{site.baseurl}}/images/post_images/Table01.png)
+![Advantages Of Using An Online Mortgage Broker To Get A Mortgage With Trussle Table]({{site.baseurl}}/posts/post_images/Advantages-Of-Using-An-Online-Mortgage-Broker-To-Get-A-Mortgage-Trussle-Table.png)
 
 ### Manage your mortgage online
 As you’d expect, using an online mortgage broker to get a mortgage means you can do everything online, from making your initial mortgage application to checking how your mortgage is progressing. The whole thing is convenient and hassle-free, and spares you meetings and phone calls with mortgage advisers.
