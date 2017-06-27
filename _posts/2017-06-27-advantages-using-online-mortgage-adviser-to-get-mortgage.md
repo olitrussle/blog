@@ -5,7 +5,9 @@ title: Advantages Of Using An Online Mortgage Broker To Get A Mortgage
 excerpt: >-
   The advantages include 24/7 availability, access to a qualified adviser, and a
   fast system that can scan thousands of mortgage products in minutes.  
-thumbnail_filename: ConveyancingSquare.jpg
+thumbnail_filename: >-
+  Advantages Of Using An Online Mortgage Adviser To Get A Mortgage With Trussle
+  Square.jpg
 author: Oli West
 date: '2017-06-27 T00:00:00.000Z'
 ---
