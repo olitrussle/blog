@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Top Reasons Your Mortgage Might Be Declined (And What To Do About It)
 excerpt: >-
