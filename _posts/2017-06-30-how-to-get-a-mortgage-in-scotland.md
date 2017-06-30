@@ -14,12 +14,12 @@ _Getting a mortgage in Scotland involves identifying your budget, finding a suit
 
 ![How To Get A Mortgage In Scotlans]({{site.baseurl}}/images/post_images/How-To-Get-A-Mortgage-In-Scotland.jpg)
  
-[How much can you afford to borrow?](#how-much-can-you-afford-to-borrow)
-[Getting a Mortgage in Principle](#getting-a-mortgage-in-principle)
-[Finding a property](#finding-a-property)
-[Making an offer](#making-an-offer)
-[The mortgage valuation](#the-mortgage-valuation)
-[Formal mortgage offer](#formal-mortgage-offer)
+[How much can you afford to borrow?](#how-much-can-you-afford-to-borrow)  
+[Getting a Mortgage in Principle](#getting-a-mortgage-in-principle)  
+[Finding a property](#finding-a-property)  
+[Making an offer](#making-an-offer)  
+[The mortgage valuation](#the-mortgage-valuation)  
+[Formal mortgage offer](#formal-mortgage-offer)  
 [Settlement](#settlement)  
 [Using Trussle to get a mortgage in Scotland](#using-trussle-to-get-a-mortgage-in-scotland)  
  
