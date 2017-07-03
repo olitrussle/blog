@@ -10,13 +10,12 @@ thumbnail_filename: HoonSquare.jpg
 author: Lydia Bower
 date: '2017-07-03 T00:00:00.000Z'
 ---
-
-![HoonHeadOfDesign]({{site.baseurl}}/images/post_images/Hoon.jpg)
-
 ## Job title: Head of Design
 
 Hoon joins Trussle after spending five years running his own startup, leaving behind the world of fashion for the arguably just as glamourous world of mortgages. He’s got a bold vision for design at Trussle - watch this space!
- 
+
+![HoonHeadOfDesign]({{site.baseurl}}/images/post_images/Hoon.jpg)
+
 ## What were you doing before you joined Trussle?
 I founded a company called Shopcade, a mobile fashion technology company. It shows users designers’ latest collections, but gives them the option to purchase directly from the app. After building and running it for five years in London, Shopcade was recently acquired by a French media company. It was my first startup and the journey was crazy, but the outcome was great. I was keen to move into Fintech and enjoy the learning curve, so I’m excited to get started on my next project at Trussle.
  
