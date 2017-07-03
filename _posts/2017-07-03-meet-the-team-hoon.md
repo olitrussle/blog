@@ -10,8 +10,10 @@ thumbnail_filename: HoonSquare.jpg
 author: Lydia Bower
 date: '2017-07-03 T00:00:00.000Z'
 ---
-### Job title: Head of Design
+
 ![HoonHeadOfDesign]({{site.baseurl}}/images/post_images/Hoon.jpg)
+
+## Job title: Head of Design
 
 Hoon joins Trussle after spending five years running his own startup, leaving behind the world of fashion for the arguably just as glamourous world of mortgages. He’s got a bold vision for design at Trussle - watch this space!
  
