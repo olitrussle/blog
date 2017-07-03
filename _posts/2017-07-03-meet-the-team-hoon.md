@@ -45,4 +45,5 @@ My favourite old artist is Prince, then my two favourite new artists are Rejjie 
 ## Anything we’d be surprised to know about you?
 I once slept through an earthquake in Japan. All my friends felt it but I woke up in the morning having not felt a thing. I’m such a deep sleeper!
 
+_Inspired by Hoon’s story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle "TrussleVacancies") - we’d love to hear from you.
 
