@@ -47,5 +47,5 @@ My favourite artist is Prince, along with my friends Rejjie Snow and Millic.
 I once slept through an earthquake in Japan. All my friends felt it, but I woke up in the morning having not felt a thing. I’m such a deep sleeper!
 
 
-_Inspired by Hoon’s story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle "TrussleVacancies") - we’d love to hear from you.
+_Inspired by Hoon’s story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle "TrussleVacancies") - we’d love to hear from you._
 
