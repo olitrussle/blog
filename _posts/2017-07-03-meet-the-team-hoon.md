@@ -37,7 +37,7 @@ I never thought of being a designer when I was younger. Instead, I wanted to be 
 ## Where’s the best place you’ve lived?
 I grew up in Seoul and so I speak Korean, but then I moved to California before settling in London nine years ago. I lived in Malibu for a while and loved the outdoor lifestyle, but even without access to that in London it’s still my favourite place to be. I feel constantly challenged by the forward-thinking youth of the city.
  
-## What brought you to London?
+## What brought you to London?  
 I came here to work for a digital agency working for a variety of clients, and it was the combination of the job I wanted to do and the place I wanted to be in. London’s home to me now after living in California for 17 years and Hong Kong for two years. Both were great places to be - but all the music, fashion, and film I was interested in at the time was coming from London so I felt I should be here. I’m pretty self-motivated so I decided to move and go with it. 
  
 ## Favourite music?
@@ -48,4 +48,3 @@ I once slept through an earthquake in Japan. All my friends felt it, but I woke 
 
 
 _Inspired by Hoon’s story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle "TrussleVacancies") - we’d love to hear from you._
-
