@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: How Much Deposit Do I Need To Buy A Home?
 excerpt: >-
