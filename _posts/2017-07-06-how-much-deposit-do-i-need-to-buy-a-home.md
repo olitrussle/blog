@@ -15,6 +15,11 @@ _There’s no set amount of money you need for a deposit to buy a home. Most oft
 
 ![HowMuchDepositDoINeed]({{site.baseurl}}/images/post_images/HowMuchDepositDoINeed.jpg)
 
+[Loan to Value (LTV)](#loan-to-value-ltv)  
+[Deposits for the most competitive mortgage deals](#deposits-for-the-most-competitive-mortgage-deals)  
+[Help with a smaller deposit](#help-with-a-smaller-deposit)  
+
+
 ## Loan to Value (LTV)
 The amount you’ll need to borrow in relation to the value of your home is called the Loan to Value (LTV). For example, if your deposit is 5%, your LTV is 95%; if your deposit is 20%, your LTV is 80%.
 
