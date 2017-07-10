@@ -18,7 +18,7 @@ _Having worked for a big company over the past two years, Joe joins Trussle as a
 ## What made you want to join Trussle?
 I was attracted to the size and setup of Trussle - I wanted to join a smaller team so I could get more involved in the day to day life of the business, rather than just the technical side of things. I like being able to see the results of my work and getting feedback from the people using what I’ve helped make. This is hard when you’re in a big company, but it’s a big part of life at Trussle. I felt like a little cog in a very big wheel in my previous role, so it’s great to work on an emerging product in the existing field of mortgages, making changes that will benefit real people. 
 
-Maybe most importantly I liked the culture at Trussle too!
+Maybe most importantly, I liked the culture at Trussle too!
 
 ## What were you doing before joining Trussle?
 I was developing the software for a sports fitness tracking product and as part of the job I lived in Belgrade, Serbia for six months - that was an interesting experience! I went on my own but managed to learn about ten words the whole time I was there. Coming from western Europe it was a great way of life as living costs were so cheap, so I had a ball eating and drinking out all the time.  
