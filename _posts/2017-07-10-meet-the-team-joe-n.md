@@ -11,7 +11,7 @@ date: '2017-07-10 T00:00:00.000Z'
 ---
 ## Job title: Software Engineer
 
-_Having worked in a big company for the past two years, Joe joins Trussle as a software engineer keen to embrace the small company vibe (although at the rate we’re growing, this might not be the case for long!)._
+_Having worked for a big company over the past two years, Joe joins Trussle as a software engineer keen to embrace the small company vibe (although at the rate we’re growing, this might not be the case for long!)._
 
 ![MeetJoe]({{site.baseurl}}/images/post_images/MeetTheTeamJoe.jpg)
 
