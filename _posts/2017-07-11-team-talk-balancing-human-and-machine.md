@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Team Talk: Balancing Human And Machine'
 excerpt: >-
