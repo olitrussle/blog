@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 excerpt: >-
   Eligibility is determined by the mortgage lender, who will carry out checks to
