@@ -44,7 +44,7 @@ Trussle mortgage adviser Turon explains how mortgage eligibility works in practi
 
 {% include image/right.html filename="2ron.png" alt="Image of 2ron" %}
  
-> ‘There’s more to eligibility than simply recommending a mortgage deal - it’s important to look at all the angles. Two first-time buyers might both have a 10% deposit and a good income, but they won’t necessarily be eligible for the same mortgage deal if they’re buying two different types of property.’
+*‘There’s more to eligibility than simply recommending a mortgage deal - it’s important to look at all the angles. Two first-time buyers might both have a 10% deposit and a good income, but they won’t necessarily be eligible for the same mortgage deal if they’re buying two different types of property.’*
 
 ## Eligibility criteria and affordability checks
 The [Mortgage Market Review (MMR)](https://www.uswitch.com/mortgages/guides/mortgage-market-review/ "Mortgage Market Review") was launched in 2014 to change the regulatory rules around lending for mortgages. Lenders now have to undertake more stringent eligibility checks. Agreeing to a mortgage based purely on your salary is no longer possible - lenders now want to build up an idea of your financial situation by assessing your spending habits through affordability assessments. Lenders will ask more questions about your future plans as they want to make sure you’ll be able to continue to afford your mortgage payments if your financial situation changes, or if interest rates increase.
