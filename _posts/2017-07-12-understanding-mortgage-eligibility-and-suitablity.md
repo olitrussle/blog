@@ -2,15 +2,18 @@
 published: false
 layout: post
 excerpt: >-
-  How do you balance the power and speed of technology with the care and empathy
-  of a human? Jonny talks about the kinds of decisions we have to make around
-  this subject in Trussle’s Product Development Team.  
-thumbnail_filename: TheDevTeamSquare.jpg
+  Eligibility is determined by the mortgage lender, who will carry out checks to
+  assess whether or not they can lend to you. Suitability is determined by the
+  mortgage broker, who will recommend the most suitable mortgage deal for your
+  personal and financial circumstances.  
+thumbnail_filename: MortgageSuitabilityEligibilitySquare.jpg
 author: Lydia Bower
 date: '2017-07-12 T00:00:00.000Z'
 title: Understanding Mortgage Eligibility And Suitability
 ---
-When it comes to getting a mortgage, it’s important to understand the difference between mortgage eligibility and suitability. Eligibility is determined by the mortgage lender, who will carry out checks to assess whether or not they can lend to you. Suitability is determined by the mortgage broker, who will recommend the most suitable mortgage deal for your personal and financial circumstances. 
+_When it comes to getting a mortgage, it’s important to understand the difference between mortgage eligibility and suitability. Eligibility is determined by the mortgage lender, who will carry out checks to assess whether or not they can lend to you. Suitability is determined by the mortgage broker, who will recommend the most suitable mortgage deal for your personal and financial circumstances._
+
+![Mortgage Eligibility and Suitability]({{site.baseurl}}/images/post_images/MortgageSuitability.jpg)
 
 Here at Trussle, we break down the mortgage recommendation process into three steps:
 
