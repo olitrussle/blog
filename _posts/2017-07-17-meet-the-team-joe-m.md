@@ -17,10 +17,10 @@ Joe joins Trussle as a mortgage adviser, making the big move from Manchester to 
 I was working for the Co-Operative bank in Manchester as part of their mortgage advice team. I relocated to Manchester for the job but always knew I’d want to come back to London - I’m from here originally and all my friends and family are based here too. 
 
 ## What attracted you to Trussle?
-I liked the fact that Trussle was the first regulated online mortgage broker. Joining at this point - when it’s still a new concept - is really exciting and a great opportunity. I think everything will be moving online in the future and I’m pleased to be part of that in it’s infancy. 
+I liked the fact that Trussle was the first online mortgage broker in the UK. Joining at this point - when it’s still a new concept - is really exciting and a great opportunity. I think everything will be moving online in the future and I’m pleased to be part of that in it’s infancy. 
 
 ## How did you get into the mortgage field?
-I studied Marketing at Middlesex university but decided I didn’t want to go into Marketing once I finished. I fancied doing something more rewarding, and after a few people mentioned mortgages and finance I started a diploma in property development. Mortgages came up on the course and I enjoyed that side of things, so decided to study for my CEMAP (mortgage adviser qualification) and moved into the world of mortgage advising.  
+I studied Marketing at Middlesex university but decided I didn’t want to go into Marketing once I finished. I fancied doing something more people-based, and after a few people mentioned mortgages and finance I started a diploma in property development. Mortgages came up on the course and I enjoyed that side of things, so decided to study for my CEMAP (mortgage adviser qualification) and moved into the world of mortgage advising.  
 
 ## How do you spend your spare time?
 I go to the gym a lot and do a fair bit of boxing. 
