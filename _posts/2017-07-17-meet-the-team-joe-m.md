@@ -35,3 +35,7 @@ I wanted to be a footballer, but the dream was short lived once I realised how m
 
 ## If you weren’t a mortgage adviser, what would you be?
 Probably a teacher - I think I’m quite good at explaining things.
+
+_Inspired by Joe’s story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle vacancies") - we’d love to hear from you._
+
+
