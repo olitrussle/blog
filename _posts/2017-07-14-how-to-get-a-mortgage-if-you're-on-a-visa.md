@@ -20,7 +20,7 @@ _Getting a mortgage on a visa can be tricky due to restrictions placed on lender
 [What kind of mortgage rate can I expect on a visa?](#what-kind-of-mortgage-rate-can-i-expect-on-a-visa)  
 
 ## Lender requirements
-Alongside a sufficient [credit history](https://trussle.com/blog/getting-a-mortgage-with-bad-credit#how-to-improve-your-credit-score "Improve your credit score"), lenders will usually insist on a higher deposit than usual - generally 25% if you’re planning to use your income -  if you’re applying for a mortgage on a visa. If you meet the lender’s visa requirements, this may be less. 
+Alongside a sufficient [credit history](https://trussle.com/blog/getting-a-mortgage-with-bad-credit#how-to-improve-your-credit-score "Improve your credit score"), lenders will often insist on a higher deposit than usual - generally 25% if you’re planning to use your income -  if you’re applying for a mortgage on a visa. If you meet the lender’s visa requirements, this may be less. 
 
 Not all lenders will lend to those on visas. Some only lend to people with permanent residency, so it’s wise to use a mortgage broker to help you find a lender that suits your needs.    
 
