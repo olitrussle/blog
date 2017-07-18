@@ -6,11 +6,13 @@ excerpt: >-
   Getting a mortgage on a visa can be tricky due to restrictions placed on
   lenders, but there are a number of things that you can do to improve your
   chances of finding a suitable mortgage deal. 
-thumbnail_filename: MortgageSuitabilityEligibilitySquare.jpg
+thumbnail_filename: GettingMortgageOnVisaSquare.jpg
 author: Lydia Bower
 date: '2017-07-18 T00:00:00.000Z'
 ---
-Getting a mortgage on a visa can be tricky due to restrictions placed on lenders, but it’s still possible. There are a number of things that you can do to improve your chances of being accepted for a mortgage on a visa, including building up a credit history and a proof of address at least two years before applying for a mortgage. 
+_Getting a mortgage on a visa can be tricky due to restrictions placed on lenders, but it’s still possible. There are a number of things that you can do to improve your chances of being accepted for a mortgage on a visa, including building up a credit history and a proof of address at least two years before applying for a mortgage._ 
+
+![GettingMortgageOnVisa]({{site.baseurl}}/images/post_images/GettingMortgageOnVisa.jpg)
 
 [Lender requirements](#lender-requirements)  
 [Suitable lenders](#suitable-lenders)  
@@ -31,6 +33,7 @@ Different lenders have their own specific requirements, so if you don’t meet t
 Generally, the longer you’ve been living in the UK, the better your chances of being accepted for a mortgage. However, although you can’t change the amount of time you’ve been living in the UK, there are a few things you can do to improve your chances of being accepted for a mortgage on a visa. 
 
 - ### Build up your credit history
+
 Building up your credit history can drastically affect your chances of being accepted for a mortgage. It’s much harder to find a mortgage without a UK credit history. 
 
 You can build up your credit history by applying for a credit card and making sure your repayments are paid on time.
@@ -38,14 +41,17 @@ You can build up your credit history by applying for a credit card and making su
 Being registered to vote and having bills registered in your name also helps [build up your credit history](https://trussle.com/blog/getting-a-mortgage-with-bad-credit#how-to-improve-your-credit-score "Build up your credit history"). 
 
 - ### Build up your address history
+
 Lenders are also more likely to look favourably upon those with at least a two year UK address history. 
 
 Getting an address history set up and maintaining it is a simple way to give you more success finding a mortgage. You can build up your address history by opening two bank accounts upon arrival in the UK to establish two separate proofs of address history. 
 
 - ### Keep your income regular 
+
 A regular income is helpful when you’re applying for a mortgage regardless of whether you’re on a visa. If you can, staying with the same employer can also be a benefit. 
 
 - ### Apply with plenty of time left on your visa
+
 Having a longer period of time left on your visa when applying for a mortgage also increases your chances of being accepted. 
 
 ## What kind of mortgage rate can I expect on a visa? 
