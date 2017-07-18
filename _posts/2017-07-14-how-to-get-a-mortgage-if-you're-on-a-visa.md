@@ -8,12 +8,17 @@ excerpt: >-
   chances of finding a suitable mortgage deal. 
 thumbnail_filename: MortgageSuitabilityEligibilitySquare.jpg
 author: Lydia Bower
-date: '2017-07-14 T00:00:00.000Z'
+date: '2017-07-18 T00:00:00.000Z'
 ---
 Getting a mortgage on a visa can be tricky due to restrictions placed on lenders, but it’s still possible. There are a number of things that you can do to improve your chances of being accepted for a mortgage on a visa, including building up a credit history and a proof of address at least two years before applying for a mortgage. 
 
+[Lender requirements](#lender-requirements)  
+[Suitable lenders](#suitable-lenders)  
+[How can I improve my chances of being accepted for a mortgage?](#how-can-i-improve-my-chances-of-being-accepted-for-a-mortgage)  
+[What kind of mortgage rate can I expect on a visa?](#what-kind-of-mortgage-rate-can-i-expect-on-a-visa)  
+
 ## Lender requirements
-Alongside a sufficient [credit history](https://trussle.com/blog/getting-a-mortgage-with-bad-credit#how-to-improve-your-credit-score "Improve your credit score"), lenders will generally insist on a higher deposit than usual - generally 25% if you’re planning to use your income -  if you’re applying for a mortgage on a visa. If you meet the lender’s visa requirements, this may be less. 
+Alongside a sufficient [credit history](https://trussle.com/blog/getting-a-mortgage-with-bad-credit#how-to-improve-your-credit-score "Improve your credit score"), lenders will usually insist on a higher deposit than usual - generally 25% if you’re planning to use your income -  if you’re applying for a mortgage on a visa. If you meet the lender’s visa requirements, this may be less. 
 
 Not all lenders will lend to those on visas. Some only lend to people with permanent residency, so it’s wise to use a mortgage broker to help you find a lender that suits your needs.    
 
@@ -44,7 +49,7 @@ A regular income is helpful when you’re applying for a mortgage regardless of 
 Having a longer period of time left on your visa when applying for a mortgage also increases your chances of being accepted. 
 
 ## What kind of mortgage rate can I expect on a visa? 
-Although you should be able to access a reasonable number of mortgage deals when applying on a visa, it’s likely you won’t be eligible for the cheapest deals. Market leading rates tend to have more restrictive rules when it comes to who’s eligible for them.
+The number of deals you’re eligible for when applying for a mortgage is smaller, so you may not be eligible for some of the cheaper deals. Market leading rates tend to have more restrictive rules when it comes to who’s eligible for them.
 
 The restrictions tend to be around the amount of loan-to-value (LTV) you have access to - whilst those with permanent residency may be able to access deals of up to 95%, this is more difficult if you’re on a visa. 
 
