@@ -15,9 +15,7 @@ Getting a mortgage on a visa can be tricky due to restrictions placed on lenders
 ## Lender requirements
 Alongside a sufficient [credit history](https://trussle.com/blog/getting-a-mortgage-with-bad-credit#how-to-improve-your-credit-score "Improve your credit score"), lenders will generally insist on a higher deposit than usual - generally 25% if you’re planning to use your income -  if you’re applying for a mortgage on a visa. If you meet the lender’s visa requirements, this may be less. 
 
-Not all lenders will lend to those on visas. Some only lend to people with permanent residency, so it’s wise to use a mortgage broker to help you find a lender that suits your needs. 
-
-Securing a mortgage on a visa can be tricky, so using a mortgage broker is recommended. A broker will help you find the most suitable deal in your circumstances.   
+Not all lenders will lend to those on visas. Some only lend to people with permanent residency, so it’s wise to use a mortgage broker to help you find a lender that suits your needs.    
 
 ## Suitable lenders
 Halifax is a popular choice of lender for those on visas, and if you’re applying for a mortgage outside of the [EEA countries](https://www.gov.uk/eu-eea "list of EEA countries") there are certain requirements to meet. Many other lenders have similar requirements, typically stating that you can’t have diplomatic immunity and that your passport includes indefinite leave to remain. 
@@ -25,14 +23,14 @@ Halifax is a popular choice of lender for those on visas, and if you’re applyi
 Different lenders have their own specific requirements, so if you don’t meet the requirements of one, you may find another that better suits your circumstances. 
 
 ## How can I improve my chances of being accepted for a mortgage?
-Generally, the longer you’ve been living in the UK, the better your chances of being accepted for a mortgage. However, although you can’t change the amount of time you’ve been living in the UK, there are a few things you can do to make being accepted for a mortgage on a visa more likely. 
+Generally, the longer you’ve been living in the UK, the better your chances of being accepted for a mortgage. However, although you can’t change the amount of time you’ve been living in the UK, there are a few things you can do to improve your chances of being accepted for a mortgage on a visa. 
 
 - ### Build up your credit history
 Building up your credit history can drastically affect your chances of being accepted for a mortgage. It’s much harder to find a mortgage without a UK credit history. 
 
 You can build up your credit history by applying for a credit card and making sure your repayments are paid on time.
 
-Being registered to vote and having bills registered in your name also helps build up your credit history. 
+Being registered to vote and having bills registered in your name also helps [build up your credit history](https://trussle.com/blog/getting-a-mortgage-with-bad-credit#how-to-improve-your-credit-score "Build up your credit history"). 
 
 - ### Build up your address history
 Lenders are also more likely to look favourably upon those with at least a two year UK address history. 
@@ -46,12 +44,9 @@ A regular income is helpful when you’re applying for a mortgage regardless of 
 Having a longer period of time left on your visa when applying for a mortgage also increases your chances of being accepted. 
 
 ## What kind of mortgage rate can I expect on a visa? 
-You should be able to access standard mortgage rates with reasonable interest rates when applying for a mortgage on a visa. 
-
-However, it’s likely you won’t have access to the cheapest mortgage deals. Market leading rates tend to have more restrictive rules when it comes to who’s eligible for them.
+Although you should be able to access a reasonable number of mortgage deals when applying on a visa, it’s likely you won’t be eligible for the cheapest deals. Market leading rates tend to have more restrictive rules when it comes to who’s eligible for them.
 
 The restrictions tend to be around the amount of loan-to-value (LTV) you have access to - whilst those with permanent residency may be able to access deals of up to 95%, this is more difficult if you’re on a visa. 
 
 
-**Trying to find a mortgage on a visa?** Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta&utm_campaign=170503 "Get started with Trussle"). 
-
+**Trying to find a mortgage on a visa?** Get a quick, honest, and fee-free mortgage service from Trussle. [Get started here](https://trussle.com/?utm_source=blog&utm_medium=get-started-cta "Get started here").
