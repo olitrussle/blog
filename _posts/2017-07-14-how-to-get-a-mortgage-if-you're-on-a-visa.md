@@ -48,7 +48,7 @@ Getting an address history set up and maintaining it is a simple way to give you
 
 - ### Keep your income regular 
 
-A regular income is helpful when you’re applying for a mortgage regardless of whether you’re on a visa. If you can, staying with the same employer can also be a benefit. 
+A regular income is helpful when you’re applying for a mortgage regardless of whether you’re on a visa. If possible, staying with the same employer can also be a benefit. 
 
 - ### Apply with plenty of time left on your visa
 
