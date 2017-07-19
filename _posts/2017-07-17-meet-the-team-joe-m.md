@@ -3,8 +3,8 @@ published: true
 layout: post
 title: 'Meet The Team: Joe'
 excerpt: >-
-  Joe joins Trussle as a mortgage adviser, making the big move from Manchester
-  to London to become part of the Trussle revolution.  
+  Joe joins Trussle as a Customer Success Associate, making the big move from
+  Manchester to London to become part of the Trussle revolution.  
 thumbnail_filename: MeetJoeMSquare.jpg
 author: Lydia Bower
 date: '2017-07-17 T00:00:00.000Z'
