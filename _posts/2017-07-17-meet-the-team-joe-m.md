@@ -9,7 +9,7 @@ thumbnail_filename: MeetJoeMSquare.jpg
 author: Lydia Bower
 date: '2017-07-17 T00:00:00.000Z'
 ---
-Joe joins Trussle as a mortgage adviser, making the big move from Manchester to London to become part of the Trussle revolution. 
+Joe joins Trussle as a Customer Success Associate, making the big move from Manchester to London to become part of the Trussle revolution. 
 
 ![MeetJoe]({{site.baseurl}}/images/post_images/MeetJoeM.jpg)
 
@@ -37,5 +37,3 @@ I wanted to be a footballer, but the dream was short lived once I realised how m
 Probably a teacher - I think I’m quite good at explaining things.
 
 _Inspired by Joe’s story? We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle vacancies") - we’d love to hear from you._
-
-
