@@ -3,14 +3,15 @@ published: false
 layout: post
 title: Understanding the "true cost" of a mortgage
 excerpt: >-
-  Joe joins Trussle as a Customer Success Associate, making the big move from
-  Manchester to London to become part of the Trussle revolution.  
-thumbnail_filename: MeetJoeMSquare.jpg
+  The ‘true cost’ of a mortgage refers to the total cost of the mortgage over
+  the initial term, including any fees you may have to pay.  
+thumbnail_filename: TrueCostMortgageSquare.jpg
 author: Lydia Bower
 date: '2017-07-20 T00:00:00.000Z'
 ---
 _The ‘true cost’ of a mortgage refers to the total cost of the mortgage over the initial term, including any fees you may have to pay. Knowing the true cost of a mortgage is important before you choose a deal, as comparing deals based purely on the interest rate doesn’t give the full picture of the amount you’ll need to repay._ 
 
+![TrueCostMortgage]({{site.baseurl}}/images/post_images/TrueCostMortgage.jpg)
 
 ## What does ‘true cost’ mean?
 ‘True cost’ means the total cost of a mortgage over the initial term, taking into consideration both the fees you have to pay and the incentives the lender is offering - such as cashback, a free valuation, or free legal fees. After taking fees into account, a mortgage with a low rate may have a higher true cost than a deal with a higher rate. Although the lower rate deal would have smaller monthly repayments, the higher rate could work out cheaper if the fees were much lower. 
