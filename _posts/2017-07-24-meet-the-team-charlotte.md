@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 excerpt: >-
   Charlotte joined Trussle as our Office and Community Manager the week before
