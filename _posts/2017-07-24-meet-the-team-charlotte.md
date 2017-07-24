@@ -4,12 +4,14 @@ layout: post
 excerpt: >-
   Charlotte joined Trussle as our Office and Community Manager the week before
   we moved offices, and we already don’t know what we’d do without her!    
-thumbnail_filename: TrueCostMortgageSquare.jpg
+thumbnail_filename: CharlotteSquare.jpg
 author: Lydia Bower
 date: '2017-07-24 T00:00:00.000Z'
 title: 'Meet The Team: Charlotte'
 ---
-Charlotte joined Trussle as our Office and Community Manager the week before we moved offices, organising the entire move almost single-handedly. We already don’t know what we’d do without her!  
+Charlotte joined Trussle as our Office and Community Manager the week before we moved offices, organising the entire move almost single-handedly. We already don’t know what we’d do without her! 
+
+![Charlotte]({{site.baseurl}}/images/post_images/Charlotte.jpg)
 
 ## What were you doing before you joined Trussle?
 I was working as a freelance event coordinator, and I worked on everything from corporate exhibitions to private parties. I decided to move on as I was looking for a permanent role and wanted to work for a startup. I’d worked in-house before and missed the whole community and family feel, so I was keen to get back into the full-time office environment. I’m doing a similar role now, the main difference being that I’m booking people to move furniture rather than musicians!
