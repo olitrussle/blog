@@ -38,3 +38,5 @@ West London - Mayfair is my favourite place to go out, plus there’s some lovel
 
 ## Anything we’d be surprised to know?
 I drove rollercoasters as my first job. It was great fun as you can imagine - basically free rides every day! 
+
+_**Inspired by Joe’s story?** We’re hiring! [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle vacancies") - we’d love to hear from you._
