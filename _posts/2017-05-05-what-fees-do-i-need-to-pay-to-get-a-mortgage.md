@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: What Fees Do I Need To Pay To Get A Mortgage?
 excerpt: >-
