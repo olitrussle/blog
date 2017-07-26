@@ -12,11 +12,14 @@ date: '2017-05-05 T00:00:00.000Z'
 ---
 _When you take out a mortgage, the fees you have to pay to your mortgage lender may include a booking fee, an arrangement fee and a property valuation fee. You might have to pay other fees once your mortgage is in place, including an early repayment charge if you repay before your initial deal is over._
 
+[Summary of mortgage fees](#summary-of-mortgage-fees)
 [What fees will I pay to take out a mortgage?](#what-fees-will-i-pay-to-take-out-a-mortgage)  
 [What other fees are involved in buying a home?](#what-other-fees-are-involved-in-buying-a-home)  
-[What fees will I have to pay once the mortgage is in place?](#what-fees-will-i-have-to-pay-once-the-mortgage-is-in-place)  
-[Summary of mortgage fees](#summary-of-mortgage-fees)  
+[What fees will I have to pay once the mortgage is in place?](#what-fees-will-i-have-to-pay-once-the-mortgage-is-in-place)    
 [Using Trussle to find a mortgage](#using-trussle-to-find-a-mortgage)  
+
+## Summary of mortgage fees 
+![Summary of mortgage fees]({{site.baseurl}}/images/post_images/table3.png)
 
 ## What fees will I pay to take out a mortgage? 
 It’s important to take mortgage fees into account when you’re calculating the cost of buying a property. The fees you’ll have to pay and the amounts charged will vary depending on the lender and the mortgage deal, but these are some of the fees you’re likely to come across. 
@@ -71,15 +74,7 @@ If you repay your mortgage before your initial period is over (because you decid
 ### Mortgage exit fees
 Even once your initial period is over, when you close your mortgage account because you’ve paid off the loan or you’re switching to a new lender, your provider may charge you an exit fee. Typically, mortgage exit fees are between £50 and £300. 
 
-## Summary of mortgage fees 
-
-
-
 ## Using Trussle to find a mortgage 
 When you use Trussle to find a mortgage, we’ll look for a product based on your needs, and make a recommendation based on the overall cost during the initial term. We’ll take into account additional mortgage fees that can offset the savings of a lower interest rate, to make sure you’re getting the most suitable deal available. We’ll be clear about the fees you’ll need to pay your lender, and we won’t charge you a penny for using our services. 
 
-Use [Trussle](https://trussle.com/) to find a mortgage. 
-
-
-
-
+Use [Trussle](https://trussle.com/) to find a mortgage.
