@@ -16,7 +16,7 @@ Waiting for your mortgage offer to be approved can feel like waiting a lifetime 
 
 There are a number of factors that influence the amount of time it takes for your mortgage application to be accepted - the most significant being the lender you’re applying for a mortgage with, and the speed at which you respond to enquiries and provide your lender with the information they need. 
 
-[How does my lender decide whether to approve my mortgage? ](#how-does-my-lender-decide-whether-to-approve-my-mortgage-)  
+[How does my lender decide whether to approve my mortgage?](#how-does-my-lender-decide-whether-to-approve-my-mortgage)  
 [Why are lender’s timescales so different?](#why-are-lenders-timescales-so-different)  
 [How can I get my mortgage approved more quickly?](#how-can-i-get-my-mortgage-approved-more-quickly)  
 [Will I get an offer in time to secure my new home?](#will-i-get-an-offer-in-time-to-secure-my-new-home)  
