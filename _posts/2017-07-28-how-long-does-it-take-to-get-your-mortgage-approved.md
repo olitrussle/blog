@@ -3,20 +3,27 @@ published: false
 layout: post
 title: How Long Does It Take To Get Your Mortgage Approved?
 excerpt: >-
-  Waiting for your mortgage offer can take up to 40 days, and there are a number
-  of factors that influence the amount of time it takes for your application to
-  be accepted. 
+  Waiting for your mortgage offer can take up 8 weeks, and there are a number of
+  factors that influence the amount of time it takes for your application to be
+  accepted. 
 thumbnail_filename: CharlotteSquare.jpg
 author: Lydia Bower
 date: '2017-07-24 T00:00:00.000Z'
 ---
-Waiting for your mortgage offer to be approved can feel like waiting a lifetime - especially as some lenders can take up to 40 days to reach a decision.
+![Lenders timescales]({{site.baseurl}}/images/post_images/lenderstimelines.jpg)
+
+
+Waiting for your mortgage offer to be approved can feel like waiting a lifetime - especially as some specialist lenders can take up to 8 weeks to reach a decision.
 
 There are a number of factors that influence the amount of time it takes for your mortgage application to be accepted - the most significant being the lender you’re applying for a mortgage with, and the speed at which you respond to enquiries and provide your lender with the information they need. 
 
+[How does my lender decide whether to approve my mortgage? ](#how-does-my-lender-decide-whether-to-approve-my-mortgage-)  
+[Why are lender’s timescales so different?](#why-are-lenders-timescales-so-different)  
+[How can I get my mortgage approved more quickly?](#how-can-i-get-my-mortgage-approved-more-quickly)  
+[Will I get an offer in time to secure my new home?](#will-i-get-an-offer-in-time-to-secure-my-new-home)  
 
 ## How does my lender decide whether to approve my mortgage? 
-Your lender will check your application alongside the documents you’ve submitted to make sure the information you’ve given is correct. They’ll also carry out [affordability checks](https://trussle.com/blog/how-salary-affects-mortgage "affordability checks") and a [property valuation](https://trussle.com/blog/property-valuations-when-applying-for-a-mortgage "Property valuation") to make sure they agree with the amount they’re lending. 
+Your lender will check your application alongside the documents you’ve submitted to make sure the information you’ve given is correct. They’ll also look at your credit score, and carry out [affordability checks](https://trussle.com/blog/how-salary-affects-mortgage "affordability checks") and a [property valuation](https://trussle.com/blog/property-valuations-when-applying-for-a-mortgage "Property valuation") to make sure they agree with the amount they’re lending. 
 
 
 ## Why are lender’s timescales so different?
