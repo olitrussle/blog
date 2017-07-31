@@ -3,9 +3,9 @@ published: true
 layout: post
 title: How Long Does It Take To Get Your Mortgage Approved?
 excerpt: >-
-  Waiting for your mortgage offer can take up 8 weeks, and there are a number of
-  factors that influence the amount of time it takes for your application to be
-  accepted. 
+  Waiting for your mortgage offer can take up to 8 weeks, and there are a number
+  of factors that influence the amount of time it takes for your application to
+  be accepted. 
 thumbnail_filename: lenderstimelinessquare.jpg
 author: Lydia Bower
 date: '2017-07-31 T00:00:00.000Z'
