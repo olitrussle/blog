@@ -6,12 +6,11 @@ excerpt: >-
   Waiting for your mortgage offer can take up 8 weeks, and there are a number of
   factors that influence the amount of time it takes for your application to be
   accepted. 
-thumbnail_filename: CharlotteSquare.jpg
+thumbnail_filename: lenderstimelinessquare.jpg
 author: Lydia Bower
 date: '2017-07-24 T00:00:00.000Z'
 ---
 ![Lenders timescales]({{site.baseurl}}/images/post_images/lenderstimelines.jpg)
-
 
 Waiting for your mortgage offer to be approved can feel like waiting a lifetime - especially as some specialist lenders can take up to 8 weeks to reach a decision.
 
