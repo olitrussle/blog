@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Meet The Team: Ahmed'
 excerpt: >-
@@ -33,3 +33,5 @@ The people I work with. Also the fact that everyone’s very integrated - there�
 
 ## How did you get into mortgage advising?
 I randomly fell into it. I studied Economics at university in Kingston but didn’t know what I wanted to do when I finished. I knew I wanted to work in finance, and I had an interest in property, so mortgage advising was a good fit. Kingston uni emailed me with a few job opportunities, I went for one of them, and it went from there! 
+
+_**Inspired by Ahmed’s story? We’re hiring!** [Take a look at our vacancies](https://jobs.lever.co/trussle "Trussle vacancies") - we’d love to hear from you._
