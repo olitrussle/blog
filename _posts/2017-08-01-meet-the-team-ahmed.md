@@ -4,7 +4,7 @@ layout: post
 title: 'Meet The Team: Ahmed'
 excerpt: >-
   Ahmed has worked outside of London for five years, but wanted to join Trussle
-  even if it meant commuting by train rather than the comfort of his car.     
+  even if it means commuting by train rather than the comfort of his car.     
 thumbnail_filename: AhmedSquare.jpg
 author: Lydia Bower
 date: '2017-08-01 T00:00:00.000Z'
